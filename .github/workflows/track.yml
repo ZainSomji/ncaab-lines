@@ -1,0 +1,75 @@
+name: Track NCAAB lines
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 min (GitHub may run it a bit late)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: tracker
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install libraries
+        run: pip install --quiet requests beautifulsoup4 tzdata
+
+      - name: Load saved data (data branch)
+        run: |
+          if git fetch --depth 1 origin data 2>/dev/null; then
+            for f in ncaab_odds.db tracker_log.txt notes_cache.csv habits_cache.csv; do
+              git show "FETCH_HEAD:$f" > "$f" 2>/dev/null || rm -f "$f"
+            done
+          fi
+          ls -l
+
+      - name: Update lines and dashboard
+        id: run
+        continue-on-error: true
+        run: python cloud_run.py
+
+      - name: Save data (data branch)
+        run: |
+          mkdir -p /tmp/data
+          for f in ncaab_odds.db tracker_log.txt notes_cache.csv habits_cache.csv; do
+            [ -f "$f" ] && cp "$f" /tmp/data/
+          done
+          cd /tmp/data
+          git init -q -b data
+          git config user.name "ncaab-tracker"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "Tracker data $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" data
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+      - name: Fail if the update failed
+        if: steps.run.outcome == 'failure'
+        run: |
+          tail -20 tracker_log.txt
+          exit 1
