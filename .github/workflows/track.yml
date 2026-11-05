@@ -63,6 +63,23 @@ jobs:
           git commit -qm "Tracker data $(date -u +%Y-%m-%dT%H:%MZ)"
           git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" data
 
+      # livesportsbetting.vercel.app reads raw.githubusercontent.com/ZainSomji/ncaab-lines/main/index.html
+      - name: Publish index.html on main (for the LSB site)
+        continue-on-error: true
+        run: |
+          [ -f site/index.html ] || exit 0
+          git config user.name "ncaab-tracker"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            cp site/index.html index.html
+            git add index.html
+            git diff --cached --quiet && break
+            git commit -qm "Update dashboard"
+            git push -q origin HEAD:main && break
+            sleep 5
+          done
+
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
