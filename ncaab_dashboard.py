@@ -46,42 +46,45 @@ def norm(s: str) -> str:
     return " ".join(w for w in (swap.get(t, t) for t in s.split()) if w)
 
 
+def team_key(abbr, conf):
+    """Covers reuses abbreviations across divisions (FSU = Florida State and a D-III school),
+    so a team is identified by abbreviation + conference."""
+    return f"{(abbr or '').strip()}|{(conf or '').strip()}"
+
+
 def fill_team_names(rows: list[dict]) -> tuple[dict[str, str], dict[str, str]]:
     """Full names ("Montana State Bobcats") and school names ("Montana State") keyed by
-    Covers abbreviation (MTST). Covers' odds page only has abbreviations, so each game page
+    team_key(abbr, conference). Covers' odds page only has abbreviations, so each game page
     is read once per new team and the names are saved in the database."""
     con = db()
-    con.execute("CREATE TABLE IF NOT EXISTS team_names (abbr TEXT PRIMARY KEY, name TEXT)")
-    cols = [r[1] for r in con.execute("PRAGMA table_info(team_names)")]
-    if "school" not in cols:
-        con.execute("ALTER TABLE team_names ADD COLUMN school TEXT")
+    con.execute("CREATE TABLE IF NOT EXISTS team_names2 (key TEXT PRIMARY KEY, name TEXT, school TEXT)")
     names, schools = {}, {}
     try:  # seed from the saved Covers team list
         for t in csv.DictReader(io.StringIO(TEAM_MAP.read_text(encoding="utf-8"))):
-            if t.get("abbr") and t.get("name"):
-                names[t["abbr"]] = t["name"]
+            if t.get("abbr") and t.get("name") and t.get("conf"):
+                k = team_key(t["abbr"], t["conf"])
+                names[k] = t["name"]
                 if t.get("school"):
-                    schools[t["abbr"]] = t["school"]
+                    schools[k] = t["school"]
     except OSError:
         pass
-    for abbr, name, school in con.execute("SELECT abbr, name, school FROM team_names"):
-        names[abbr] = name
+    for k, name, school in con.execute("SELECT key, name, school FROM team_names2"):
+        names[k] = name
         if school:
-            schools[abbr] = school
+            schools[k] = school
 
-    def known(a):
-        return a in names and a in schools
+    def known(k):
+        return k in names and k in schools
 
     warned = ncaab_odds.__dict__.setdefault("_name_warned", set())  # survives dashboard reloads
     tried = 0
     for r in rows:
         if tried >= LOOKUPS_PER_RUN:
             break
-        if known(r["away"]) and known(r["home"]):
+        ka, kh = team_key(r["away"], r.get("away_conf")), team_key(r["home"], r.get("home_conf"))
+        if known(ka) and known(kh):
             continue
         tried += 1
-        if tried == 1:
-            print("Looking up full team names (first time only)...")
         try:
             resp = requests.get(MATCHUP_URL.format(r["game_id"]), headers=HEADERS, timeout=30)
             page = resp.text
@@ -99,23 +102,25 @@ def fill_team_names(rows: list[dict]) -> tuple[dict[str, str], dict[str, str]]:
         found, seen = [], set()
         for slug, text in SCHOOL_RE.findall(page):
             text = htmllib.unescape(text).strip()
-            if slug in seen or re.match(r"^[A-Z0-9&-]{2,6}\s", text):
+            if slug in seen or re.match(r"^[A-Z0-9&'.-]{2,7}(\s|$)", text):
                 continue
             seen.add(slug)
             found.append(text)
             if len(found) == 2:
                 break
-        for i, (abbr, name) in enumerate(((r["away"], m.group(1)), (r["home"], m.group(2)))):
+        for i, (k, name) in enumerate(((ka, m.group(1)), (kh, m.group(2)))):
             name = re.sub(r"\s+", " ", htmllib.unescape(name)).strip()
             school = found[i] if len(found) == 2 else None
             if school and not norm(name).startswith(norm(school)):
                 school = None  # page order didn't match; fall back to name matching
-            if abbr and name:
-                names[abbr] = name
+            if not school and len(name.split()) >= 2:
+                school = " ".join(name.split()[:-1])  # e.g. "BYU Cougars" -> "BYU"
+            if k and name:
+                names[k] = name
                 if school:
-                    schools[abbr] = school
-                con.execute("INSERT OR REPLACE INTO team_names (abbr, name, school) VALUES (?, ?, ?)",
-                            (abbr, name, school or schools.get(abbr)))
+                    schools[k] = school
+                con.execute("INSERT OR REPLACE INTO team_names2 (key, name, school) VALUES (?, ?, ?)",
+                            (k, name, school or schools.get(k)))
         con.commit()
     con.close()
     return names, schools
@@ -180,26 +185,28 @@ def build_dashboard(open_browser: bool = True) -> Path:
         if (h.get("covers_abbr") or "").strip():
             habits_by_abbr[h["covers_abbr"].strip().upper()] = h
 
-    def find_note(abbr):
+    def find_note(abbr, k):
         if abbr in by_abbr:
             return by_abbr[abbr]
-        school = schools.get(abbr)
+        school = schools.get(k)
         if school and norm(school) in by_name:
             return by_name[norm(school)]
-        full = norm(full_names.get(abbr, ""))
+        full = norm(full_names.get(k, ""))
         words = full.split()
         if len(words) >= 2 and " ".join(words[:-1]) in by_name:
             return by_name[" ".join(words[:-1])]
         if len(words) >= 3 and " ".join(words[-2:]) in TWO_WORD_MASCOTS and " ".join(words[:-2]) in by_name:
             return by_name[" ".join(words[:-2])]
+        if k in full_names:
+            return None  # we know who this is and no note matches it
         return by_name.get(norm(abbr))
 
-    def habit_for(abbr, note):
+    def habit_for(abbr, note, k=""):
         h = habits_by_abbr.get(abbr)
         if not h and note:
             h = habits_by_name.get(norm(note.get("team")))
-        if not h and schools.get(abbr):
-            h = habits_by_name.get(norm(schools[abbr]))
+        if not h and schools.get(k):
+            h = habits_by_name.get(norm(schools[k]))
         if not h or (_num(h.get("games_logged")) == 0 and _num(h.get("no_foul_logged")) == 0):
             return None
         keys = ("games_logged", "avg_time_left_sec", "avg_down_by", "earliest_start_sec",
@@ -210,12 +217,13 @@ def build_dashboard(open_browser: bool = True) -> Path:
         reasons = []
         for side in ("away", "home"):
             abbr = r[side]
-            note = find_note(abbr)
-            r[f"{side}_name"] = full_names.get(abbr) or (note or {}).get("team") or abbr
+            k = team_key(abbr, r.get(f"{side}_conf"))
+            note = find_note(abbr, k)
+            r[f"{side}_name"] = full_names.get(k) or (note or {}).get("team") or abbr
             r[f"{side}_notes"] = (note or {}).get("notes", "").strip()
             r[f"{side}_tag"] = ((note or {}).get("tag") or "").strip().upper()
             r[f"{side}_note_team"] = (note or {}).get("team") or ""
-            r[f"{side}_habit"] = habit_for(abbr, note)
+            r[f"{side}_habit"] = habit_for(abbr, note, k)
             if "DO NOT BET" in [x.strip() for x in re.split(r"[;,]", r[f"{side}_tag"])]:
                 reasons.append(r[f"{side}_note_team"] or abbr)
             conf = by_conf.get(norm(r.get(f"{side}_conf") or ""))
