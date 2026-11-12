@@ -273,6 +273,29 @@ def _consensus_line(lines: list[float]) -> float:
     return round(statistics.median(lines) * 2) / 2  # split books -> median, nearest half point
 
 
+def _juice_gap(q: dict) -> float:
+    """How far a two-sided price is from even money: 0 for -110/-110 (or +100/+100),
+    large for -200/+160. Uses the gap between the two sides' decimal odds."""
+    return abs(_am_to_dec(q["away"]) - _am_to_dec(q["home"]))
+
+
+def _even_money_line(quotes: list[dict]) -> float:
+    """Pick the spread/total number priced closest to even money, so a stale number hung
+    at -200 doesn't win just because two books still show it. Ties go to the number more
+    books are on, then to the middle number."""
+    by_line: dict[float, list[dict]] = {}
+    for q in quotes:
+        by_line.setdefault(q["line"], []).append(q)
+    ranked = sorted(by_line.items(),
+                    key=lambda kv: (round(min(_juice_gap(q) for q in kv[1]), 2), -len(kv[1])))
+    best_gap = round(min(_juice_gap(q) for q in ranked[0][1]), 2)
+    tied = [ln for ln, qs in ranked
+            if round(min(_juice_gap(q) for q in qs), 2) == best_gap and len(qs) == len(ranked[0][1])]
+    if len(tied) == 1:
+        return tied[0]
+    return round(statistics.median(tied) * 2) / 2
+
+
 def _market_avg(books: dict, market: str, sharp: list[str]):
     """Average one market over the sharp books; fall back to all books. Returns (dict, source)."""
     sharp_l = {b.lower() for b in sharp}
@@ -286,7 +309,7 @@ def _market_avg(books: dict, market: str, sharp: list[str]):
         if market == "moneyline":
             return {"away": _avg_price([q["away"] for q in quotes.values()]),
                     "home": _avg_price([q["home"] for q in quotes.values()])}, src
-        line = _consensus_line([q["line"] for q in quotes.values()])
+        line = _even_money_line(list(quotes.values()))
         at = [q for q in quotes.values() if q["line"] == line] or list(quotes.values())
         return {"line": line,
                 "away": _avg_price([q["away"] for q in at]),
