@@ -191,7 +191,21 @@ def _parse_tip(label: str, now: datetime) -> str | None:
     return datetime(d.year, d.month, d.day, hh, mm, tzinfo=ET).isoformat()
 
 
+REJECTED: list[dict] = []  # quotes thrown out by the last parse_board() call
+
+
+def _real_market(a: int, b: int) -> bool:
+    """A two-sided price a book could actually offer: the implied probabilities add up to
+    roughly 100% plus a normal margin. -110/-110 = 104.8%; -190/-190 = 131% is not real."""
+    try:
+        tot = 1 / _am_to_dec(a) + 1 / _am_to_dec(b)
+    except ZeroDivisionError:
+        return False
+    return 0.97 <= tot <= 1.12
+
+
 def parse_board(html: str, now: datetime | None = None) -> dict[str, dict]:
+    REJECTED.clear()
     now = now or datetime.now(ET)
     soup = BeautifulSoup(html, "html.parser")
     games: dict[str, dict] = {}
@@ -248,6 +262,12 @@ def parse_board(html: str, now: datetime | None = None) -> dict[str, dict]:
                 a_line, a_px = _cell_values(td.select_one(".away-cell"), market)
                 h_line, h_px = _cell_values(td.select_one(".home-cell"), market)
                 if a_px is None or h_px is None:
+                    continue
+                if not _real_market(a_px, h_px):
+                    # e.g. -190/-190: not a real two-sided price (Covers sometimes serves a
+                    # page variant whose cells don't hold the book's current line)
+                    REJECTED.append({"game": gid, "book": td.get("data-book"), "market": market,
+                                     "away": a_px, "home": h_px, "html": str(td)[:4000]})
                     continue
                 g["books"].setdefault(td["data-book"], {})[market] = {
                     "line": a_line, "away": a_px, "home": h_px}
@@ -381,6 +401,60 @@ def first_line(con, game_id):
     return out
 
 
+def clean_bad_history() -> str | None:
+    """One-time repair: drop snapshots taken from Covers' broken page variant (impossible
+    two-sided prices) and re-derive each affected game's closing line from its last good
+    snapshot. Runs once; a marker row records that it has been done."""
+    con = db()
+    con.execute("CREATE TABLE IF NOT EXISTS migrations (name TEXT PRIMARY KEY, done_at TEXT)")
+    if con.execute("SELECT 1 FROM migrations WHERE name='bad_quotes_v1'").fetchone():
+        con.close()
+        return None
+
+    def bad_ml(a, h):
+        return a is not None and h is not None and not _real_market(int(a), int(h))
+
+    rows = con.execute("SELECT rowid, game_id, taken_at, away_ml, home_ml FROM line_history").fetchall()
+    per_time: dict[str, list[bool]] = {}
+    for _, _, t, a, h in rows:
+        if a is not None and h is not None:
+            per_time.setdefault(t[:16], []).append(bad_ml(a, h))
+    bad_times = {t for t, flags in per_time.items() if sum(flags) > len(flags) / 3}
+    del_ids = [rid for rid, _, t, a, h in rows if t[:16] in bad_times or bad_ml(a, h)]
+    con.executemany("DELETE FROM line_history WHERE rowid=?", [(i,) for i in del_ids])
+
+    fixed = 0
+    for gid, last_pre, src, sa, sh, oa, oh, ma, mh in con.execute(
+            "SELECT game_id, last_pregame_at, close_source, close_away_spread_price, "
+            "close_home_spread_price, close_over_price, close_under_price, close_away_ml, "
+            "close_home_ml FROM games").fetchall():
+        suspect = (src == "all books" or (last_pre and last_pre[:16] in bad_times)
+                   or (sa is not None and sh is not None and not _real_market(sa, sh))
+                   or (oa is not None and oh is not None and not _real_market(oa, oh))
+                   or bad_ml(ma, mh))
+        if not suspect:
+            continue
+        r = con.execute("SELECT away_spread, total, away_ml, home_ml FROM line_history "
+                        "WHERE game_id=? AND taken_at<=? ORDER BY taken_at DESC LIMIT 1",
+                        (gid, last_pre or "9999")).fetchone()
+        sp, tot, aml, hml = r if r else (None, None, None, None)
+        con.execute("""UPDATE games SET close_away_spread=?, close_home_spread=?,
+                       close_away_spread_price=NULL, close_home_spread_price=NULL,
+                       close_total=?, close_over_price=NULL, close_under_price=NULL,
+                       close_away_ml=?, close_home_ml=?, close_source=?
+                       WHERE game_id=?""",
+                    (sp, -sp if sp is not None else None, tot, aml, hml,
+                     "repaired from history" if r else None, gid))
+        fixed += 1
+    con.execute("INSERT INTO migrations VALUES ('bad_quotes_v1', ?)",
+                (datetime.now(ET).isoformat(timespec="seconds"),))
+    con.commit()
+    con.close()
+    rebuild_opens()
+    return (f"Removed {len(del_ids)} bad snapshot rows ({len(bad_times)} bad page loads); "
+            f"repaired the closing line of {fixed} games.")
+
+
 def rebuild_opens() -> int:
     """Recalculate opening lines and line moves for every saved game from the tracker's
     own history. Safe to run any number of times."""
@@ -450,6 +524,12 @@ def record(games: dict[str, dict], sharp: list[str]) -> tuple[int, int]:
         c = closing_from_board(g, sharp)
         if not c.get("close_source"):
             continue  # no odds posted yet
+        old = con.execute(f"SELECT {','.join(CLOSE_COLS)} FROM games WHERE game_id=?",
+                          (g["game_id"],)).fetchone()
+        if old:  # a market missing from this snapshot keeps its last good value
+            for k, v in zip(CLOSE_COLS, old):
+                if c.get(k) is None and v is not None:
+                    c[k] = v
         con.execute("INSERT INTO line_history VALUES (?,?,?,?,?,?)",
                     (g["game_id"], now, c.get("close_away_spread"), c.get("close_total"),
                      c.get("close_away_ml"), c.get("close_home_ml")))
@@ -643,6 +723,14 @@ def refresh_dashboard() -> None:
 def snapshot(sharp: list[str], use_browser: bool) -> None:
     html = fetch_html(use_browser)
     games = parse_board(html)
+    if REJECTED:
+        log(f"[warn] ignored {len(REJECTED)} impossible quotes (e.g. {REJECTED[0]['book']} "
+            f"{REJECTED[0]['market']} {REJECTED[0]['away']}/{REJECTED[0]['home']})")
+        try:
+            Path(DB_PATH).with_name("last_rejected.json").write_text(
+                json.dumps(REJECTED[:40], indent=1), encoding="utf-8")
+        except Exception:
+            pass
     try:  # keep the latest per-book quotes so odd numbers can be checked later
         Path(DB_PATH).with_name("last_board.json").write_text(
             json.dumps(games, indent=1, default=str), encoding="utf-8")

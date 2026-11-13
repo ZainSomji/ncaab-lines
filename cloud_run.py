@@ -9,6 +9,12 @@ import ncaab_odds as n
 HERE = Path(__file__).parent
 ok = True
 try:
+    msg = n.clean_bad_history()
+    if msg:
+        n.log(msg)
+except Exception as e:
+    n.log(f"[warn] cleanup failed: {e}")
+try:
     n.snapshot(n.SHARP_BOOKS, False)
 except Exception as e:  # still rebuild the page so it shows how stale the data is
     n.log(f"[error] {e}")
