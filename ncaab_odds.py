@@ -36,6 +36,7 @@ from __future__ import annotations
 import argparse
 import csv
 import io
+import json
 import re
 import sqlite3
 import statistics
@@ -640,7 +641,16 @@ def refresh_dashboard() -> None:
 
 
 def snapshot(sharp: list[str], use_browser: bool) -> None:
-    games = parse_board(fetch_html(use_browser))
+    html = fetch_html(use_browser)
+    games = parse_board(html)
+    try:  # keep the latest per-book quotes so odd numbers can be checked later
+        Path(DB_PATH).with_name("last_board.json").write_text(
+            json.dumps(games, indent=1, default=str), encoding="utf-8")
+        i = html.find('id="spread-table"')
+        k = html.find("data-book=", i)
+        Path(DB_PATH).with_name("last_board_sample.html").write_text(html[k:k + 6000], encoding="utf-8")
+    except Exception:
+        pass
     up, cl = record(games, sharp)
     ms = getattr(record, "missed", 0)
     ts = datetime.now(ET).strftime("%H:%M:%S ET")
