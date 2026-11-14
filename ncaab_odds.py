@@ -193,6 +193,16 @@ def _parse_tip(label: str, now: datetime) -> str | None:
 
 REJECTED: list[dict] = []  # quotes thrown out by the last parse_board() call
 
+# Prediction markets / exchanges list contract prices in cents and odd alternate lines;
+# they are not sportsbook lines and are never used.
+BLOCKED_BOOKS = ("kalshi", "polymarket", "novig", "prophetx", "prophet exchange", "sporttrade",
+                 "betfair exchange", "crypto.com")
+
+
+def _blocked_book(name: str) -> bool:
+    n = (name or "").lower()
+    return any(b in n for b in BLOCKED_BOOKS)
+
 
 def _real_market(a: int, b: int) -> bool:
     """A two-sided price a book could actually offer: the implied probabilities add up to
@@ -218,7 +228,8 @@ def parse_board(html: str, now: datetime | None = None) -> dict[str, dict]:
             print(f"[warn] #{table_id} not found - page layout may have changed", file=sys.stderr)
             continue
         for row in table.select("tbody tr.oddsGameRow"):
-            book_tds = [td for td in row.find_all("td", recursive=False) if td.get("data-book")]
+            book_tds = [td for td in row.find_all("td", recursive=False)
+                        if td.get("data-book") and not _blocked_book(td.get("data-book"))]
             gid = next((td.get("data-game") for td in book_tds if td.get("data-game")), None)
             if not gid:
                 link = row.select_one(".teams-div a[href*='/matchup/']")
@@ -455,6 +466,53 @@ def clean_bad_history() -> str | None:
             f"repaired the closing line of {fixed} games.")
 
 
+def clean_kalshi_history() -> str | None:
+    """One-time repair: remove snapshots saved from page loads that carried Kalshi quotes
+    (the log marks those runs with "ignored N impossible quotes") and re-derive affected
+    closing lines from the last remaining snapshot."""
+    con = db()
+    con.execute("CREATE TABLE IF NOT EXISTS migrations (name TEXT PRIMARY KEY, done_at TEXT)")
+    if con.execute("SELECT 1 FROM migrations WHERE name='kalshi_v2'").fetchone():
+        con.close()
+        return None
+    bad_min = set()
+    try:
+        for line in LOG_PATH.read_text(encoding="utf-8").splitlines():
+            if "[warn] ignored" in line and "impossible quotes" in line:
+                t = datetime.strptime(line[:16], "%Y-%m-%d %H:%M")
+                for d in (-1, 0, 1):
+                    bad_min.add((t + timedelta(minutes=d)).strftime("%Y-%m-%dT%H:%M"))
+    except OSError:
+        pass
+    rows = con.execute("SELECT rowid, taken_at FROM line_history").fetchall()
+    del_ids = [rid for rid, t in rows if t[:16] in bad_min]
+    con.executemany("DELETE FROM line_history WHERE rowid=?", [(i,) for i in del_ids])
+    fixed = 0
+    for gid, last_pre, src in con.execute(
+            "SELECT game_id, last_pregame_at, close_source FROM games").fetchall():
+        if not ((last_pre and last_pre[:16] in bad_min) or "all books" in (src or "")):
+            continue
+        r = con.execute("SELECT away_spread, total, away_ml, home_ml, taken_at FROM line_history "
+                        "WHERE game_id=? AND taken_at<=? ORDER BY taken_at DESC LIMIT 1",
+                        (gid, last_pre or "9999")).fetchone()
+        sp, tot, aml, hml, t = r if r else (None, None, None, None, None)
+        con.execute("""UPDATE games SET close_away_spread=?, close_home_spread=?,
+                       close_away_spread_price=NULL, close_home_spread_price=NULL,
+                       close_total=?, close_over_price=NULL, close_under_price=NULL,
+                       close_away_ml=?, close_home_ml=?, close_source=?,
+                       last_pregame_at=COALESCE(?, last_pregame_at) WHERE game_id=?""",
+                    (sp, -sp if sp is not None else None, tot, aml, hml,
+                     "repaired from history" if r else None, t, gid))
+        fixed += 1
+    con.execute("INSERT INTO migrations VALUES ('kalshi_v2', ?)",
+                (datetime.now(ET).isoformat(timespec="seconds"),))
+    con.commit()
+    con.close()
+    rebuild_opens()
+    return (f"Kalshi cleanup: removed {len(del_ids)} snapshot rows from {len(bad_min) // 3} "
+            f"Kalshi page loads; repaired {fixed} games.")
+
+
 def rebuild_opens() -> int:
     """Recalculate opening lines and line moves for every saved game from the tracker's
     own history. Safe to run any number of times."""
@@ -524,6 +582,13 @@ def record(games: dict[str, dict], sharp: list[str]) -> tuple[int, int]:
         c = closing_from_board(g, sharp)
         if not c.get("close_source"):
             continue  # no odds posted yet
+        old_src = con.execute("SELECT close_source FROM games WHERE game_id=?",
+                              (g["game_id"],)).fetchone()
+        sharp_l = {b.lower() for b in sharp}
+        def _main(src):
+            return any(x.strip().lower() in sharp_l for x in re.split(r"[,|]", src or ""))
+        if old_src and _main(old_src[0]) and not _main(c["close_source"]):
+            continue  # this page load had none of the main books: keep their last line
         old = con.execute(f"SELECT {','.join(CLOSE_COLS)} FROM games WHERE game_id=?",
                           (g["game_id"],)).fetchone()
         if old:  # a market missing from this snapshot keeps its last good value

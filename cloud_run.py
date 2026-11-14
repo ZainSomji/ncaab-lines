@@ -9,9 +9,10 @@ import ncaab_odds as n
 HERE = Path(__file__).parent
 ok = True
 try:
-    msg = n.clean_bad_history()
-    if msg:
-        n.log(msg)
+    for fix in (n.clean_bad_history, n.clean_kalshi_history):
+        msg = fix()
+        if msg:
+            n.log(msg)
 except Exception as e:
     n.log(f"[warn] cleanup failed: {e}")
 try:
