@@ -1,0 +1,105 @@
+team,covers_abbr,games_logged,avg_time_left_sec,avg_down_by,earliest_start_sec,sec_left_per_point_down,no_foul_logged
+Alabama A&M,,1,48.0,11.0,48.0,4.4,0
+Albany,,1,47.0,8.0,47.0,5.9,0
+Alcorn State,,2,29.0,11.0,38.0,2.6,0
+American,,1,61.0,5.0,61.0,12.2,0
+Arizona State,,1,130.0,9.0,130.0,14.4,1
+Arkansas,,1,22.0,10.0,22.0,2.2,0
+Arkansas-Pine Bluff,,1,25.0,14.0,25.0,1.8,0
+Belmont,,1,12.0,11.0,12.0,1.1,0
+Bethune-Cookman,,1,45.0,11.0,45.0,4.1,1
+Boston College,,1,16.0,8.0,16.0,2.0,1
+Bowling Green,,1,30.0,8.0,30.0,3.8,0
+Brown,,2,14.5,10.0,26.0,1.5,0
+BYU,,2,141.5,14.5,180.0,10.5,0
+Cal State Bakersfield,,1,76.0,8.0,76.0,9.5,0
+Canisius,,1,17.0,11.0,17.0,1.5,0
+Central Connecticut,,1,12.0,10.0,12.0,1.2,0
+Charlotte,,2,21.5,8.0,30.0,2.7,0
+Chicago State,,0,,,,,1
+Clemson,,1,40.0,10.0,40.0,4.0,1
+Colorado,,0,,,,,1
+Cornell,,1,16.0,8.0,16.0,2.0,0
+DePaul,,2,51.5,11.0,71.0,4.7,0
+Drake,,1,40.0,9.0,40.0,4.4,0
+Eastern Illinois,,2,21.5,9.5,25.0,2.3,0
+Eastern Michigan,,2,38.0,11.0,53.0,3.5,0
+Fairleigh Dickinson,,1,30.0,14.0,30.0,2.1,0
+FIU,,1,11.0,10.0,11.0,1.1,0
+Florida A&M,,1,41.0,13.0,41.0,3.2,0
+Florida State,,5,76.2,6.6,180.0,11.1,0
+Fresno State,,2,65.0,10.5,75.0,6.5,2
+George Washington,,2,75.0,12.0,90.0,6.3,0
+Georgia State,,1,10.0,8.0,10.0,1.3,0
+Georgia Tech,,1,18.0,7.0,18.0,2.6,0
+Green Bay,,1,74.0,9.0,74.0,8.2,0
+Hawaii,,2,24.5,9.5,38.0,2.4,0
+Holy Cross,,1,54.0,14.0,54.0,3.9,1
+Houston Christian,,0,,,,,0
+Idaho,,2,13.0,8.0,20.0,1.5,1
+Idaho State,,1,6.0,5.0,6.0,1.2,0
+Indiana,,2,51.5,11.0,71.0,4.7,0
+Iowa,,1,30.0,11.0,30.0,2.7,1
+IU Indianapolis,,1,10.0,9.0,10.0,1.1,0
+Kansas,,1,35.0,11.0,35.0,3.2,1
+La Salle,,0,,,,,1
+Liberty,,0,,,,,1
+Long Beach State,,1,68.0,10.0,68.0,6.8,0
+Louisiana Tech,,1,60.0,6.0,60.0,10.0,0
+Louisville,,1,,12.0,,,0
+Loyola Maryland,,1,20.0,8.0,20.0,2.5,0
+Manhattan,,1,10.0,8.0,10.0,1.3,0
+Marshall,,1,105.0,8.0,105.0,13.1,0
+McNeese,,0,,,,,1
+Michigan,,5,78.0,9.3,128.0,7.8,1
+Michigan State,,1,70.0,8.0,70.0,8.8,0
+Milwaukee,,1,71.0,11.0,71.0,6.5,0
+Mississippi State,,0,,,,,1
+Montana State,MTST,1,,14.0,,,1
+Nevada,,3,57.7,11.0,90.0,5.2,0
+New Mexico,,1,150.0,12.0,150.0,12.5,0
+New Mexico State,,1,24.0,9.0,24.0,2.7,1
+Northern Arizona,,0,,,,,1
+Northwestern,,0,,,,,1
+Northwestern State,,0,,,,,2
+Ohio State,,1,30.0,10.0,30.0,3.0,0
+Penn State,,1,44.0,9.0,44.0,4.9,0
+Portland,,1,40.0,15.0,40.0,2.7,0
+Portland State,,1,24.0,10.0,24.0,2.4,0
+Princeton,,0,,,,,2
+Providence,,1,13.0,7.0,13.0,1.9,0
+Purdue,,2,41.0,10.5,53.0,4.0,0
+Rice,,1,8.0,15.0,8.0,0.5,0
+Rider,,0,,,,,1
+Sacramento State,,2,53.0,10.5,53.0,4.4,0
+Saint Mary's,,0,,,,,1
+San Diego State,,1,60.0,7.0,60.0,8.6,0
+San Jose State,,0,,,,,2
+Seattle,,2,46.5,11.0,55.0,4.3,0
+Seton Hall,,1,58.0,14.0,58.0,4.1,0
+South Dakota,,1,,18.0,,,0
+Southern,,0,,,,,1
+Southern Illinois,,0,,,,,1
+Stetson,,1,,12.0,,,0
+Syracuse,,0,,,,,1
+Tarleton State,,1,,13.0,,,0
+Texas A&M-Corpus Christi,,1,20.0,10.0,20.0,2.0,0
+Texas Southern,,1,,8.0,,,0
+Towson,,2,8.0,7.5,9.0,1.1,0
+UAB,,2,78.0,9.5,80.0,8.4,0
+UC Irvine,,0,,,,,1
+UC Riverside,,0,,,,,1
+UC Santa Barbara,,1,15.0,8.0,15.0,1.9,0
+UNC Greensboro,,3,17.7,10.0,30.0,1.8,0
+UNLV,,0,,,,,1
+USC Upstate,,0,,,,,2
+UTEP,UTEP,1,56.0,8.0,56.0,7.0,0
+Vermont,,1,30.0,11.0,30.0,2.7,0
+VMI,,0,,,,,2
+Wagner,,0,,,,,1
+Washington,,1,25.0,9.0,25.0,2.8,2
+Wofford,,2,55.0,11.0,60.0,5.1,0
+Wright State,,1,,12.0,,,0
+Wyoming,,1,90.0,10.0,90.0,9.0,0
+Xavier,,1,81.0,12.0,81.0,6.8,0
+Youngstown State,,1,99.0,12.0,99.0,8.3,0

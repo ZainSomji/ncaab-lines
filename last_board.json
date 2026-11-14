@@ -1,0 +1,9656 @@
+{
+ "394931": {
+  "game_id": "394931",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 575,
+     "home": -901
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 155.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 600,
+     "home": -900
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 156.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 600,
+     "home": -900
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 155.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 610,
+     "home": -950
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 155.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 575,
+     "home": -850
+    },
+    "spread": {
+     "line": 12.0,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 155.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 600,
+     "home": -1000
+    },
+    "spread": {
+     "line": 13.5,
+     "away": -118,
+     "home": -106
+    },
+    "total": {
+     "line": 155.5,
+     "away": -110,
+     "home": -113
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 600,
+     "home": -901
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 155.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 550,
+     "home": -900
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 155.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 600,
+     "home": -1000
+    },
+    "spread": {
+     "line": 13.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 155.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 573,
+   "home_ml": -847,
+   "away_spread": 12.5,
+   "home_spread": -12.5,
+   "total": 155.5
+  },
+  "away": "TULN",
+  "home": "AKR",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "AAC",
+  "home_conf": "MAC",
+  "status": "pre",
+  "tip_et": "2026-11-14T12:00:00-05:00"
+ },
+ "384206": {
+  "game_id": "384206",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": -375,
+     "home": 290
+    },
+    "spread": {
+     "line": -8.5,
+     "away": -102,
+     "home": -118
+    },
+    "total": {
+     "line": 146.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": -370,
+     "home": 290
+    },
+    "spread": {
+     "line": -8.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 146.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": -355,
+     "home": 280
+    },
+    "spread": {
+     "line": -8.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 147.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": -365,
+     "home": 285
+    },
+    "spread": {
+     "line": -8.5,
+     "away": -106,
+     "home": -114
+    },
+    "total": {
+     "line": 146.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": -375,
+     "home": 290
+    },
+    "spread": {
+     "line": -8.0,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 147.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -385,
+     "home": 285
+    },
+    "spread": {
+     "line": -7.5,
+     "away": -120,
+     "home": -105
+    },
+    "total": {
+     "line": 147.5,
+     "away": -108,
+     "home": -115
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": -355,
+     "home": 278
+    },
+    "spread": {
+     "line": -6.5,
+     "away": -140,
+     "home": 110
+    },
+    "total": {
+     "line": 147.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -360,
+     "home": 280
+    },
+    "spread": {
+     "line": -7.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 147.5,
+     "away": 100,
+     "home": -120
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -375,
+     "home": 275
+    },
+    "spread": {
+     "line": -7.5,
+     "away": -120,
+     "home": -105
+    },
+    "total": {
+     "line": 147.5,
+     "away": -105,
+     "home": -115
+    }
+   }
+  },
+  "open": {
+   "away_ml": -372,
+   "home_ml": 292,
+   "away_spread": -7.5,
+   "home_spread": 7.5,
+   "total": 148.0
+  },
+  "away": "STT",
+  "home": "ARMY",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Summit League",
+  "home_conf": "Patriot League",
+  "status": "pre",
+  "tip_et": "2026-11-14T13:00:00-05:00"
+ },
+ "384607": {
+  "game_id": "384607",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": -170,
+     "home": 140
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 129.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": -165,
+     "home": 140
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 129.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": -170,
+     "home": 142
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 129.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": -172,
+     "home": 142
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -118,
+     "home": -104
+    },
+    "total": {
+     "line": 129.5,
+     "away": -118,
+     "home": -104
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": -170,
+     "home": 140
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 129.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -177,
+     "home": 138
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -105,
+     "home": -120
+    },
+    "total": {
+     "line": 130.5,
+     "away": 100,
+     "home": -122
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": -170,
+     "home": 143
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 129.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -165,
+     "home": 140
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 129.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -175,
+     "home": 140
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -105,
+     "home": -120
+    },
+    "total": {
+     "line": 130.5,
+     "away": 100,
+     "home": -120
+    }
+   }
+  },
+  "open": {
+   "away_ml": -155,
+   "home_ml": 130,
+   "away_spread": -2.5,
+   "home_spread": 2.5,
+   "total": 130.5
+  },
+  "away": "DREX",
+  "home": "ME",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "CAA",
+  "home_conf": "AE",
+  "status": "pre",
+  "tip_et": "2026-11-14T13:00:00-05:00"
+ },
+ "388541": {
+  "game_id": "388541",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 3300,
+     "home": -10000
+    },
+    "spread": {
+     "line": 40.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 40000,
+     "home": -100000
+    },
+    "spread": {
+     "line": 40.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "spread": {
+     "line": 40.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "spread": {
+     "line": 40.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "FanDuel": {
+    "spread": {
+     "line": 40.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 142.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "BetRivers": {
+    "spread": {
+     "line": 40.5,
+     "away": -112,
+     "home": -112
+    },
+    "total": {
+     "line": 143.5,
+     "away": -117,
+     "home": -107
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 40.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "spread": {
+     "line": 40.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 144.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "spread": {
+     "line": 40.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -115,
+     "home": -105
+    }
+   }
+  },
+  "open": {
+   "away_spread": 40.5,
+   "home_spread": -40.5,
+   "total": 144.5
+  },
+  "away": "STONE",
+  "home": "TTU",
+  "away_rank": "-1",
+  "home_rank": "16",
+  "away_conf": "Northeast",
+  "home_conf": "Big 12",
+  "status": "pre",
+  "tip_et": "2026-11-14T13:00:00-05:00"
+ },
+ "390838": {
+  "game_id": "390838",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 675,
+     "home": -1099
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -102,
+     "home": -118
+    },
+    "total": {
+     "line": 128.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 750,
+     "home": -1200
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 128.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 650,
+     "home": -1000
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -102,
+     "home": -118
+    },
+    "total": {
+     "line": 128.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 720,
+     "home": -1200
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 128.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 650,
+     "home": -1000
+    },
+    "spread": {
+     "line": 13.0,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 129.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 650,
+     "home": -1111
+    },
+    "spread": {
+     "line": 13.5,
+     "away": -114,
+     "home": -109
+    },
+    "total": {
+     "line": 129.5,
+     "away": -110,
+     "home": -113
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 650,
+     "home": -1000
+    },
+    "spread": {
+     "line": 11.5,
+     "away": 110,
+     "home": -140
+    },
+    "total": {
+     "line": 129.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 700,
+     "home": -1200
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 129.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 650,
+     "home": -1100
+    },
+    "spread": {
+     "line": 13.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 129.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 523,
+   "home_ml": -752,
+   "away_spread": 11.5,
+   "home_spread": -11.5,
+   "total": 131.0
+  },
+  "away": "BRAD",
+  "home": "GMU",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Missouri Valley",
+  "home_conf": "Atlantic 10",
+  "status": "pre",
+  "tip_et": "2026-11-14T13:00:00-05:00"
+ },
+ "393275": {
+  "game_id": "393275",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": -110,
+     "home": -110
+    },
+    "spread": {
+     "line": -1.5,
+     "away": 100,
+     "home": -120
+    },
+    "total": {
+     "line": 159.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": -108,
+     "home": -112
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -123,
+     "home": 103
+    },
+    "total": {
+     "line": 159.5,
+     "away": -111,
+     "home": -109
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": -108,
+     "home": -112
+    },
+    "spread": {
+     "line": -1.5,
+     "away": 105,
+     "home": -125
+    },
+    "total": {
+     "line": 159.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": -105,
+     "home": -114
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -124,
+     "home": 102
+    },
+    "total": {
+     "line": 159.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": -110,
+     "home": -110
+    },
+    "spread": {
+     "line": -1.0,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 159.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -105,
+     "home": -118
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -122,
+     "home": 100
+    },
+    "total": {
+     "line": 160.5,
+     "away": -109,
+     "home": -114
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -110,
+     "home": -110
+    },
+    "spread": {
+     "line": -1.5,
+     "away": 100,
+     "home": -125
+    },
+    "total": {
+     "line": 159.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -105,
+     "home": -120
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -120,
+     "home": 100
+    },
+    "total": {
+     "line": 160.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 1.5,
+     "away": -130,
+     "home": 100
+    },
+    "total": {
+     "line": 159.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": -109,
+   "home_ml": -109,
+   "away_spread": -1.5,
+   "home_spread": 1.5,
+   "total": 159.5
+  },
+  "away": "MRSH",
+  "home": "YSU",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Sun Belt",
+  "home_conf": "Horizon",
+  "status": "pre",
+  "tip_et": "2026-11-14T13:00:00-05:00"
+ },
+ "391244": {
+  "game_id": "391244",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 360,
+     "home": -474
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 151.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 365,
+     "home": -480
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -111,
+     "home": -109
+    },
+    "total": {
+     "line": 151.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 350,
+     "home": -455
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -112,
+     "home": -108
+    },
+    "total": {
+     "line": 151.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 365,
+     "home": -490
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 151.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 360,
+     "home": -475
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 152.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 340,
+     "home": -481
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -117,
+     "home": -107
+    },
+    "total": {
+     "line": 151.5,
+     "away": -109,
+     "home": -113
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 360,
+     "home": -481
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 151.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 360,
+     "home": -500
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 151.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 350,
+     "home": -475
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 151.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 344,
+   "home_ml": -448,
+   "away_spread": 8.5,
+   "home_spread": -8.5,
+   "total": 151.5
+  },
+  "away": "L-IL",
+  "home": "CSU",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Atlantic 10",
+  "home_conf": "Pac-12",
+  "status": "pre",
+  "tip_et": "2026-11-14T13:30:00-05:00"
+ },
+ "383693": {
+  "game_id": "383693",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": -450,
+     "home": 340
+    },
+    "spread": {
+     "line": -9.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 154.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": -440,
+     "home": 340
+    },
+    "spread": {
+     "line": -9.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 154.5,
+     "away": -107,
+     "home": -113
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": -425,
+     "home": 330
+    },
+    "spread": {
+     "line": -9.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 153.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": -465,
+     "home": 350
+    },
+    "spread": {
+     "line": -9.5,
+     "away": -106,
+     "home": -114
+    },
+    "total": {
+     "line": 154.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": -425,
+     "home": 325
+    },
+    "spread": {
+     "line": -9.0,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 154.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -455,
+     "home": 325
+    },
+    "spread": {
+     "line": -7.5,
+     "away": -136,
+     "home": 110
+    },
+    "total": {
+     "line": 152.5,
+     "away": -122,
+     "home": -103
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": -429,
+     "home": 328
+    },
+    "spread": {
+     "line": -9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 154.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -425,
+     "home": 320
+    },
+    "spread": {
+     "line": -8.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 154.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -450,
+     "home": 325
+    },
+    "spread": {
+     "line": -8.5,
+     "away": -120,
+     "home": -105
+    },
+    "total": {
+     "line": 151.5,
+     "away": -115,
+     "home": -105
+    }
+   }
+  },
+  "open": {
+   "away_ml": -448,
+   "home_ml": 344,
+   "away_spread": -8.5,
+   "home_spread": 8.5,
+   "total": 151.5
+  },
+  "away": "M-OH",
+  "home": "EVAN",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "MAC",
+  "home_conf": "Missouri Valley",
+  "status": "pre",
+  "tip_et": "2026-11-14T14:00:00-05:00"
+ },
+ "383695": {
+  "game_id": "383695",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 220,
+     "home": -275
+    },
+    "spread": {
+     "line": 6.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 173.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 230,
+     "home": -280
+    },
+    "spread": {
+     "line": 6.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 173.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 240,
+     "home": -298
+    },
+    "spread": {
+     "line": 6.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 173.5,
+     "away": -108,
+     "home": -112
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 205,
+     "home": -255
+    },
+    "spread": {
+     "line": 5.5,
+     "away": -102,
+     "home": -120
+    },
+    "total": {
+     "line": 173.5,
+     "away": -114,
+     "home": -106
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 230,
+     "home": -285
+    },
+    "spread": {
+     "line": 6.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 174.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 205,
+     "home": -265
+    },
+    "spread": {
+     "line": 5.5,
+     "away": -105,
+     "home": -120
+    },
+    "total": {
+     "line": 174.5,
+     "away": -106,
+     "home": -118
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 225,
+     "home": -275
+    },
+    "spread": {
+     "line": 6.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 174.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 210,
+     "home": -260
+    },
+    "spread": {
+     "line": 5.5,
+     "away": -105,
+     "home": -120
+    },
+    "total": {
+     "line": 173.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 4.5,
+     "away": 105,
+     "home": -135
+    },
+    "total": {
+     "line": 173.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 262,
+   "home_ml": -329,
+   "away_spread": 7.5,
+   "home_spread": -7.5,
+   "total": 174.0
+  },
+  "away": "WOF",
+  "home": "QNC",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Southern",
+  "home_conf": "Atlantic Sun",
+  "status": "pre",
+  "tip_et": "2026-11-14T14:00:00-05:00"
+ },
+ "385390": {
+  "game_id": "385390",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 3300,
+     "home": -10000
+    },
+    "spread": {
+     "line": 28.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 4000,
+     "home": -50000
+    },
+    "spread": {
+     "line": 28.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 5000,
+     "home": -20000
+    },
+    "spread": {
+     "line": 29.0,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "spread": {
+     "line": 28.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "spread": {
+     "line": 28.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 150.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "BetRivers": {
+    "spread": {
+     "line": 28.5,
+     "away": -114,
+     "home": -109
+    },
+    "total": {
+     "line": 150.5,
+     "away": -112,
+     "home": -112
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 28.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "spread": {
+     "line": 28.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "spread": {
+     "line": 28.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_spread": 28.5,
+   "home_spread": -28.5,
+   "total": 150.5
+  },
+  "away": "COPP",
+  "home": "USF",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "MEAC",
+  "home_conf": "AAC",
+  "status": "pre",
+  "tip_et": "2026-11-14T14:00:00-05:00"
+ },
+ "391356": {
+  "game_id": "391356",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 550,
+     "home": -800
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -118,
+     "home": -102
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 575,
+     "home": -850
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -120,
+     "home": 100
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 550,
+     "home": -800
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -118,
+     "home": -102
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 570,
+     "home": -850
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -102,
+     "home": -120
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 525,
+     "home": -750
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 475,
+     "home": -714
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -112,
+     "home": -110
+    },
+    "total": {
+     "line": 149.5,
+     "away": -108,
+     "home": -115
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 550,
+     "home": -900
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -120,
+     "home": 100
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 475,
+     "home": -700
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 149.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 11.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 520,
+   "home_ml": -746,
+   "away_spread": 11.5,
+   "home_spread": -11.5,
+   "total": 148.5
+  },
+  "away": "RICE",
+  "home": "SFA",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "AAC",
+  "home_conf": "Southland",
+  "status": "pre",
+  "tip_et": "2026-11-14T14:00:00-05:00"
+ },
+ "391492": {
+  "game_id": "391492",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 150,
+     "home": -185
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 155.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 155,
+     "home": -185
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 155.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 150,
+     "home": -180
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 155.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 155,
+     "home": -188
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 155.5,
+     "away": -114,
+     "home": -106
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 155,
+     "home": -190
+    },
+    "spread": {
+     "line": 4.0,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 155.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 155,
+     "home": -200
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -104,
+     "home": -121
+    },
+    "total": {
+     "line": 154.5,
+     "away": -109,
+     "home": -113
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 150,
+     "home": -175
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 154.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 155,
+     "home": -200
+    },
+    "spread": {
+     "line": 3.5,
+     "away": 100,
+     "home": -120
+    },
+    "total": {
+     "line": 154.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 4.5,
+     "away": -130,
+     "home": 100
+    },
+    "total": {
+     "line": 155.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 149,
+   "home_ml": -179,
+   "away_spread": 3.5,
+   "home_spread": -3.5,
+   "total": 155.5
+  },
+  "away": "CIT",
+  "home": "UNF",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Southern",
+  "home_conf": "Atlantic Sun",
+  "status": "pre",
+  "tip_et": "2026-11-14T14:00:00-05:00"
+ },
+ "393395": {
+  "game_id": "393395",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": -115,
+     "home": -105
+    },
+    "spread": {
+     "line": -1.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 148.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": -115,
+     "home": -105
+    },
+    "spread": {
+     "line": -1.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": -105,
+     "home": -114
+    },
+    "spread": {
+     "line": 0.5,
+     "away": -104,
+     "home": -118
+    },
+    "total": {
+     "line": 150.5,
+     "away": -104,
+     "home": -118
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": -105,
+     "home": -115
+    },
+    "spread": {
+     "line": 1.0,
+     "away": -125,
+     "home": 105
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -117,
+     "home": -108
+    },
+    "spread": {
+     "line": 0.5,
+     "away": -117,
+     "home": -107
+    },
+    "total": {
+     "line": 150.5,
+     "away": -112,
+     "home": -112
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -120,
+     "home": 100
+    },
+    "spread": {
+     "line": -1.5,
+     "away": 100,
+     "home": -120
+    },
+    "total": {
+     "line": 149.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -115,
+     "home": -110
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "spread": {
+     "line": -1.5,
+     "away": 105,
+     "home": -125
+    },
+    "total": {
+     "line": 148.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 0.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 102,
+   "home_ml": -121,
+   "away_spread": 1.5,
+   "home_spread": -1.5,
+   "total": 149.5
+  },
+  "away": "NIU",
+  "home": "BELL",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Horizon",
+  "home_conf": "Atlantic Sun",
+  "status": "pre",
+  "tip_et": "2026-11-14T14:00:00-05:00"
+ },
+ "393624": {
+  "game_id": "393624",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 3300,
+     "home": -10000
+    },
+    "spread": {
+     "line": 27.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 145.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 5000,
+     "home": -100000
+    },
+    "spread": {
+     "line": 27.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 145.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 3500,
+     "home": -20000
+    },
+    "spread": {
+     "line": 27.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 145.5,
+     "away": -108,
+     "home": -112
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 5000,
+     "home": -20000
+    },
+    "spread": {
+     "line": 27.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 145.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 3500,
+     "home": -50000
+    },
+    "spread": {
+     "line": 27.5,
+     "away": -120,
+     "home": 100
+    },
+    "total": {
+     "line": 145.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "spread": {
+     "line": 26.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 145.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "spread": {
+     "line": 27.5,
+     "away": -118,
+     "home": -106
+    },
+    "total": {
+     "line": 145.5,
+     "away": -109,
+     "home": -114
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 27.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 145.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "spread": {
+     "line": 27.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 145.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_spread": 27.5,
+   "home_spread": -27.5,
+   "total": 145.5
+  },
+  "away": "WEBB",
+  "home": "SCAR",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big South",
+  "home_conf": "SEC",
+  "status": "pre",
+  "tip_et": "2026-11-14T14:00:00-05:00"
+ },
+ "394933": {
+  "game_id": "394933",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 275,
+     "home": -350
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 163.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 280,
+     "home": -360
+    },
+    "spread": {
+     "line": 7.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 164.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 260,
+     "home": -330
+    },
+    "spread": {
+     "line": 7.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 164.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 265,
+     "home": -340
+    },
+    "spread": {
+     "line": 8.0,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 164.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 250,
+     "home": -345
+    },
+    "spread": {
+     "line": 7.5,
+     "away": -112,
+     "home": -112
+    },
+    "total": {
+     "line": 165.5,
+     "away": 108,
+     "home": -134
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 300,
+     "home": -400
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 163.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 250,
+     "home": -350
+    },
+    "spread": {
+     "line": 7.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 165.5,
+     "away": 110,
+     "home": -130
+    }
+   },
+   "DraftKings": {
+    "spread": {
+     "line": 7.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 163.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 7.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 163.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 292,
+   "home_ml": -370,
+   "away_spread": 7.5,
+   "home_spread": -7.5,
+   "total": 164.0
+  },
+  "away": "JKST",
+  "home": "WIN",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "SWAC",
+  "home_conf": "Big South",
+  "status": "pre",
+  "tip_et": "2026-11-14T14:30:00-05:00"
+ },
+ "392444": {
+  "game_id": "392444",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": -325,
+     "home": 260
+    },
+    "spread": {
+     "line": -7.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 148.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": -320,
+     "home": 260
+    },
+    "spread": {
+     "line": -7.5,
+     "away": -109,
+     "home": -111
+    },
+    "total": {
+     "line": 148.5,
+     "away": -114,
+     "home": -106
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": -310,
+     "home": 250
+    },
+    "spread": {
+     "line": -7.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -120
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": -330,
+     "home": 260
+    },
+    "spread": {
+     "line": -7.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": -330,
+     "home": 260
+    },
+    "spread": {
+     "line": -7.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 149.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -385,
+     "home": 280
+    },
+    "spread": {
+     "line": -7.5,
+     "away": -118,
+     "home": -106
+    },
+    "total": {
+     "line": 147.5,
+     "away": -117,
+     "home": -107
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": -334,
+     "home": 260
+    },
+    "spread": {
+     "line": -7.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -340,
+     "home": 270
+    },
+    "spread": {
+     "line": -7.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -375,
+     "home": 275
+    },
+    "spread": {
+     "line": -7.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 147.5,
+     "away": -115,
+     "home": -105
+    }
+   }
+  },
+  "open": {
+   "away_ml": -336,
+   "home_ml": 267,
+   "away_spread": -7.5,
+   "home_spread": 7.5,
+   "total": 148.5
+  },
+  "away": "WYO",
+  "home": "DEN",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Mountain West",
+  "home_conf": "WCC",
+  "status": "pre",
+  "tip_et": "2026-11-14T15:00:00-05:00"
+ },
+ "384208": {
+  "game_id": "384208",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 185,
+     "home": -225
+    },
+    "spread": {
+     "line": 5.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 160.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 180,
+     "home": -220
+    },
+    "spread": {
+     "line": 5.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 161.5,
+     "away": -107,
+     "home": -113
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 195,
+     "home": -238
+    },
+    "spread": {
+     "line": 5.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 161.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 155,
+     "home": -188
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 161.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 190,
+     "home": -235
+    },
+    "spread": {
+     "line": 5.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 161.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 190,
+     "home": -245
+    },
+    "spread": {
+     "line": 5.5,
+     "away": -114,
+     "home": -109
+    },
+    "total": {
+     "line": 161.5,
+     "away": -113,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 185,
+     "home": -225
+    },
+    "spread": {
+     "line": 5.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 161.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 180,
+     "home": -215
+    },
+    "spread": {
+     "line": 4.5,
+     "away": 100,
+     "home": -120
+    },
+    "total": {
+     "line": 161.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 190,
+     "home": -240
+    },
+    "spread": {
+     "line": 5.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 161.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 201,
+   "home_ml": -246,
+   "away_spread": 5.5,
+   "home_spread": -5.5,
+   "total": 162.0
+  },
+  "away": "LSU",
+  "home": "GONZ",
+  "away_rank": "-1",
+  "home_rank": "14",
+  "away_conf": "SEC",
+  "home_conf": "Pac-12",
+  "status": "pre",
+  "tip_et": "2026-11-14T15:30:00-05:00"
+ },
+ "393043": {
+  "game_id": "393043",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 145,
+     "home": -175
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 162.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 146,
+     "home": -172
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 162.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 145,
+     "home": -175
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 162.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 140,
+     "home": -170
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 162.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 140,
+     "home": -170
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 162.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 140,
+     "home": -177
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -113,
+     "home": -110
+    },
+    "total": {
+     "line": 162.5,
+     "away": -112,
+     "home": -112
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 143,
+     "home": -170
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 163.5,
+     "away": 100,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 145,
+     "home": -170
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 162.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 140,
+     "home": -175
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 162.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 132,
+   "home_ml": -158,
+   "away_spread": 3.5,
+   "home_spread": -3.5,
+   "total": 162.5
+  },
+  "away": "CMU",
+  "home": "NKU",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "MAC",
+  "home_conf": "Horizon",
+  "status": "pre",
+  "tip_et": "2026-11-14T15:30:00-05:00"
+ },
+ "383692": {
+  "game_id": "383692",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 1150,
+     "home": -2500
+    },
+    "spread": {
+     "line": 18.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 156.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 1500,
+     "home": -5000
+    },
+    "spread": {
+     "line": 18.5,
+     "away": -111,
+     "home": -109
+    },
+    "total": {
+     "line": 156.5,
+     "away": -111,
+     "home": -109
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 1500,
+     "home": -3600
+    },
+    "spread": {
+     "line": 18.5,
+     "away": -112,
+     "home": -108
+    },
+    "total": {
+     "line": 156.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 1400,
+     "home": -4000
+    },
+    "spread": {
+     "line": 18.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 156.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 1500,
+     "home": -3000
+    },
+    "spread": {
+     "line": 18.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 156.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 1150,
+     "home": -3333
+    },
+    "spread": {
+     "line": 18.5,
+     "away": -108,
+     "home": -115
+    },
+    "total": {
+     "line": 155.5,
+     "away": -109,
+     "home": -114
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 2000,
+     "home": -7500
+    },
+    "spread": {
+     "line": 18.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 156.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 1200,
+     "home": -3000
+    },
+    "spread": {
+     "line": 18.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 155.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 18.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 156.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_spread": 18.5,
+   "home_spread": -18.5,
+   "total": 156.5
+  },
+  "away": "SUU",
+  "home": "WAKE",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big Sky",
+  "home_conf": "ACC",
+  "status": "pre",
+  "tip_et": "2026-11-14T16:00:00-05:00"
+ },
+ "384205": {
+  "game_id": "384205",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 280,
+     "home": -350
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 139.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 300,
+     "home": -380
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 139.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 295,
+     "home": -375
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 139.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 285,
+     "home": -365
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -112,
+     "home": -108
+    },
+    "total": {
+     "line": 139.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 290,
+     "home": -375
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 138.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 330,
+     "home": -455
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -109,
+     "home": -114
+    },
+    "total": {
+     "line": 138.5,
+     "away": -112,
+     "home": -112
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 310,
+     "home": -400
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 139.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 290,
+     "home": -380
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 138.5,
+     "away": -120,
+     "home": 100
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 325,
+     "home": -450
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 138.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 268,
+   "home_ml": -337,
+   "away_spread": 7.5,
+   "home_spread": -7.5,
+   "total": 138.5
+  },
+  "away": "LONG",
+  "home": "ODU",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big South",
+  "home_conf": "Sun Belt",
+  "status": "pre",
+  "tip_et": "2026-11-14T16:00:00-05:00"
+ },
+ "384209": {
+  "game_id": "384209",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 1000,
+     "home": -2000
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 1200,
+     "home": -2400
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 1000,
+     "home": -1800
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 1100,
+     "home": -2500
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -112,
+     "home": -108
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 1000,
+     "home": -1800
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 140.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 800,
+     "home": -1667
+    },
+    "spread": {
+     "line": 15.5,
+     "away": -112,
+     "home": -112
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 1300,
+     "home": -4000
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 143.5,
+     "away": 100,
+     "home": -120
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 800,
+     "home": -1600
+    },
+    "spread": {
+     "line": 15.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 139.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 16.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 140.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 918,
+   "home_ml": -1724,
+   "away_spread": 15.5,
+   "home_spread": -15.5,
+   "total": 140.0
+  },
+  "away": "LAF",
+  "home": "SBON",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Patriot League",
+  "home_conf": "Atlantic 10",
+  "status": "pre",
+  "tip_et": "2026-11-14T16:00:00-05:00"
+ },
+ "384210": {
+  "game_id": "384210",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 100,
+     "home": -120
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 138.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 105,
+     "home": -125
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 138.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 102,
+     "home": -122
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 138.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 105,
+     "home": -125
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 138.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 104,
+     "home": -132
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -113,
+     "home": -110
+    },
+    "total": {
+     "line": 138.5,
+     "away": -110,
+     "home": -112
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 105,
+     "home": -125
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 138.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 110,
+     "home": -130
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 138.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 105,
+     "home": -130
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 138.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "spread": {
+     "line": 1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 138.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 101,
+   "home_ml": -121,
+   "away_spread": 1.5,
+   "home_spread": -1.5,
+   "total": 138.5
+  },
+  "away": "HAMP",
+  "home": "NAVY",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "CAA",
+  "home_conf": "Patriot League",
+  "status": "pre",
+  "tip_et": "2026-11-14T16:00:00-05:00"
+ },
+ "384859": {
+  "game_id": "384859",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 950,
+     "home": -2000
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -118,
+     "home": -102
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 1100,
+     "home": -2200
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 1100,
+     "home": -2100
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 148.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 1000,
+     "home": -2100
+    },
+    "spread": {
+     "line": 15.5,
+     "away": -102,
+     "home": -120
+    },
+    "total": {
+     "line": 147.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 1100,
+     "home": -2000
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 850,
+     "home": -2000
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -109,
+     "home": -114
+    },
+    "total": {
+     "line": 147.5,
+     "away": -110,
+     "home": -113
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 1200,
+     "home": -3000
+    },
+    "spread": {
+     "line": 15.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 850,
+     "home": -2000
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 147.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 15.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 983,
+   "home_ml": -1923,
+   "away_spread": 15.5,
+   "home_spread": -15.5,
+   "total": 149.0
+  },
+  "away": "DSU",
+  "home": "ECU",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "MEAC",
+  "home_conf": "AAC",
+  "status": "pre",
+  "tip_et": "2026-11-14T16:00:00-05:00"
+ },
+ "389977": {
+  "game_id": "389977",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 1050,
+     "home": -2500
+    },
+    "spread": {
+     "line": 17.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 157.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 1300,
+     "home": -2800
+    },
+    "spread": {
+     "line": 17.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 157.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 1200,
+     "home": -3000
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -102,
+     "home": -120
+    },
+    "total": {
+     "line": 156.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 1200,
+     "home": -2200
+    },
+    "spread": {
+     "line": 17.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 157.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 950,
+     "home": -2500
+    },
+    "spread": {
+     "line": 17.5,
+     "away": -120,
+     "home": -105
+    },
+    "total": {
+     "line": 157.5,
+     "away": -109,
+     "home": -114
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 1100,
+     "home": -2500
+    },
+    "spread": {
+     "line": 17.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 157.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 1000,
+     "home": -2000
+    },
+    "spread": {
+     "line": 17.5,
+     "away": -120,
+     "home": -105
+    },
+    "total": {
+     "line": 157.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "spread": {
+     "line": 17.5,
+     "away": -112,
+     "home": -108
+    },
+    "total": {
+     "line": 157.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 18.5,
+     "away": -125,
+     "home": -105
+    }
+   }
+  },
+  "open": {
+   "away_spread": 16.5,
+   "home_spread": -16.5,
+   "total": 156.0
+  },
+  "away": "UNCA",
+  "home": "GT",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big South",
+  "home_conf": "ACC",
+  "status": "pre",
+  "tip_et": "2026-11-14T16:00:00-05:00"
+ },
+ "390587": {
+  "game_id": "390587",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": -699,
+     "home": 500
+    },
+    "spread": {
+     "line": -11.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 152.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": -700,
+     "home": 500
+    },
+    "spread": {
+     "line": -11.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 152.5,
+     "away": -111,
+     "home": -109
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": -675,
+     "home": 490
+    },
+    "spread": {
+     "line": -11.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 153.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": -750,
+     "home": 520
+    },
+    "spread": {
+     "line": -11.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 152.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": -700,
+     "home": 500
+    },
+    "spread": {
+     "line": -11.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 153.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -671,
+     "home": 450
+    },
+    "spread": {
+     "line": -11.5,
+     "away": -106,
+     "home": -118
+    },
+    "total": {
+     "line": 153.5,
+     "away": -112,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": -649,
+     "home": 460
+    },
+    "spread": {
+     "line": -11.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 153.5,
+     "away": -105,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -750,
+     "home": 475
+    },
+    "spread": {
+     "line": -11.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 152.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -650,
+     "home": 450
+    },
+    "spread": {
+     "line": -11.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 153.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": -562,
+   "home_ml": 415,
+   "away_spread": -9.5,
+   "home_spread": 9.5,
+   "total": 153.0
+  },
+  "away": "TOL",
+  "home": "DET",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "MAC",
+  "home_conf": "Horizon",
+  "status": "pre",
+  "tip_et": "2026-11-14T16:00:00-05:00"
+ },
+ "390703": {
+  "game_id": "390703",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 140,
+     "home": -170
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 151.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 146,
+     "home": -172
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -109,
+     "home": -111
+    },
+    "total": {
+     "line": 151.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 145,
+     "home": -175
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 151.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 136,
+     "home": -164
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 151.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 145,
+     "home": -175
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -125,
+     "home": 105
+    },
+    "total": {
+     "line": 151.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 138,
+     "home": -175
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -118,
+     "home": -106
+    },
+    "total": {
+     "line": 151.5,
+     "away": -113,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 140,
+     "home": -165
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 151.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 140,
+     "home": -170
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 151.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "total": {
+     "line": 151.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 140,
+   "home_ml": -168,
+   "away_spread": 3.5,
+   "home_spread": -3.5,
+   "total": 151.5
+  },
+  "away": "UNCO",
+  "home": "SDST",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big Sky",
+  "home_conf": "Summit League",
+  "status": "pre",
+  "tip_et": "2026-11-14T16:00:00-05:00"
+ },
+ "393276": {
+  "game_id": "393276",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 320,
+     "home": -426
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -118,
+     "home": -102
+    },
+    "total": {
+     "line": 142.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 325,
+     "home": -425
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 330,
+     "home": -425
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 142.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 320,
+     "home": -420
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -106,
+     "home": -114
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 325,
+     "home": -425
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 310,
+     "home": -435
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -110,
+     "home": -113
+    },
+    "total": {
+     "line": 147.5,
+     "away": 115,
+     "home": -143
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 360,
+     "home": -500
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 142.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 300,
+     "home": -425
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 147.5,
+     "away": 105,
+     "home": -125
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 8.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 142.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 311,
+   "home_ml": -398,
+   "away_spread": 8.5,
+   "home_spread": -8.5,
+   "total": 145.5
+  },
+  "away": "SCUS",
+  "home": "CAMP",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big South",
+  "home_conf": "CAA",
+  "status": "pre",
+  "tip_et": "2026-11-14T16:30:00-05:00"
+ },
+ "392397": {
+  "game_id": "392397",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 900,
+     "home": -1587
+    },
+    "spread": {
+     "line": 15.5,
+     "away": -102,
+     "home": -118
+    },
+    "total": {
+     "line": 159.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 1100,
+     "home": -2200
+    },
+    "spread": {
+     "line": 15.5,
+     "away": -102,
+     "home": -118
+    },
+    "total": {
+     "line": 159.5,
+     "away": -107,
+     "home": -113
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 1000,
+     "home": -1800
+    },
+    "spread": {
+     "line": 15.5,
+     "away": -102,
+     "home": -118
+    },
+    "total": {
+     "line": 159.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 1060,
+     "home": -2300
+    },
+    "spread": {
+     "line": 15.5,
+     "away": -102,
+     "home": -120
+    },
+    "total": {
+     "line": 159.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 1000,
+     "home": -1800
+    },
+    "spread": {
+     "line": 16.0,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 159.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 800,
+     "home": -1667
+    },
+    "spread": {
+     "line": 15.5,
+     "away": -108,
+     "home": -115
+    },
+    "total": {
+     "line": 158.5,
+     "away": -114,
+     "home": -108
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 1050,
+     "home": -2000
+    },
+    "spread": {
+     "line": 17.5,
+     "away": -135,
+     "home": 105
+    },
+    "total": {
+     "line": 159.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 1200,
+     "home": -3000
+    },
+    "spread": {
+     "line": 15.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 159.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 800,
+     "home": -1600
+    },
+    "spread": {
+     "line": 15.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 158.5,
+     "away": -115,
+     "home": -105
+    }
+   }
+  },
+  "open": {
+   "away_ml": 1016,
+   "home_ml": -1852,
+   "away_spread": 15.5,
+   "home_spread": -15.5,
+   "total": 158.0
+  },
+  "away": "UTECH",
+  "home": "CAL",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big Sky",
+  "home_conf": "ACC",
+  "status": "pre",
+  "tip_et": "2026-11-14T17:00:00-05:00"
+ },
+ "392540": {
+  "game_id": "392540",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 100,
+     "home": -120
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 157.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 100,
+     "home": -120
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -114,
+     "home": -106
+    },
+    "total": {
+     "line": 157.5,
+     "away": -107,
+     "home": -113
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 102,
+     "home": -122
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 157.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": -102,
+     "home": -118
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 157.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 105,
+     "home": -125
+    },
+    "spread": {
+     "line": 1.0,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 157.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -109,
+     "home": -114
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -129,
+     "home": 104
+    },
+    "total": {
+     "line": 157.5,
+     "away": -113,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 100,
+     "home": -120
+    },
+    "spread": {
+     "line": -1.5,
+     "away": 105,
+     "home": -135
+    },
+    "total": {
+     "line": 157.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 105,
+     "home": -125
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 157.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -110,
+     "home": -115
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -125,
+     "home": 105
+    },
+    "total": {
+     "line": 157.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": -104,
+   "home_ml": -115,
+   "away_spread": 1.5,
+   "home_spread": -1.5,
+   "total": 158.0
+  },
+  "away": "UNI",
+  "home": "OAK",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Missouri Valley",
+  "home_conf": "Horizon",
+  "status": "pre",
+  "tip_et": "2026-11-14T17:00:00-05:00"
+ },
+ "395961": {
+  "game_id": "395961",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": -105,
+     "home": -115
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -120,
+     "home": 100
+    },
+    "total": {
+     "line": 150.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": -126,
+     "home": 106
+    },
+    "spread": {
+     "line": -1.5,
+     "away": -109,
+     "home": -111
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": -115,
+     "home": -105
+    },
+    "spread": {
+     "line": -1.5,
+     "away": 102,
+     "home": -122
+    },
+    "total": {
+     "line": 150.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": -111,
+     "home": -108
+    },
+    "spread": {
+     "line": -1.5,
+     "away": -104,
+     "home": -118
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": -110,
+     "home": -110
+    },
+    "spread": {
+     "line": -1.0,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 151.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -115,
+     "home": -110
+    },
+    "spread": {
+     "line": 0.5,
+     "away": -114,
+     "home": -109
+    },
+    "total": {
+     "line": 150.5,
+     "away": -113,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": -110,
+     "home": -110
+    },
+    "spread": {
+     "line": -1.0,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -110,
+     "home": -110
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -125,
+     "home": 100
+    },
+    "total": {
+     "line": 151.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -115,
+     "home": -110
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {},
+  "away": "MORG",
+  "home": "L-MD",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "MEAC",
+  "home_conf": "Patriot League",
+  "status": "pre",
+  "tip_et": "2026-11-14T17:00:00-05:00"
+ },
+ "384207": {
+  "game_id": "384207",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 550,
+     "home": -800
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 156.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 550,
+     "home": -800
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -111,
+     "home": -109
+    },
+    "total": {
+     "line": 156.5,
+     "away": -107,
+     "home": -113
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 550,
+     "home": -800
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 156.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 590,
+     "home": -900
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -118,
+     "home": -104
+    },
+    "total": {
+     "line": 156.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 550,
+     "home": -800
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 156.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 500,
+     "home": -769
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -122,
+     "home": 100
+    },
+    "total": {
+     "line": 156.5,
+     "away": -112,
+     "home": -112
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 550,
+     "home": -800
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 156.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 550,
+     "home": -900
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 156.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 500,
+     "home": -750
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 156.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 445,
+   "home_ml": -610,
+   "away_spread": 10.5,
+   "home_spread": -10.5,
+   "total": 156.0
+  },
+  "away": "COLO",
+  "home": "PROV",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big 12",
+  "home_conf": "Big East",
+  "status": "pre",
+  "tip_et": "2026-11-14T18:00:00-05:00"
+ },
+ "391246": {
+  "game_id": "391246",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 105,
+     "home": -130
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 148.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 110,
+     "home": -130
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 108,
+     "home": -130
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -102,
+     "home": -120
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 140,
+     "home": -170
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -103,
+     "home": -125
+    },
+    "spread": {
+     "line": 0.5,
+     "away": 100,
+     "home": -122
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 110,
+     "home": -130
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 100,
+     "home": -120
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -120,
+     "home": 100
+    },
+    "total": {
+     "line": 148.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 100,
+     "home": -125
+    },
+    "total": {
+     "line": 148.5,
+     "away": 100,
+     "home": -120
+    }
+   },
+   "DraftKings": {
+    "spread": {
+     "line": 1.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 148.5,
+     "away": -108,
+     "home": -112
+    }
+   }
+  },
+  "open": {
+   "away_ml": 140,
+   "home_ml": -167,
+   "away_spread": 3.5,
+   "home_spread": -3.5,
+   "total": 148.0
+  },
+  "away": "MAN",
+  "home": "LMC",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "MAAC",
+  "home_conf": "Northeast",
+  "status": "pre",
+  "tip_et": "2026-11-14T18:00:00-05:00"
+ },
+ "393932": {
+  "game_id": "393932",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 325,
+     "home": -426
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 133.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 335,
+     "home": -430
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 133.5,
+     "away": -111,
+     "home": -109
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 330,
+     "home": -425
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 133.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 315,
+     "home": -410
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -106,
+     "home": -114
+    },
+    "total": {
+     "line": 133.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 325,
+     "home": -425
+    },
+    "spread": {
+     "line": 9.0,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 134.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 340,
+     "home": -481
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -107,
+     "home": -117
+    },
+    "total": {
+     "line": 133.5,
+     "away": -109,
+     "home": -114
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 350,
+     "home": -475
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 133.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 7.5,
+     "away": 105,
+     "home": -135
+    },
+    "total": {
+     "line": 133.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "spread": {
+     "line": 8.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 133.5,
+     "away": -115,
+     "home": -105
+    }
+   }
+  },
+  "open": {
+   "away_ml": 293,
+   "home_ml": -373,
+   "away_spread": 7.5,
+   "home_spread": -7.5,
+   "total": 137.0
+  },
+  "away": "USA",
+  "home": "UNT",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Sun Belt",
+  "home_conf": "AAC",
+  "status": "pre",
+  "tip_et": "2026-11-14T18:00:00-05:00"
+ },
+ "394356": {
+  "game_id": "394356",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 170,
+     "home": -210
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 175,
+     "home": -210
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 170,
+     "home": -205
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 149.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 168,
+     "home": -205
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 170,
+     "home": -205
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 180,
+     "home": -230
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -105,
+     "home": -120
+    },
+    "total": {
+     "line": 149.5,
+     "away": -109,
+     "home": -114
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 170,
+     "home": -205
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 170,
+     "home": -200
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 180,
+     "home": -225
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -105,
+     "home": -120
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 181,
+   "home_ml": -220,
+   "away_spread": 4.5,
+   "home_spread": -4.5,
+   "total": 149.5
+  },
+  "away": "UCRV",
+  "home": "FRES",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big West",
+  "home_conf": "Pac-12",
+  "status": "pre",
+  "tip_et": "2026-11-14T18:00:00-05:00"
+ },
+ "390704": {
+  "game_id": "390704",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 145,
+     "home": -175
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 152.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 148,
+     "home": -176
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 153.5,
+     "away": -107,
+     "home": -113
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 145,
+     "home": -175
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -112,
+     "home": -108
+    },
+    "total": {
+     "line": 153.5,
+     "away": -108,
+     "home": -112
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 150,
+     "home": -182
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -102,
+     "home": -120
+    },
+    "total": {
+     "line": 152.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 150,
+     "home": -180
+    },
+    "spread": {
+     "line": 4.0,
+     "away": -125,
+     "home": 105
+    },
+    "total": {
+     "line": 153.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 138,
+     "home": -175
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -115,
+     "home": -107
+    },
+    "total": {
+     "line": 152.5,
+     "away": -117,
+     "home": -107
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 148,
+     "home": -175
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 153.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 140,
+     "home": -165
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 153.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 140,
+     "home": -170
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 152.5,
+     "away": -115,
+     "home": -105
+    }
+   }
+  },
+  "open": {},
+  "away": "PENN",
+  "home": "JOES",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Ivy",
+  "home_conf": "Atlantic 10",
+  "status": "pre",
+  "tip_et": "2026-11-14T18:30:00-05:00"
+ },
+ "384403": {
+  "game_id": "384403",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 525,
+     "home": -752
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 140.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 550,
+     "home": -800
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 140.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 530,
+     "home": -780
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 141.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 525,
+     "home": -750
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 141.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 480,
+     "home": -769
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -109,
+     "home": -113
+    },
+    "total": {
+     "line": 139.5,
+     "away": -114,
+     "home": -109
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 550,
+     "home": -800
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 140.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 550,
+     "home": -900
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 140.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 475,
+     "home": -750
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 139.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 520,
+   "home_ml": -746,
+   "away_spread": 11.5,
+   "home_spread": -11.5,
+   "total": 141.5
+  },
+  "away": "NJIT",
+  "home": "FAIR",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "AE",
+  "home_conf": "MAAC",
+  "status": "pre",
+  "tip_et": "2026-11-14T19:00:00-05:00"
+ },
+ "384860": {
+  "game_id": "384860",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 155,
+     "home": -190
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 160,
+     "home": -190
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 154,
+     "home": -185
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 150.5,
+     "away": -108,
+     "home": -112
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 162,
+     "home": -196
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 140,
+     "home": -170
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 150.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 145,
+     "home": -186
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -112
+    },
+    "total": {
+     "line": 148.5,
+     "away": -113,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 152,
+     "home": -180
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 145,
+     "home": -170
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 150.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 145,
+     "home": -185
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 148.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 140,
+   "home_ml": -168,
+   "away_spread": 3.5,
+   "home_spread": -3.5,
+   "total": 150.0
+  },
+  "away": "UWG",
+  "home": "CHSO",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "WAC",
+  "home_conf": "Big South",
+  "status": "pre",
+  "tip_et": "2026-11-14T19:00:00-05:00"
+ },
+ "385526": {
+  "game_id": "385526",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 135,
+     "home": -160
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 157.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 140,
+     "home": -165
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 156.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 138,
+     "home": -166
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 156.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 135,
+     "home": -165
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 157.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 143,
+     "home": -186
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -113
+    },
+    "total": {
+     "line": 155.5,
+     "away": -114,
+     "home": -109
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 140,
+     "home": -165
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 157.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 145,
+     "home": -170
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 157.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 145,
+     "home": -185
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 155.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 157.5,
+     "away": -105,
+     "home": -115
+    }
+   }
+  },
+  "open": {
+   "away_ml": 131,
+   "home_ml": -156,
+   "away_spread": 2.5,
+   "home_spread": -2.5,
+   "total": 157.0
+  },
+  "away": "LIP",
+  "home": "WCU",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Atlantic Sun",
+  "home_conf": "Southern",
+  "status": "pre",
+  "tip_et": "2026-11-14T19:00:00-05:00"
+ },
+ "390839": {
+  "game_id": "390839",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 3300,
+     "home": -10000
+    },
+    "spread": {
+     "line": 36.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 145.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 12000,
+     "home": -100000
+    },
+    "spread": {
+     "line": 36.0,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 145.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "spread": {
+     "line": 35.5,
+     "away": -104,
+     "home": -118
+    },
+    "total": {
+     "line": 145.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "spread": {
+     "line": 36.5,
+     "away": -118,
+     "home": -106
+    },
+    "total": {
+     "line": 145.5,
+     "away": -107,
+     "home": -117
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 36.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 145.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "spread": {
+     "line": 35.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 145.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "Hard Rock Bet": {
+    "spread": {
+     "line": 36.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 144.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "DraftKings": {
+    "total": {
+     "line": 145.5,
+     "away": -105,
+     "home": -115
+    }
+   }
+  },
+  "open": {
+   "away_spread": 35.5,
+   "home_spread": -35.5,
+   "total": 145.5
+  },
+  "away": "RID",
+  "home": "VILL",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "MAAC",
+  "home_conf": "Big East",
+  "status": "pre",
+  "tip_et": "2026-11-14T19:00:00-05:00"
+ },
+ "390993": {
+  "game_id": "390993",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 525,
+     "home": -752
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 159.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 525,
+     "home": -750
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 160.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 490,
+     "home": -675
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -112,
+     "home": -108
+    },
+    "total": {
+     "line": 159.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 580,
+     "home": -880
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -102,
+     "home": -120
+    },
+    "total": {
+     "line": 160.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 500,
+     "home": -700
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 160.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 430,
+     "home": -625
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -115,
+     "home": -108
+    },
+    "total": {
+     "line": 160.5,
+     "away": -112,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 500,
+     "home": -699
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 160.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 500,
+     "home": -800
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 160.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 425,
+     "home": -650
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 160.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 413,
+   "home_ml": -559,
+   "away_spread": 9.5,
+   "home_spread": -9.5,
+   "total": 160.0
+  },
+  "away": "BRWN",
+  "home": "SIE",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Ivy",
+  "home_conf": "MAAC",
+  "status": "pre",
+  "tip_et": "2026-11-14T19:00:00-05:00"
+ },
+ "391620": {
+  "game_id": "391620",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 600,
+     "home": -901
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 153.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 625,
+     "home": -950
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 153.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 600,
+     "home": -900
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 153.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 640,
+     "home": -1000
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 153.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 600,
+     "home": -900
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 153.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 525,
+     "home": -833
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -114,
+     "home": -109
+    },
+    "total": {
+     "line": 153.5,
+     "away": -109,
+     "home": -114
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 600,
+     "home": -901
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 154.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 600,
+     "home": -1000
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 154.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 525,
+     "home": -850
+    },
+    "spread": {
+     "line": 12.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 153.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 621,
+   "home_ml": -943,
+   "away_spread": 12.5,
+   "home_spread": -12.5,
+   "total": 154.0
+  },
+  "away": "PEAY",
+  "home": "WICH",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "WAC",
+  "home_conf": "AAC",
+  "status": "pre",
+  "tip_et": "2026-11-14T19:00:00-05:00"
+ },
+ "392262": {
+  "game_id": "392262",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": -170,
+     "home": 140
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": -167,
+     "home": 142
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -111,
+     "home": -109
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": -162,
+     "home": 136
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -112,
+     "home": -108
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": -184,
+     "home": 152
+    },
+    "spread": {
+     "line": -4.5,
+     "away": -102,
+     "home": -120
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": -170,
+     "home": 140
+    },
+    "spread": {
+     "line": 6.5,
+     "away": -400,
+     "home": 290
+    },
+    "total": {
+     "line": 149.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -190,
+     "home": 150
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -117,
+     "home": -107
+    },
+    "total": {
+     "line": 149.5,
+     "away": -113,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": -165,
+     "home": 140
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -165,
+     "home": 140
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 149.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -190,
+     "home": 150
+    },
+    "spread": {
+     "line": -3.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 149.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": -167,
+   "home_ml": 140,
+   "away_spread": -3.5,
+   "home_spread": 3.5,
+   "total": 149.5
+  },
+  "away": "UAB",
+  "home": "JVST",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "AAC",
+  "home_conf": "Conference USA",
+  "status": "pre",
+  "tip_et": "2026-11-14T19:00:00-05:00"
+ },
+ "392539": {
+  "game_id": "392539",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 450,
+     "home": -625
+    },
+    "spread": {
+     "line": 10.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 143.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 475,
+     "home": -650
+    },
+    "spread": {
+     "line": 10.5,
+     "away": -106,
+     "home": -114
+    },
+    "total": {
+     "line": 143.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 440,
+     "home": -600
+    },
+    "spread": {
+     "line": 10.5,
+     "away": 100,
+     "home": -120
+    },
+    "total": {
+     "line": 143.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 450,
+     "home": -630
+    },
+    "spread": {
+     "line": 10.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 430,
+     "home": -600
+    },
+    "spread": {
+     "line": 11.0,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 133.5,
+     "away": -330,
+     "home": 250
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 460,
+     "home": -714
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -120,
+     "home": -105
+    },
+    "total": {
+     "line": 143.5,
+     "away": -109,
+     "home": -114
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 430,
+     "home": -599
+    },
+    "spread": {
+     "line": 10.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 450,
+     "home": -700
+    },
+    "spread": {
+     "line": 11.5,
+     "away": -120,
+     "home": -105
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "spread": {
+     "line": 11.5,
+     "away": -120,
+     "home": 100
+    },
+    "total": {
+     "line": 143.5,
+     "away": -115,
+     "home": -105
+    }
+   }
+  },
+  "open": {
+   "away_ml": 451,
+   "home_ml": -621,
+   "away_spread": 10.5,
+   "home_spread": -10.5,
+   "total": 143.5
+  },
+  "away": "PRST",
+  "home": "SF",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big Sky",
+  "home_conf": "WCC",
+  "status": "pre",
+  "tip_et": "2026-11-14T19:00:00-05:00"
+ },
+ "393931": {
+  "game_id": "393931",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 170,
+     "home": -210
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 140.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 170,
+     "home": -205
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 140.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 170,
+     "home": -205
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 140.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 162,
+     "home": -196
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 140.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 160,
+     "home": -195
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 141.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 170,
+     "home": -225
+    },
+    "spread": {
+     "line": 3.5,
+     "away": 107,
+     "home": -134
+    },
+    "total": {
+     "line": 141.5,
+     "away": -112,
+     "home": -112
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 170,
+     "home": -200
+    },
+    "spread": {
+     "line": 4.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 140.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 170,
+     "home": -220
+    },
+    "spread": {
+     "line": 3.5,
+     "away": 110,
+     "home": -130
+    },
+    "total": {
+     "line": 141.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 4.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 140.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 149,
+   "home_ml": -179,
+   "away_spread": 3.5,
+   "home_spread": -3.5,
+   "total": 141.0
+  },
+  "away": "UTRGV",
+  "home": "UTA",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Southland",
+  "home_conf": "WAC",
+  "status": "pre",
+  "tip_et": "2026-11-14T19:00:00-05:00"
+ },
+ "394423": {
+  "game_id": "394423",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 350,
+     "home": -474
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 141.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 375,
+     "home": -500
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 141.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 340,
+     "home": -450
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -114,
+     "home": -106
+    },
+    "total": {
+     "line": 141.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 340,
+     "home": -450
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 141.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 340,
+     "home": -500
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -118,
+     "home": -106
+    },
+    "total": {
+     "line": 141.5,
+     "away": -110,
+     "home": -112
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 345,
+     "home": -455
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 141.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 340,
+     "home": -450
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -120,
+     "home": 100
+    },
+    "total": {
+     "line": 141.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 350,
+     "home": -500
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 141.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "spread": {
+     "line": 8.5,
+     "away": -109,
+     "home": -125
+    },
+    "total": {
+     "line": 141.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 387,
+   "home_ml": -515,
+   "away_spread": 9.5,
+   "home_spread": -9.5,
+   "total": 141.5
+  },
+  "away": "HOW",
+  "home": "DAV",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "MEAC",
+  "home_conf": "Atlantic 10",
+  "status": "pre",
+  "tip_et": "2026-11-14T19:00:00-05:00"
+ },
+ "385391": {
+  "game_id": "385391",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": -285,
+     "home": 230
+    },
+    "spread": {
+     "line": -6.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 147.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": -280,
+     "home": 230
+    },
+    "spread": {
+     "line": -6.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 147.5,
+     "away": -111,
+     "home": -109
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": -290,
+     "home": 235
+    },
+    "spread": {
+     "line": -6.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 147.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": -280,
+     "home": 225
+    },
+    "spread": {
+     "line": -6.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 147.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": -285,
+     "home": 230
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -450,
+     "home": 325
+    },
+    "total": {
+     "line": 147.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -305,
+     "home": 230
+    },
+    "spread": {
+     "line": -6.5,
+     "away": -114,
+     "home": -109
+    },
+    "total": {
+     "line": 147.5,
+     "away": -113,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": -285,
+     "home": 228
+    },
+    "spread": {
+     "line": -6.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 147.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -275,
+     "home": 225
+    },
+    "spread": {
+     "line": -5.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 147.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -300,
+     "home": 230
+    },
+    "spread": {
+     "line": -6.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 147.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": -305,
+   "home_ml": 245,
+   "away_spread": -6.5,
+   "home_spread": 6.5,
+   "total": 147.5
+  },
+  "away": "CIN",
+  "home": "DAY",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big 12",
+  "home_conf": "Atlantic 10",
+  "status": "pre",
+  "tip_et": "2026-11-14T19:30:00-05:00"
+ },
+ "392538": {
+  "game_id": "392538",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": -140,
+     "home": 115
+    },
+    "spread": {
+     "line": -2.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 159.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": -136,
+     "home": 116
+    },
+    "spread": {
+     "line": -2.5,
+     "away": -109,
+     "home": -111
+    },
+    "total": {
+     "line": 159.5,
+     "away": -111,
+     "home": -109
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": -135,
+     "home": 114
+    },
+    "spread": {
+     "line": -2.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 159.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": -138,
+     "home": 116
+    },
+    "spread": {
+     "line": -2.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 160.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": -140,
+     "home": 115
+    },
+    "spread": {
+     "line": -2.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 160.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -143,
+     "home": 115
+    },
+    "spread": {
+     "line": -2.5,
+     "away": -105,
+     "home": -120
+    },
+    "total": {
+     "line": 160.5,
+     "away": -112,
+     "home": -112
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": -135,
+     "home": 115
+    },
+    "spread": {
+     "line": -2.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 160.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -140,
+     "home": 120
+    },
+    "spread": {
+     "line": -2.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 159.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -145,
+     "home": 115
+    },
+    "spread": {
+     "line": -2.5,
+     "away": -105,
+     "home": -120
+    },
+    "total": {
+     "line": 160.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": -143,
+   "home_ml": 120,
+   "away_spread": -2.5,
+   "home_spread": 2.5,
+   "total": 163.5
+  },
+  "away": "IUPU",
+  "home": "MORE",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Horizon",
+  "home_conf": "Ohio Valley",
+  "status": "pre",
+  "tip_et": "2026-11-14T19:30:00-05:00"
+ },
+ "394343": {
+  "game_id": "394343",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 1000,
+     "home": -2000
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 144.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 950,
+     "home": -1700
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 145.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 850,
+     "home": -1450
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -118,
+     "home": -102
+    },
+    "total": {
+     "line": 145.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 1100,
+     "home": -2500
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -118,
+     "home": -104
+    },
+    "total": {
+     "line": 144.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 1000,
+     "home": -1800
+    },
+    "spread": {
+     "line": 16.0,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 145.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 800,
+     "home": -2000
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -122,
+     "home": -103
+    },
+    "total": {
+     "line": 145.5,
+     "away": 100,
+     "home": -122
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 900,
+     "home": -1587
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 144.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 1000,
+     "home": -2000
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 144.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 800,
+     "home": -2000
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -120,
+     "home": 100
+    },
+    "total": {
+     "line": 145.5,
+     "away": 100,
+     "home": -120
+    }
+   }
+  },
+  "open": {
+   "away_spread": 16.5,
+   "home_spread": -16.5,
+   "total": 144.0
+  },
+  "away": "BING",
+  "home": "DUQ",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "AE",
+  "home_conf": "Atlantic 10",
+  "status": "pre",
+  "tip_et": "2026-11-14T19:30:00-05:00"
+ },
+ "395962": {
+  "game_id": "395962",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 400,
+     "home": -549
+    },
+    "spread": {
+     "line": 10.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 147.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 400,
+     "home": -550
+    },
+    "spread": {
+     "line": 10.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 146.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 400,
+     "home": -550
+    },
+    "spread": {
+     "line": 10.5,
+     "away": -120,
+     "home": -102
+    },
+    "total": {
+     "line": 146.5,
+     "away": -114,
+     "home": -106
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 400,
+     "home": -550
+    },
+    "spread": {
+     "line": 10.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 146.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 400,
+     "home": -592
+    },
+    "spread": {
+     "line": 10.5,
+     "away": -114,
+     "home": -109
+    },
+    "total": {
+     "line": 146.5,
+     "away": -112,
+     "home": -112
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 400,
+     "home": -549
+    },
+    "spread": {
+     "line": 10.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 146.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 400,
+     "home": -600
+    },
+    "spread": {
+     "line": 10.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 146.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "spread": {
+     "line": 9.5,
+     "away": -108,
+     "home": -125
+    },
+    "total": {
+     "line": 146.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "spread": {
+     "line": 10.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 146.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {},
+  "away": "UMBC",
+  "home": "TOWS",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "AE",
+  "home_conf": "CAA",
+  "status": "pre",
+  "tip_et": "2026-11-14T19:30:00-05:00"
+ },
+ "383696": {
+  "game_id": "383696",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 125,
+     "home": -155
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -118,
+     "home": -102
+    },
+    "total": {
+     "line": 160.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 130,
+     "home": -155
+    },
+    "spread": {
+     "line": 2.5,
+     "away": -106,
+     "home": -114
+    },
+    "total": {
+     "line": 160.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 130,
+     "home": -155
+    },
+    "spread": {
+     "line": 2.5,
+     "away": -102,
+     "home": -118
+    },
+    "total": {
+     "line": 160.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 130,
+     "home": -156
+    },
+    "spread": {
+     "line": 2.5,
+     "away": -102,
+     "home": -120
+    },
+    "total": {
+     "line": 161.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 130,
+     "home": -155
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 160.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 132,
+     "home": -165
+    },
+    "spread": {
+     "line": 2.5,
+     "away": -104,
+     "home": -120
+    },
+    "total": {
+     "line": 160.5,
+     "away": -113,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 130,
+     "home": -155
+    },
+    "spread": {
+     "line": 1.5,
+     "away": 110,
+     "home": -140
+    },
+    "total": {
+     "line": 160.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 125,
+     "home": -145
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 160.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 130,
+     "home": -165
+    },
+    "spread": {
+     "line": 2.5,
+     "away": 100,
+     "home": -120
+    },
+    "total": {
+     "line": 160.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 140,
+   "home_ml": -167,
+   "away_spread": 3.5,
+   "home_spread": -3.5,
+   "total": 159.5
+  },
+  "away": "UCD",
+  "home": "SAC",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Mountain West",
+  "home_conf": "Big West",
+  "status": "pre",
+  "tip_et": "2026-11-14T20:00:00-05:00"
+ },
+ "388362": {
+  "game_id": "388362",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 3300,
+     "home": -10000
+    },
+    "spread": {
+     "line": 32.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 164.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 7000,
+     "home": -50000
+    },
+    "spread": {
+     "line": 32.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 165.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "spread": {
+     "line": 32.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 164.5,
+     "away": -109,
+     "home": -111
+    }
+   },
+   "DraftKings": {
+    "spread": {
+     "line": 32.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 164.5,
+     "away": -108,
+     "home": -112
+    }
+   },
+   "FanDuel": {
+    "spread": {
+     "line": 32.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 164.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "spread": {
+     "line": 32.5,
+     "away": -109,
+     "home": -113
+    },
+    "total": {
+     "line": 164.5,
+     "away": -110,
+     "home": -113
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 32.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 164.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "spread": {
+     "line": 32.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 164.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Hard Rock Bet": {
+    "spread": {
+     "line": 32.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 164.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_spread": 32.5,
+   "home_spread": -32.5,
+   "total": 164.0
+  },
+  "away": "ULM",
+  "home": "GC",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Sun Belt",
+  "home_conf": "Mountain West",
+  "status": "pre",
+  "tip_et": "2026-11-14T20:00:00-05:00"
+ },
+ "389900": {
+  "game_id": "389900",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": -115,
+     "home": -105
+    },
+    "spread": {
+     "line": -1.5,
+     "away": -102,
+     "home": -118
+    },
+    "total": {
+     "line": 138.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 100,
+     "home": -120
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 138.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 102,
+     "home": -122
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 137.5,
+     "away": -114,
+     "home": -106
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 100,
+     "home": -120
+    },
+    "spread": {
+     "line": 1.0,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 139.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -106,
+     "home": -121
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -122,
+     "home": 100
+    },
+    "total": {
+     "line": 138.5,
+     "away": -109,
+     "home": -114
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": -125,
+     "home": 105
+    },
+    "spread": {
+     "line": -1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 138.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -115,
+     "home": -105
+    },
+    "spread": {
+     "line": -1.5,
+     "away": 100,
+     "home": -125
+    },
+    "total": {
+     "line": 139.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -105,
+     "home": -120
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -120,
+     "home": 100
+    },
+    "total": {
+     "line": 138.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "spread": {
+     "line": -1.5,
+     "away": 105,
+     "home": -125
+    },
+    "total": {
+     "line": 138.5,
+     "away": -108,
+     "home": -112
+    }
+   }
+  },
+  "open": {
+   "total": 138.0
+  },
+  "away": "LT",
+  "home": "NICH",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Sun Belt",
+  "home_conf": "Southland",
+  "status": "pre",
+  "tip_et": "2026-11-14T20:00:00-05:00"
+ },
+ "390801": {
+  "game_id": "390801",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 360,
+     "home": -474
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 350,
+     "home": -450
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 320,
+     "home": -410
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 360,
+     "home": -481
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 325,
+     "home": -425
+    },
+    "spread": {
+     "line": 10.0,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 143.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 350,
+     "home": -529
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -113
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -112
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 360,
+     "home": -481
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 290,
+     "home": -380
+    },
+    "spread": {
+     "line": 8.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 143.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 350,
+     "home": -525
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "total": 143.0
+  },
+  "away": "NWST",
+  "home": "UALR",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Southland",
+  "home_conf": "WAC",
+  "status": "pre",
+  "tip_et": "2026-11-14T20:00:00-05:00"
+ },
+ "390634": {
+  "game_id": "390634",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 125,
+     "home": -150
+    },
+    "spread": {
+     "line": 2.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 153.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 125,
+     "home": -150
+    },
+    "spread": {
+     "line": 2.5,
+     "away": -107,
+     "home": -113
+    },
+    "total": {
+     "line": 154.5,
+     "away": -109,
+     "home": -111
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 124,
+     "home": -148
+    },
+    "spread": {
+     "line": 2.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 154.5,
+     "away": -108,
+     "home": -112
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 118,
+     "home": -142
+    },
+    "spread": {
+     "line": 2.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 153.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 125,
+     "home": -150
+    },
+    "spread": {
+     "line": 3.0,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 154.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 135,
+     "home": -167
+    },
+    "spread": {
+     "line": 2.5,
+     "away": -104,
+     "home": -121
+    },
+    "total": {
+     "line": 154.5,
+     "away": -112,
+     "home": -112
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 126,
+     "home": -150
+    },
+    "spread": {
+     "line": 1.5,
+     "away": 110,
+     "home": -140
+    },
+    "total": {
+     "line": 153.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 135,
+     "home": -165
+    },
+    "spread": {
+     "line": 2.5,
+     "away": 100,
+     "home": -120
+    },
+    "total": {
+     "line": 154.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "spread": {
+     "line": 2.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 154.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": 125,
+   "home_ml": -150,
+   "away_spread": 2.5,
+   "home_spread": -2.5,
+   "total": 154.5
+  },
+  "away": "FUR",
+  "home": "BEL",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Southern",
+  "home_conf": "Missouri Valley",
+  "status": "pre",
+  "tip_et": "2026-11-14T20:30:00-05:00"
+ },
+ "385700": {
+  "game_id": "385700",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": -102,
+     "home": -118
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": -102,
+     "home": -118
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 150.5,
+     "away": -111,
+     "home": -109
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 102,
+     "home": -122
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 150.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": -105,
+     "home": -115
+    },
+    "spread": {
+     "line": 1.0,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 100,
+     "home": -124
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -118,
+     "home": -105
+    },
+    "total": {
+     "line": 150.5,
+     "away": -112,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": -105,
+     "home": -115
+    },
+    "spread": {
+     "line": 2.5,
+     "away": -135,
+     "home": 105
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 100,
+     "home": -125
+    },
+    "spread": {
+     "line": 1.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "spread": {
+     "line": 1.5,
+     "away": -120,
+     "home": -105
+    },
+    "total": {
+     "line": 150.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": -101,
+   "home_ml": -117,
+   "away_spread": 1.5,
+   "home_spread": -1.5,
+   "total": 151.0
+  },
+  "away": "MONT",
+  "home": "UND",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big Sky",
+  "home_conf": "Summit League",
+  "status": "pre",
+  "tip_et": "2026-11-14T21:00:00-05:00"
+ },
+ "389899": {
+  "game_id": "389899",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 375,
+     "home": -500
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 152.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": 400,
+     "home": -550
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -106,
+     "home": -114
+    },
+    "total": {
+     "line": 152.5,
+     "away": -114,
+     "home": -106
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 390,
+     "home": -520
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 152.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": 420,
+     "home": -580
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -102,
+     "home": -120
+    },
+    "total": {
+     "line": 152.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 370,
+     "home": -500
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 153.0,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 375,
+     "home": -529
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -106,
+     "home": -118
+    },
+    "total": {
+     "line": 152.5,
+     "away": -117,
+     "home": -107
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 360,
+     "home": -481
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 153.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 375,
+     "home": -525
+    },
+    "spread": {
+     "line": 9.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 152.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "theScore Bet": {
+    "spread": {
+     "line": 9.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 152.5,
+     "away": -115,
+     "home": -105
+    }
+   }
+  },
+  "open": {
+   "away_ml": 419,
+   "home_ml": -568,
+   "away_spread": 9.5,
+   "home_spread": -9.5,
+   "total": 153.0
+  },
+  "away": "UVU",
+  "home": "NEV",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big West",
+  "home_conf": "Mountain West",
+  "status": "pre",
+  "tip_et": "2026-11-14T22:00:00-05:00"
+ },
+ "390542": {
+  "game_id": "390542",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": -120,
+     "home": 100
+    },
+    "spread": {
+     "line": -1.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 166.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "bet365": {
+    "moneyline": {
+     "line": null,
+     "away": -122,
+     "home": 102
+    },
+    "spread": {
+     "line": -1.5,
+     "away": -109,
+     "home": -111
+    },
+    "total": {
+     "line": 166.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": -120,
+     "home": 100
+    },
+    "spread": {
+     "line": -1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 166.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "FanDuel": {
+    "moneyline": {
+     "line": null,
+     "away": -126,
+     "home": 105
+    },
+    "spread": {
+     "line": -1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 166.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": -125,
+     "home": 105
+    },
+    "spread": {
+     "line": -1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 156.5,
+     "away": -285,
+     "home": 220
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": -124,
+     "home": 100
+    },
+    "spread": {
+     "line": -1.5,
+     "away": -106,
+     "home": -118
+    },
+    "total": {
+     "line": 166.5,
+     "away": -108,
+     "home": -115
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": -125,
+     "home": 105
+    },
+    "spread": {
+     "line": -1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 166.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": -125,
+     "home": 100
+    },
+    "spread": {
+     "line": -1.5,
+     "away": -105,
+     "home": -115
+    },
+    "total": {
+     "line": 165.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "theScore Bet": {
+    "spread": {
+     "line": -1.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 166.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_ml": -120,
+   "home_ml": 101,
+   "away_spread": -1.5,
+   "home_spread": 1.5,
+   "total": 164.5
+  },
+  "away": "UNM",
+  "home": "SCU",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Mountain West",
+  "home_conf": "WCC",
+  "status": "pre",
+  "tip_et": "2026-11-14T22:00:00-05:00"
+ },
+ "385206": {
+  "game_id": "385206",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 135,
+     "home": -160
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -115,
+     "home": -105
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 136,
+     "home": -162
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -112,
+     "home": -108
+    },
+    "total": {
+     "line": 143.5,
+     "away": -112,
+     "home": -108
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 143,
+     "home": -182
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -113,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -113,
+     "home": -110
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 145,
+     "home": -180
+    },
+    "spread": {
+     "line": 3.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 143.5,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "Caesars Odds": {
+    "spread": {
+     "line": 3.0,
+     "away": -110,
+     "home": -110
+    }
+   },
+   "theScore Bet": {
+    "spread": {
+     "line": 3.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 144.5,
+     "away": -105,
+     "home": -115
+    }
+   }
+  },
+  "open": {
+   "away_ml": 135,
+   "home_ml": -161,
+   "away_spread": 3.5,
+   "home_spread": -3.5,
+   "total": 144.0
+  },
+  "away": "WASH",
+  "home": "UTAH",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big Ten",
+  "home_conf": "Big 12",
+  "status": "pre",
+  "tip_et": "2026-11-15T14:00:00-05:00"
+ },
+ "390994": {
+  "game_id": "390994",
+  "books": {
+   "BetMGM": {
+    "moneyline": {
+     "line": null,
+     "away": 1000,
+     "home": -2000
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 144.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "DraftKings": {
+    "moneyline": {
+     "line": null,
+     "away": 1000,
+     "home": -1786
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -108,
+     "home": -112
+    },
+    "total": {
+     "line": 144.5,
+     "away": -108,
+     "home": -112
+    }
+   },
+   "Fanatics Sportsbook": {
+    "moneyline": {
+     "line": null,
+     "away": 1000,
+     "home": -1800
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 134.5,
+     "away": -350,
+     "home": 260
+    }
+   },
+   "BetRivers": {
+    "moneyline": {
+     "line": null,
+     "away": 850,
+     "home": -2000
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -118,
+     "home": -106
+    },
+    "total": {
+     "line": 144.5,
+     "away": -108,
+     "home": -115
+    }
+   },
+   "Caesars Odds": {
+    "moneyline": {
+     "line": null,
+     "away": 1050,
+     "home": -2000
+    }
+   },
+   "Hard Rock Bet": {
+    "moneyline": {
+     "line": null,
+     "away": 850,
+     "home": -2000
+    },
+    "spread": {
+     "line": 16.5,
+     "away": -115,
+     "home": -105
+    },
+    "total": {
+     "line": 144.5,
+     "away": -105,
+     "home": -115
+    }
+   },
+   "bet365": {
+    "spread": {
+     "line": 17.5,
+     "away": -135,
+     "home": -105
+    }
+   },
+   "theScore Bet": {
+    "spread": {
+     "line": 16.5,
+     "away": -110,
+     "home": -110
+    },
+    "total": {
+     "line": 144.5,
+     "away": -110,
+     "home": -110
+    }
+   }
+  },
+  "open": {
+   "away_spread": 16.5,
+   "home_spread": -16.5,
+   "total": 144.5
+  },
+  "away": "IDST",
+  "home": "SEA",
+  "away_rank": "-1",
+  "home_rank": "-1",
+  "away_conf": "Big Sky",
+  "home_conf": "WCC",
+  "status": "pre",
+  "tip_et": "2026-11-15T16:00:00-05:00"
+ }
+}

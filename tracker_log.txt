@@ -1,0 +1,1834 @@
+2026-11-03 00:09:54 Tracking lines every 10 min. Leave this window open; it stops by itself once every game today has tipped.
+2026-11-03 00:10:02 [00:10:02 ET] 139 games on board | 19 pre-game lines updated | 25 newly closed
+2026-11-03 00:11:26 Tracking lines every 10 min. Leave this window open; it stops by itself once every game today has tipped.
+2026-11-03 00:11:32 [00:11:32 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 00:20:13 Tracking lines every 10 min. Leave this window open; it stops by itself once every game today has tipped.
+2026-11-03 00:20:23 [00:20:23 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 01:10:18 Tracking lines every 10 min. Leave this window open; it stops by itself once every game today has tipped.
+2026-11-03 01:10:27 [01:10:27 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 01:16:50 Tracking lines every 10 min. Leave this window open; it stops by itself once every game today has tipped.
+2026-11-03 01:16:58 [01:16:58 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 01:27:32 [01:27:32 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 01:38:10 [01:38:10 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 04:09:07 Tracking lines every 10 min. Leave this window open; it stops by itself once every game today has tipped.
+2026-11-03 04:09:15 [04:09:15 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 04:19:27 [04:19:27 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 04:29:37 [04:29:37 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 04:39:47 [04:39:47 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 04:50:01 [04:50:01 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 05:00:14 [05:00:14 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 05:10:26 [05:10:26 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 05:20:40 [05:20:40 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 05:30:53 [05:30:53 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 05:41:06 [05:41:06 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 05:51:19 [05:51:19 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 06:01:31 [06:01:31 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 06:11:43 [06:11:43 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 06:21:54 [06:21:54 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 06:32:05 [06:32:05 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 06:42:18 [06:42:18 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 06:52:30 [06:52:30 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 07:02:40 [07:02:40 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 07:12:51 [07:12:51 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 07:23:03 [07:23:03 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 07:33:15 [07:33:15 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 07:43:27 [07:43:27 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 07:53:41 [07:53:41 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 08:03:53 [08:03:53 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 08:14:06 [08:14:06 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 08:24:23 [08:24:23 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 08:34:36 [08:34:36 ET] 139 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 08:44:44 [08:44:44 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 08:54:49 [08:54:49 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 09:04:55 [09:04:55 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 09:15:02 [09:15:02 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 09:25:07 [09:25:07 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 09:35:13 [09:35:13 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 09:45:19 [09:45:19 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 09:55:25 [09:55:25 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 10:05:33 [10:05:33 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 10:15:39 [10:15:39 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 10:25:45 [10:25:45 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 10:35:51 [10:35:51 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 10:45:57 [10:45:57 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 10:56:03 [10:56:03 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 11:06:09 [11:06:09 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 11:16:15 [11:16:15 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 11:26:21 [11:26:21 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 11:36:27 [11:36:27 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 11:46:33 [11:46:33 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 11:56:38 [11:56:38 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 12:06:46 [12:06:46 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 12:16:53 [12:16:53 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 12:27:01 [12:27:01 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 12:37:10 [12:37:10 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 12:47:16 [12:47:16 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 12:57:22 [12:57:22 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 13:07:29 [13:07:29 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 13:17:34 [13:17:34 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 13:27:40 [13:27:40 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 13:37:46 [13:37:46 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 13:47:52 [13:47:52 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 13:57:58 [13:57:58 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 14:08:05 [14:08:05 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 14:18:12 [14:18:12 ET] 22 games on board | 21 pre-game lines updated | 0 newly closed
+2026-11-03 14:18:14 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 14:28:19 [14:28:19 ET] 22 games on board | 21 pre-game lines updated | 0 newly closed
+2026-11-03 14:28:21 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 14:38:25 [14:38:25 ET] 22 games on board | 21 pre-game lines updated | 0 newly closed
+2026-11-03 14:38:27 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 14:48:32 [14:48:32 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 14:48:34 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 14:48:34 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 14:48:35 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 14:58:40 [14:58:40 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 14:58:42 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 14:58:42 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 14:58:43 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 15:08:47 [15:08:47 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 15:08:49 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 15:08:50 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 15:08:50 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 15:18:55 [15:18:55 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 15:18:58 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 15:18:58 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 15:18:58 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 15:29:03 [15:29:03 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 15:29:05 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 15:29:06 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 15:29:06 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 15:39:10 [15:39:10 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 15:39:12 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 15:39:13 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 15:39:13 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 15:49:18 [15:49:18 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 15:49:20 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 15:49:20 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 15:49:21 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 15:59:25 [15:59:25 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 15:59:27 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 15:59:28 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 15:59:28 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 16:09:32 [16:09:32 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 16:09:35 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 16:09:35 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 16:09:35 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 16:19:40 [16:19:40 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 16:19:44 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 16:19:45 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 16:19:45 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 16:29:49 [16:29:49 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 16:29:52 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 16:29:52 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 16:29:52 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 16:39:57 [16:39:57 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 16:40:00 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 16:40:00 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 16:40:01 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 16:50:04 [16:50:04 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 16:50:07 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 16:50:07 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 16:50:08 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 17:00:12 [17:00:12 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 17:00:15 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 17:00:15 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 17:00:16 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 17:10:20 [17:10:20 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 17:10:23 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 17:10:23 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 17:10:23 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 17:20:27 [17:20:27 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 17:20:30 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 17:20:31 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 17:20:31 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 17:30:35 [17:30:35 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 17:30:38 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 17:30:38 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 17:30:38 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 17:40:42 [17:40:42 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 17:40:45 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 17:40:45 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 17:40:46 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 17:50:49 [17:50:49 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-03 17:50:52 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 17:50:52 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 17:50:53 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 18:00:58 [18:00:58 ET] 24 games on board | 22 pre-game lines updated | 1 newly closed
+2026-11-03 18:01:00 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 18:01:00 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 18:01:01 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 18:11:04 [18:11:04 ET] 26 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-03 18:11:07 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 18:11:07 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 18:11:07 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 18:11:08 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 18:11:08 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 18:21:12 [18:21:12 ET] 30 games on board | 28 pre-game lines updated | 0 newly closed
+2026-11-03 18:21:16 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 18:21:16 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 18:21:17 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 18:21:17 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 18:21:17 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 18:21:18 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 18:21:18 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 18:21:18 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 18:21:19 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 18:31:23 [18:31:23 ET] 30 games on board | 28 pre-game lines updated | 0 newly closed
+2026-11-03 18:31:26 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 18:31:26 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 18:31:26 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 18:31:27 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 18:31:27 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 18:31:27 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 18:31:28 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 18:31:28 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 18:31:28 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 18:41:32 [18:41:32 ET] 30 games on board | 28 pre-game lines updated | 0 newly closed
+2026-11-03 18:41:35 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 18:41:35 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 18:41:35 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 18:41:36 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 18:41:36 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 18:41:36 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 18:41:37 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 18:41:37 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 18:41:38 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 18:51:41 [18:51:41 ET] 30 games on board | 28 pre-game lines updated | 0 newly closed
+2026-11-03 18:51:44 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 18:51:44 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 18:51:45 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 18:51:45 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 18:51:45 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 18:51:46 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 18:51:46 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 18:51:46 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 18:51:46 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 19:01:51 [19:01:51 ET] 30 games on board | 21 pre-game lines updated | 7 newly closed
+2026-11-03 19:01:54 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 19:01:54 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 19:01:54 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 19:01:55 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 19:01:55 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 19:01:55 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 19:01:56 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 19:01:56 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 19:01:56 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 19:12:01 [19:12:01 ET] 30 games on board | 21 pre-game lines updated | 0 newly closed
+2026-11-03 19:12:03 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 19:12:04 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 19:12:04 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 19:12:04 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 19:12:05 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 19:12:05 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 19:12:05 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 19:12:06 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 19:12:06 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 19:22:10 [19:22:10 ET] 30 games on board | 21 pre-game lines updated | 0 newly closed
+2026-11-03 19:22:13 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 19:22:13 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 19:22:13 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 19:22:14 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 19:22:14 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 19:22:15 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 19:22:15 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 19:22:16 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 19:22:16 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 19:32:21 [19:32:21 ET] 30 games on board | 19 pre-game lines updated | 2 newly closed
+2026-11-03 19:32:24 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 19:32:24 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 19:32:24 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 19:32:24 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 19:32:25 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 19:32:25 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 19:32:25 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 19:32:26 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 19:32:26 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 19:42:31 [19:42:31 ET] 30 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 19:42:33 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 19:42:34 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 19:42:34 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 19:42:34 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 19:42:35 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 19:42:35 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 19:42:35 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 19:42:36 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 19:42:36 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 19:52:40 [19:52:40 ET] 30 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-03 19:52:42 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 19:52:43 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 19:52:43 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 19:52:43 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 19:52:44 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 19:52:44 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 19:52:45 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 19:52:45 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 19:52:45 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 20:02:50 [20:02:50 ET] 30 games on board | 13 pre-game lines updated | 6 newly closed
+2026-11-03 20:02:52 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 20:02:53 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 20:02:53 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 20:02:53 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 20:02:54 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 20:02:54 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 20:02:55 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 20:02:55 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 20:02:55 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 20:12:59 [20:12:59 ET] 30 games on board | 13 pre-game lines updated | 0 newly closed
+2026-11-03 20:13:02 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 20:13:02 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 20:13:03 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 20:13:03 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 20:13:03 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 20:13:04 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 20:13:04 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 20:13:04 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 20:13:05 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 20:23:09 [20:23:09 ET] 30 games on board | 13 pre-game lines updated | 0 newly closed
+2026-11-03 20:23:12 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 20:23:12 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 20:23:13 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 20:23:13 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 20:23:13 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 20:23:14 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 20:23:14 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 20:23:14 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 20:23:14 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 20:33:19 [20:33:19 ET] 30 games on board | 13 pre-game lines updated | 0 newly closed
+2026-11-03 20:33:21 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 20:33:22 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 20:33:22 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 20:33:22 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 20:33:23 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 20:33:23 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 20:33:23 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 20:33:24 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 20:33:24 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 20:43:28 [20:43:28 ET] 30 games on board | 13 pre-game lines updated | 0 newly closed
+2026-11-03 20:43:31 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 20:43:31 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 20:43:32 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 20:43:32 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 20:43:32 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 20:43:33 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 20:43:33 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 20:43:33 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 20:43:34 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 20:53:38 [20:53:38 ET] 30 games on board | 13 pre-game lines updated | 0 newly closed
+2026-11-03 20:53:41 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 20:53:41 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 20:53:41 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 20:53:42 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 20:53:42 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 20:53:42 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 20:53:43 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 20:53:45 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 20:53:45 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 21:03:50 [21:03:50 ET] 30 games on board | 13 pre-game lines updated | 0 newly closed
+2026-11-03 21:03:53 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 21:03:54 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 21:03:54 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 21:03:54 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 21:03:55 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 21:03:55 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 21:03:55 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 21:03:56 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 21:03:56 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 21:14:01 [21:14:01 ET] 30 games on board | 13 pre-game lines updated | 0 newly closed
+2026-11-03 21:14:04 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 21:14:04 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 21:14:05 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 21:14:05 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 21:14:05 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 21:14:06 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 21:14:06 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 21:14:06 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 21:14:07 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 21:24:12 [21:24:12 ET] 30 games on board | 13 pre-game lines updated | 0 newly closed
+2026-11-03 21:24:14 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 21:24:15 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 21:24:15 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 21:24:16 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 21:24:16 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 21:24:16 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 21:24:17 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 21:24:17 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 21:24:18 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 21:34:22 [21:34:22 ET] 30 games on board | 13 pre-game lines updated | 0 newly closed
+2026-11-03 21:34:25 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 21:34:25 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 21:34:26 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 21:34:26 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 21:34:26 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 21:34:27 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 21:34:27 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 21:34:27 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 21:34:28 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 21:44:32 [21:44:32 ET] 30 games on board | 13 pre-game lines updated | 0 newly closed
+2026-11-03 21:44:35 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 21:44:35 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 21:44:35 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 21:44:36 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 21:44:36 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 21:44:36 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 21:44:37 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 21:44:37 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 21:44:37 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 21:54:42 [21:54:42 ET] 30 games on board | 13 pre-game lines updated | 0 newly closed
+2026-11-03 21:54:45 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 21:54:45 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 21:54:46 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 21:54:46 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 21:54:47 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 21:54:47 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 21:54:47 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 21:54:48 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 21:54:48 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-03 22:04:53 [22:04:53 ET] 30 games on board | 10 pre-game lines updated | 3 newly closed
+2026-11-03 22:04:55 [warn] team name lookup: no title on game 384162 page (HTTP 200)
+2026-11-03 22:04:56 [warn] team name lookup: no title on game 390694 page (HTTP 200)
+2026-11-03 22:04:56 [warn] team name lookup: no title on game 390875 page (HTTP 200)
+2026-11-03 22:04:56 [warn] team name lookup: no title on game 391617 page (HTTP 200)
+2026-11-03 22:04:57 [warn] team name lookup: no title on game 394885 page (HTTP 200)
+2026-11-03 22:04:57 [warn] team name lookup: no title on game 390971 page (HTTP 200)
+2026-11-03 22:04:57 [warn] team name lookup: no title on game 392394 page (HTTP 200)
+2026-11-03 22:04:57 [warn] team name lookup: no title on game 391348 page (HTTP 200)
+2026-11-03 22:04:58 [warn] team name lookup: no title on game 392259 page (HTTP 200)
+2026-11-04 16:08:18 Opening lines recalculated from saved history for 98 games.
+2026-11-04 16:08:18 Tracking lines every 10 min. Leave this window open (minimized is fine); it keeps running day after day. The PC must stay awake for it to work.
+2026-11-04 16:08:20 [16:08:20 ET] 28 games on board | 28 pre-game lines updated | 0 newly closed
+2026-11-04 16:13:37 [16:13:37 ET] 158 games on board | 94 pre-game lines updated | 0 newly closed
+2026-11-04 16:47:17 [16:47:17 ET] 28 games on board | 28 pre-game lines updated | 0 newly closed
+2026-11-04 16:57:01 [16:57:01 ET] 28 games on board | 28 pre-game lines updated | 0 newly closed
+2026-11-04 17:06:42 [17:06:42 ET] 28 games on board | 28 pre-game lines updated | 0 newly closed
+2026-11-04 17:16:27 [17:16:27 ET] 30 games on board | 30 pre-game lines updated | 0 newly closed
+2026-11-04 17:26:11 [17:26:11 ET] 158 games on board | 98 pre-game lines updated | 0 newly closed
+2026-11-04 17:35:55 [17:35:55 ET] 158 games on board | 101 pre-game lines updated | 0 newly closed
+2026-11-04 17:45:38 [17:45:38 ET] 158 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-04 17:55:17 [17:55:17 ET] 46 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-04 18:04:57 [18:04:57 ET] 47 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-04 18:14:40 [18:14:40 ET] 158 games on board | 105 pre-game lines updated | 0 newly closed
+2026-11-04 18:24:19 [18:24:19 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-04 18:34:01 [18:34:01 ET] 158 games on board | 105 pre-game lines updated | 1 newly closed
+2026-11-04 18:43:44 [18:43:44 ET] 158 games on board | 95 pre-game lines updated | 0 newly closed
+2026-11-04 18:53:26 [18:53:26 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-04 19:03:06 [19:03:06 ET] 158 games on board | 99 pre-game lines updated | 7 newly closed
+2026-11-04 19:12:49 [19:12:49 ET] 53 games on board | 50 pre-game lines updated | 0 newly closed
+2026-11-04 19:22:31 [19:22:31 ET] 53 games on board | 50 pre-game lines updated | 0 newly closed
+2026-11-04 19:32:15 [19:32:15 ET] 53 games on board | 49 pre-game lines updated | 1 newly closed
+2026-11-04 19:42:03 [19:42:03 ET] 158 games on board | 95 pre-game lines updated | 5 newly closed
+2026-11-04 19:51:40 [19:51:40 ET] 53 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-04 20:01:22 [20:01:22 ET] 53 games on board | 47 pre-game lines updated | 2 newly closed
+2026-11-04 20:11:03 [20:11:03 ET] 158 games on board | 80 pre-game lines updated | 1 newly closed
+2026-11-04 20:20:46 [20:20:46 ET] 53 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-04 20:30:28 [20:30:28 ET] 53 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-04 20:40:08 [20:40:08 ET] 158 games on board | 93 pre-game lines updated | 0 newly closed
+2026-11-04 20:49:55 [20:49:55 ET] 158 games on board | 92 pre-game lines updated | 0 newly closed
+2026-11-04 20:59:32 [20:59:32 ET] 53 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-04 21:09:19 [21:09:19 ET] 53 games on board | 46 pre-game lines updated | 1 newly closed
+2026-11-04 21:19:07 [21:19:07 ET] 53 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-04 21:28:47 [21:28:47 ET] 53 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-04 21:38:34 [21:38:34 ET] 53 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-04 21:48:16 [21:48:16 ET] 53 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-04 21:57:58 [21:57:58 ET] 158 games on board | 96 pre-game lines updated | 0 newly closed | 1 added already live (missed close)
+2026-11-04 22:07:38 [22:07:38 ET] 53 games on board | 43 pre-game lines updated | 3 newly closed
+2026-11-04 22:17:21 [22:17:21 ET] 53 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-04 22:27:05 [22:27:05 ET] 158 games on board | 93 pre-game lines updated | 0 newly closed
+2026-11-04 22:36:47 [22:36:47 ET] 158 games on board | 92 pre-game lines updated | 0 newly closed
+2026-11-04 22:46:35 [22:46:35 ET] 53 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-04 22:56:17 [22:56:17 ET] 53 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-04 23:05:59 [23:05:59 ET] 158 games on board | 89 pre-game lines updated | 0 newly closed
+2026-11-04 23:15:41 [23:15:41 ET] 53 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-04 23:25:21 [23:25:21 ET] 53 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-04 23:35:04 [23:35:04 ET] 53 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-04 23:44:42 [23:44:42 ET] 53 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-04 23:54:25 [23:54:25 ET] 53 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 00:04:04 [00:04:04 ET] 190 games on board | 134 pre-game lines updated | 0 newly closed
+2026-11-05 00:13:46 [00:13:46 ET] 43 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 00:23:28 [00:23:28 ET] 190 games on board | 130 pre-game lines updated | 0 newly closed
+2026-11-05 00:33:04 [00:33:04 ET] 43 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 00:42:47 [00:42:47 ET] 43 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 00:52:28 [00:52:28 ET] 43 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 01:02:10 [01:02:10 ET] 43 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 01:11:56 [01:11:56 ET] 43 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 01:21:37 [01:21:37 ET] 43 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 01:31:30 [01:31:30 ET] 43 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 01:41:12 [01:41:12 ET] 43 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 01:50:57 [01:50:57 ET] 43 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 02:00:38 [02:00:38 ET] 190 games on board | 138 pre-game lines updated | 0 newly closed
+2026-11-05 02:10:27 [02:10:27 ET] 190 games on board | 134 pre-game lines updated | 0 newly closed
+2026-11-05 02:20:08 [02:20:08 ET] 190 games on board | 127 pre-game lines updated | 0 newly closed
+2026-11-05 02:29:48 [02:29:48 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 02:39:36 [02:39:36 ET] 190 games on board | 133 pre-game lines updated | 0 newly closed
+2026-11-05 02:49:15 [02:49:15 ET] 190 games on board | 138 pre-game lines updated | 0 newly closed
+2026-11-05 02:58:53 [02:58:53 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 03:08:37 [03:08:37 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 03:18:19 [03:18:19 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 03:27:57 [03:27:57 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 03:37:44 [03:37:44 ET] 190 games on board | 123 pre-game lines updated | 0 newly closed
+2026-11-05 03:47:25 [03:47:25 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 03:57:04 [03:57:04 ET] 190 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-05 04:06:48 [04:06:48 ET] 190 games on board | 119 pre-game lines updated | 0 newly closed
+2026-11-05 04:16:31 [04:16:31 ET] 190 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-05 04:31:18 [04:31:18 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 04:40:58 [04:40:58 ET] 190 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-05 04:50:39 [04:50:39 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 05:00:25 [05:00:25 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 05:10:09 [05:10:09 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 05:19:50 [05:19:50 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 05:29:34 [05:29:34 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 05:39:13 [05:39:13 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 05:48:57 [05:48:57 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 05:58:39 [05:58:39 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 06:08:19 [06:08:19 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 06:18:03 [06:18:03 ET] 44 games on board | 44 pre-game lines updated | 0 newly closed
+2026-11-05 06:27:49 [06:27:49 ET] 190 games on board | 120 pre-game lines updated | 0 newly closed
+2026-11-05 06:37:30 [06:37:30 ET] 190 games on board | 120 pre-game lines updated | 0 newly closed
+2026-11-05 06:47:14 [06:47:14 ET] 190 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-05 06:56:58 [06:56:58 ET] 190 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-05 07:06:38 [07:06:38 ET] 190 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-05 07:16:23 [07:16:23 ET] 190 games on board | 116 pre-game lines updated | 0 newly closed
+2026-11-05 07:26:05 [07:26:05 ET] 190 games on board | 122 pre-game lines updated | 0 newly closed
+2026-11-05 07:35:45 [07:35:45 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 07:45:29 [07:45:29 ET] 190 games on board | 120 pre-game lines updated | 0 newly closed
+2026-11-05 07:55:08 [07:55:08 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 08:04:54 [08:04:54 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 08:14:41 [08:14:41 ET] 190 games on board | 120 pre-game lines updated | 0 newly closed
+2026-11-05 08:24:22 [08:24:22 ET] 190 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-05 08:34:05 [08:34:05 ET] 190 games on board | 128 pre-game lines updated | 0 newly closed
+2026-11-05 08:43:52 [08:43:52 ET] 190 games on board | 132 pre-game lines updated | 0 newly closed
+2026-11-05 08:53:28 [08:53:28 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 09:03:11 [09:03:11 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 09:12:55 [09:12:55 ET] 190 games on board | 126 pre-game lines updated | 0 newly closed
+2026-11-05 09:22:43 [09:22:43 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 09:32:28 [09:32:28 ET] 191 games on board | 136 pre-game lines updated | 0 newly closed
+2026-11-05 09:42:06 [09:42:06 ET] 191 games on board | 136 pre-game lines updated | 0 newly closed
+2026-11-05 09:51:51 [09:51:51 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 10:01:30 [10:01:30 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 10:11:14 [10:11:14 ET] 191 games on board | 129 pre-game lines updated | 0 newly closed
+2026-11-05 10:20:59 [10:20:59 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 10:33:09 [10:33:09 ET] 191 games on board | 128 pre-game lines updated | 0 newly closed
+2026-11-05 10:40:31 [10:40:31 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 10:50:15 [10:50:15 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 10:59:55 [10:59:55 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 11:10:16 [11:10:16 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 11:19:59 [11:19:59 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 11:29:46 [11:29:46 ET] 191 games on board | 132 pre-game lines updated | 0 newly closed
+2026-11-05 11:39:41 [11:39:41 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 11:49:38 [11:49:38 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 11:59:08 [11:59:08 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 12:08:49 [12:08:49 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 12:18:37 [12:18:37 ET] 191 games on board | 123 pre-game lines updated | 0 newly closed
+2026-11-05 12:28:21 [12:28:21 ET] 191 games on board | 125 pre-game lines updated | 0 newly closed
+2026-11-05 12:38:00 [12:38:00 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 12:47:43 [12:47:43 ET] 45 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 12:57:25 [12:57:25 ET] 191 games on board | 125 pre-game lines updated | 0 newly closed
+2026-11-05 13:07:08 [13:07:08 ET] 48 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-05 13:16:52 [13:16:52 ET] 49 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-05 13:26:34 [13:26:34 ET] 52 games on board | 51 pre-game lines updated | 0 newly closed
+2026-11-05 13:36:19 [13:36:19 ET] 58 games on board | 54 pre-game lines updated | 0 newly closed
+2026-11-05 13:45:58 [13:45:58 ET] 60 games on board | 58 pre-game lines updated | 0 newly closed
+2026-11-05 13:55:48 [13:55:48 ET] 62 games on board | 61 pre-game lines updated | 0 newly closed
+2026-11-05 14:05:30 [14:05:30 ET] 66 games on board | 66 pre-game lines updated | 0 newly closed
+2026-11-05 14:15:16 [14:15:16 ET] 69 games on board | 68 pre-game lines updated | 0 newly closed
+2026-11-05 14:24:54 [14:24:54 ET] 70 games on board | 70 pre-game lines updated | 0 newly closed
+2026-11-05 14:34:34 [14:34:34 ET] 73 games on board | 73 pre-game lines updated | 0 newly closed
+2026-11-05 14:44:16 [14:44:16 ET] 191 games on board | 136 pre-game lines updated | 0 newly closed
+2026-11-05 14:53:58 [14:53:58 ET] 79 games on board | 79 pre-game lines updated | 0 newly closed
+2026-11-05 15:03:42 [15:03:42 ET] 191 games on board | 134 pre-game lines updated | 0 newly closed
+2026-11-05 15:13:23 [15:13:23 ET] 191 games on board | 132 pre-game lines updated | 0 newly closed
+2026-11-05 15:23:07 [15:23:07 ET] 84 games on board | 84 pre-game lines updated | 0 newly closed
+2026-11-05 15:32:47 [15:32:47 ET] 84 games on board | 84 pre-game lines updated | 0 newly closed
+2026-11-05 15:42:32 [15:42:32 ET] 191 games on board | 129 pre-game lines updated | 0 newly closed
+2026-11-05 15:52:14 [15:52:14 ET] 191 games on board | 132 pre-game lines updated | 0 newly closed
+2026-11-05 16:01:54 [16:01:54 ET] 84 games on board | 84 pre-game lines updated | 0 newly closed
+2026-11-05 16:11:34 [16:11:34 ET] 84 games on board | 84 pre-game lines updated | 0 newly closed
+2026-11-05 16:21:17 [16:21:17 ET] 84 games on board | 84 pre-game lines updated | 0 newly closed
+2026-11-05 16:31:00 [16:31:00 ET] 84 games on board | 84 pre-game lines updated | 0 newly closed
+2026-11-05 16:40:47 [16:40:47 ET] 191 games on board | 120 pre-game lines updated | 0 newly closed
+2026-11-05 16:50:30 [16:50:30 ET] 191 games on board | 126 pre-game lines updated | 0 newly closed
+2026-11-05 17:00:13 [17:00:13 ET] 84 games on board | 83 pre-game lines updated | 1 newly closed
+2026-11-05 17:09:57 [17:09:57 ET] 84 games on board | 83 pre-game lines updated | 0 newly closed
+2026-11-05 17:19:38 [17:19:38 ET] 191 games on board | 125 pre-game lines updated | 0 newly closed
+2026-11-05 17:29:18 [17:29:18 ET] 84 games on board | 83 pre-game lines updated | 0 newly closed
+2026-11-05 17:39:00 [17:39:00 ET] 84 games on board | 83 pre-game lines updated | 0 newly closed
+2026-11-05 17:48:45 [17:48:45 ET] 191 games on board | 120 pre-game lines updated | 0 newly closed
+2026-11-05 17:58:25 [17:58:25 ET] 84 games on board | 83 pre-game lines updated | 0 newly closed
+2026-11-05 18:08:12 [18:08:12 ET] 191 games on board | 124 pre-game lines updated | 4 newly closed | 1 added already live (missed close)
+2026-11-05 18:17:53 [18:17:53 ET] 84 games on board | 80 pre-game lines updated | 0 newly closed
+2026-11-05 18:27:31 [18:27:31 ET] 84 games on board | 80 pre-game lines updated | 0 newly closed
+2026-11-05 18:37:19 [18:37:19 ET] 85 games on board | 80 pre-game lines updated | 1 newly closed
+2026-11-05 18:46:54 [18:46:54 ET] 85 games on board | 80 pre-game lines updated | 0 newly closed
+2026-11-05 18:56:34 [18:56:34 ET] 85 games on board | 80 pre-game lines updated | 0 newly closed
+2026-11-05 19:06:17 [19:06:17 ET] 85 games on board | 59 pre-game lines updated | 21 newly closed
+2026-11-05 19:16:00 [19:16:00 ET] 85 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-05 19:25:43 [19:25:43 ET] 85 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-05 19:35:24 [19:35:24 ET] 191 games on board | 106 pre-game lines updated | 4 newly closed | 1 added already live (missed close)
+2026-11-05 19:45:06 [19:45:06 ET] 86 games on board | 57 pre-game lines updated | 0 newly closed
+2026-11-05 19:54:46 [19:54:46 ET] 191 games on board | 107 pre-game lines updated | 0 newly closed
+2026-11-05 20:04:30 [20:04:30 ET] 191 games on board | 101 pre-game lines updated | 10 newly closed
+2026-11-05 20:14:13 [20:14:13 ET] 86 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-05 20:23:55 [20:23:55 ET] 86 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-05 20:33:35 [20:33:35 ET] 191 games on board | 95 pre-game lines updated | 2 newly closed
+2026-11-05 20:43:18 [20:43:18 ET] 86 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 20:53:01 [20:53:01 ET] 86 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-05 21:02:40 [21:02:40 ET] 86 games on board | 43 pre-game lines updated | 2 newly closed
+2026-11-05 21:12:26 [21:12:26 ET] 86 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 21:22:08 [21:22:08 ET] 193 games on board | 86 pre-game lines updated | 0 newly closed | 2 added already live (missed close)
+2026-11-05 21:31:46 [21:31:46 ET] 86 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 21:41:27 [21:41:27 ET] 86 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 21:51:13 [21:51:13 ET] 193 games on board | 92 pre-game lines updated | 0 newly closed
+2026-11-05 22:00:54 [22:00:54 ET] 193 games on board | 95 pre-game lines updated | 0 newly closed
+2026-11-05 22:10:35 [22:10:35 ET] 86 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-05 22:20:17 [22:20:17 ET] 193 games on board | 96 pre-game lines updated | 0 newly closed
+2026-11-05 22:30:05 [22:30:05 ET] 193 games on board | 95 pre-game lines updated | 1 newly closed
+2026-11-05 22:39:42 [22:39:42 ET] 91 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-05 22:49:24 [22:49:24 ET] 92 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-05 22:59:04 [22:59:04 ET] 93 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-05 23:08:48 [23:08:48 ET] 193 games on board | 96 pre-game lines updated | 0 newly closed | 1 added already live (missed close)
+2026-11-05 23:18:29 [23:18:29 ET] 193 games on board | 96 pre-game lines updated | 0 newly closed
+2026-11-05 23:28:11 [23:28:11 ET] 93 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-05 23:37:54 [23:37:54 ET] 193 games on board | 97 pre-game lines updated | 0 newly closed
+2026-11-05 23:47:35 [23:47:35 ET] 193 games on board | 96 pre-game lines updated | 0 newly closed
+2026-11-05 23:57:17 [23:57:17 ET] 93 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-06 00:06:56 [00:06:56 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-06 00:16:36 [00:16:36 ET] 164 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-06 00:26:27 [00:26:27 ET] 164 games on board | 125 pre-game lines updated | 0 newly closed
+2026-11-06 00:36:03 [00:36:03 ET] 164 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-06 00:45:47 [00:45:47 ET] 164 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-06 00:55:31 [00:55:31 ET] 164 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-06 01:05:13 [01:05:13 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 01:14:55 [01:14:55 ET] 164 games on board | 130 pre-game lines updated | 0 newly closed
+2026-11-06 01:24:39 [01:24:39 ET] 164 games on board | 129 pre-game lines updated | 0 newly closed
+2026-11-06 01:34:18 [01:34:18 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 01:44:06 [01:44:06 ET] 164 games on board | 131 pre-game lines updated | 0 newly closed
+2026-11-06 01:53:44 [01:53:44 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 02:03:26 [02:03:26 ET] 164 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-06 02:13:05 [02:13:05 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 02:22:52 [02:22:52 ET] 164 games on board | 125 pre-game lines updated | 0 newly closed
+2026-11-06 02:32:28 [02:32:28 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 02:42:21 [02:42:21 ET] 164 games on board | 130 pre-game lines updated | 0 newly closed
+2026-11-06 02:51:56 [02:51:56 ET] 164 games on board | 130 pre-game lines updated | 0 newly closed
+2026-11-06 03:01:37 [03:01:37 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 03:11:22 [03:11:22 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 03:21:03 [03:21:03 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 03:30:46 [03:30:46 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 03:40:27 [03:40:27 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 03:50:07 [03:50:07 ET] 164 games on board | 127 pre-game lines updated | 0 newly closed
+2026-11-06 03:59:48 [03:59:48 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 04:09:28 [04:09:28 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 04:19:08 [04:19:08 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 04:28:51 [04:28:51 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 04:58:41 [04:58:41 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 05:08:22 [05:08:22 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 05:18:07 [05:18:07 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 05:27:53 [05:27:53 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 05:37:35 [05:37:35 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 05:47:15 [05:47:15 ET] 164 games on board | 128 pre-game lines updated | 0 newly closed
+2026-11-06 05:56:53 [05:56:53 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 06:06:34 [06:06:34 ET] 164 games on board | 127 pre-game lines updated | 0 newly closed
+2026-11-06 06:16:20 [06:16:20 ET] 164 games on board | 128 pre-game lines updated | 0 newly closed
+2026-11-06 06:26:06 [06:26:06 ET] 164 games on board | 128 pre-game lines updated | 0 newly closed
+2026-11-06 06:35:41 [06:35:41 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 06:45:22 [06:45:22 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 06:55:03 [06:55:03 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 07:04:44 [07:04:44 ET] 164 games on board | 131 pre-game lines updated | 0 newly closed
+2026-11-06 07:14:27 [07:14:27 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 07:24:06 [07:24:06 ET] 164 games on board | 130 pre-game lines updated | 0 newly closed
+2026-11-06 07:33:47 [07:33:47 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 07:43:33 [07:43:33 ET] 164 games on board | 130 pre-game lines updated | 0 newly closed
+2026-11-06 07:53:12 [07:53:12 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 08:02:57 [08:02:57 ET] 164 games on board | 130 pre-game lines updated | 0 newly closed
+2026-11-06 08:12:36 [08:12:36 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 08:22:15 [08:22:15 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 08:32:04 [08:32:04 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 08:41:40 [08:41:40 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 08:51:30 [08:51:30 ET] 164 games on board | 128 pre-game lines updated | 0 newly closed
+2026-11-06 09:01:12 [09:01:12 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 09:10:55 [09:10:55 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 09:20:36 [09:20:36 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 09:30:21 [09:30:21 ET] 164 games on board | 126 pre-game lines updated | 0 newly closed
+2026-11-06 09:40:00 [09:40:00 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 09:49:40 [09:49:40 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 09:59:24 [09:59:24 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 10:09:07 [10:09:07 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 10:18:49 [10:18:49 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 10:29:20 [10:29:20 ET] 164 games on board | 126 pre-game lines updated | 0 newly closed
+2026-11-06 10:39:02 [10:39:02 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 10:48:43 [10:48:43 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 10:58:26 [10:58:26 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 11:08:08 [11:08:08 ET] 164 games on board | 112 pre-game lines updated | 0 newly closed
+2026-11-06 11:17:53 [11:17:53 ET] 164 games on board | 114 pre-game lines updated | 0 newly closed
+2026-11-06 11:28:26 [11:28:26 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 11:38:12 [11:38:12 ET] 164 games on board | 114 pre-game lines updated | 0 newly closed
+2026-11-06 11:48:52 [11:48:52 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 11:58:33 [11:58:33 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 12:08:15 [12:08:15 ET] 164 games on board | 120 pre-game lines updated | 0 newly closed
+2026-11-06 12:17:57 [12:17:57 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 12:27:38 [12:27:38 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 12:37:31 [12:37:31 ET] 164 games on board | 122 pre-game lines updated | 0 newly closed
+2026-11-06 12:47:09 [12:47:09 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 12:56:51 [12:56:51 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 13:06:35 [13:06:35 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 13:16:15 [13:16:15 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 13:25:59 [13:25:59 ET] 164 games on board | 130 pre-game lines updated | 0 newly closed
+2026-11-06 13:35:43 [13:35:43 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 13:45:25 [13:45:25 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-06 13:55:04 [13:55:04 ET] 60 games on board | 60 pre-game lines updated | 0 newly closed
+2026-11-06 14:04:48 [14:04:48 ET] 164 games on board | 126 pre-game lines updated | 0 newly closed
+2026-11-06 14:14:40 [14:14:40 ET] 60 games on board | 60 pre-game lines updated | 0 newly closed
+2026-11-06 14:24:10 [14:24:10 ET] 60 games on board | 60 pre-game lines updated | 0 newly closed
+2026-11-06 14:33:55 [14:33:55 ET] 62 games on board | 62 pre-game lines updated | 0 newly closed
+2026-11-06 14:43:41 [14:43:41 ET] 164 games on board | 126 pre-game lines updated | 0 newly closed
+2026-11-06 14:53:21 [14:53:21 ET] 67 games on board | 67 pre-game lines updated | 0 newly closed
+2026-11-06 15:03:07 [15:03:07 ET] 164 games on board | 125 pre-game lines updated | 0 newly closed
+2026-11-06 15:12:46 [15:12:46 ET] 164 games on board | 123 pre-game lines updated | 0 newly closed
+2026-11-06 15:22:29 [15:22:29 ET] 164 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-06 15:32:14 [15:32:14 ET] 89 games on board | 89 pre-game lines updated | 0 newly closed
+2026-11-06 15:41:53 [15:41:53 ET] 89 games on board | 89 pre-game lines updated | 0 newly closed
+2026-11-06 15:51:34 [15:51:34 ET] 89 games on board | 88 pre-game lines updated | 0 newly closed
+2026-11-06 16:01:14 [16:01:14 ET] 89 games on board | 87 pre-game lines updated | 1 newly closed
+2026-11-06 16:10:56 [16:10:56 ET] 164 games on board | 131 pre-game lines updated | 0 newly closed
+2026-11-06 16:20:40 [16:20:40 ET] 89 games on board | 87 pre-game lines updated | 0 newly closed
+2026-11-06 16:30:24 [16:30:24 ET] 89 games on board | 88 pre-game lines updated | 0 newly closed
+2026-11-06 16:40:08 [16:40:08 ET] 164 games on board | 126 pre-game lines updated | 0 newly closed
+2026-11-06 16:49:49 [16:49:49 ET] 89 games on board | 88 pre-game lines updated | 0 newly closed
+2026-11-06 16:59:31 [16:59:31 ET] 89 games on board | 88 pre-game lines updated | 0 newly closed
+2026-11-06 17:09:11 [17:09:11 ET] 164 games on board | 125 pre-game lines updated | 3 newly closed
+2026-11-06 17:18:52 [17:18:52 ET] 89 games on board | 85 pre-game lines updated | 0 newly closed
+2026-11-06 17:28:31 [17:28:31 ET] 89 games on board | 85 pre-game lines updated | 0 newly closed
+2026-11-06 17:38:13 [17:38:13 ET] 89 games on board | 85 pre-game lines updated | 0 newly closed
+2026-11-06 17:47:57 [17:47:57 ET] 89 games on board | 85 pre-game lines updated | 0 newly closed
+2026-11-06 17:57:40 [17:57:40 ET] 164 games on board | 122 pre-game lines updated | 0 newly closed
+2026-11-06 18:07:20 [18:07:20 ET] 89 games on board | 84 pre-game lines updated | 1 newly closed
+2026-11-06 18:17:01 [18:17:01 ET] 164 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-06 18:26:44 [18:26:44 ET] 164 games on board | 126 pre-game lines updated | 0 newly closed
+2026-11-06 18:36:28 [18:36:28 ET] 93 games on board | 85 pre-game lines updated | 3 newly closed
+2026-11-06 21:02:11 [21:02:11 ET] 164 games on board | 76 pre-game lines updated | 47 newly closed | 1 added already live (missed close)
+2026-11-06 21:11:52 [21:11:52 ET] 98 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-06 21:21:38 [21:21:38 ET] 98 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-06 21:31:17 [21:31:17 ET] 98 games on board | 42 pre-game lines updated | 3 newly closed
+2026-11-06 21:40:56 [21:40:56 ET] 98 games on board | 42 pre-game lines updated | 0 newly closed
+2026-11-06 21:50:35 [21:50:35 ET] 164 games on board | 73 pre-game lines updated | 0 newly closed
+2026-11-06 22:00:20 [22:00:20 ET] 98 games on board | 40 pre-game lines updated | 2 newly closed
+2026-11-06 22:09:57 [22:09:57 ET] 98 games on board | 40 pre-game lines updated | 0 newly closed
+2026-11-06 22:19:40 [22:19:40 ET] 98 games on board | 40 pre-game lines updated | 0 newly closed
+2026-11-06 22:29:19 [22:29:19 ET] 98 games on board | 40 pre-game lines updated | 0 newly closed
+2026-11-06 22:39:04 [22:39:04 ET] 98 games on board | 39 pre-game lines updated | 1 newly closed
+2026-11-06 22:48:42 [22:48:42 ET] 98 games on board | 39 pre-game lines updated | 0 newly closed
+2026-11-06 22:58:25 [22:58:25 ET] 164 games on board | 72 pre-game lines updated | 0 newly closed | 1 added already live (missed close)
+2026-11-06 23:08:06 [23:08:06 ET] 98 games on board | 39 pre-game lines updated | 0 newly closed
+2026-11-06 23:17:47 [23:17:47 ET] 98 games on board | 39 pre-game lines updated | 0 newly closed
+2026-11-06 23:27:29 [23:27:29 ET] 98 games on board | 39 pre-game lines updated | 0 newly closed
+2026-11-06 23:37:08 [23:37:08 ET] 164 games on board | 74 pre-game lines updated | 0 newly closed
+2026-11-06 23:46:52 [23:46:52 ET] 106 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-06 23:56:28 [23:56:28 ET] 107 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 00:06:08 [00:06:08 ET] 107 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 00:15:55 [00:15:55 ET] 164 games on board | 73 pre-game lines updated | 1 newly closed
+2026-11-07 00:25:37 [00:25:37 ET] 164 games on board | 74 pre-game lines updated | 0 newly closed
+2026-11-07 00:35:20 [00:35:20 ET] 164 games on board | 74 pre-game lines updated | 0 newly closed
+2026-11-07 00:45:07 [00:45:07 ET] 164 games on board | 74 pre-game lines updated | 0 newly closed
+2026-11-07 00:54:48 [00:54:48 ET] 164 games on board | 75 pre-game lines updated | 0 newly closed
+2026-11-07 01:04:29 [01:04:29 ET] 107 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 01:14:14 [01:14:14 ET] 164 games on board | 77 pre-game lines updated | 0 newly closed
+2026-11-07 01:23:56 [01:23:56 ET] 107 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 01:33:39 [01:33:39 ET] 164 games on board | 76 pre-game lines updated | 0 newly closed
+2026-11-07 01:43:20 [01:43:20 ET] 164 games on board | 76 pre-game lines updated | 0 newly closed
+2026-11-07 01:53:02 [01:53:02 ET] 107 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 02:02:43 [02:02:43 ET] 107 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 02:12:25 [02:12:25 ET] 107 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 02:22:02 [02:22:02 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 02:31:44 [02:31:44 ET] 141 games on board | 97 pre-game lines updated | 0 newly closed
+2026-11-07 02:41:28 [02:41:28 ET] 141 games on board | 99 pre-game lines updated | 0 newly closed
+2026-11-07 02:51:09 [02:51:09 ET] 141 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-07 03:00:54 [03:00:54 ET] 141 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-07 03:10:33 [03:10:33 ET] 141 games on board | 99 pre-game lines updated | 0 newly closed
+2026-11-07 03:20:11 [03:20:11 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 03:29:53 [03:29:53 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 03:39:38 [03:39:38 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 03:49:15 [03:49:15 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 03:58:56 [03:58:56 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 04:08:38 [04:08:38 ET] 141 games on board | 98 pre-game lines updated | 0 newly closed
+2026-11-07 04:18:22 [04:18:22 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 04:27:57 [04:27:57 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 04:37:38 [04:37:38 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 04:47:21 [04:47:21 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 04:57:00 [04:57:00 ET] 49 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 05:06:41 [05:06:41 ET] 49 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 05:16:23 [05:16:23 ET] 49 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 05:26:08 [05:26:08 ET] 49 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 05:35:51 [05:35:51 ET] 49 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 05:45:29 [05:45:29 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 05:55:12 [05:55:12 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 06:04:55 [06:04:55 ET] 141 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-07 06:14:38 [06:14:38 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 06:24:22 [06:24:22 ET] 141 games on board | 102 pre-game lines updated | 0 newly closed
+2026-11-07 06:34:03 [06:34:03 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 06:43:43 [06:43:43 ET] 141 games on board | 102 pre-game lines updated | 0 newly closed
+2026-11-07 06:53:23 [06:53:23 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 07:02:59 [07:02:59 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 07:12:42 [07:12:42 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 07:22:24 [07:22:24 ET] 141 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-07 07:32:01 [07:32:01 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 07:41:38 [07:41:38 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 07:51:20 [07:51:20 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 08:01:02 [08:01:02 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 08:10:43 [08:10:43 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 08:20:25 [08:20:25 ET] 141 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-07 08:30:03 [08:30:03 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 08:39:42 [08:39:42 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 08:49:20 [08:49:20 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 08:59:01 [08:59:01 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 09:08:44 [09:08:44 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 09:18:27 [09:18:27 ET] 141 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-07 09:28:09 [09:28:09 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 09:37:52 [09:37:52 ET] 141 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-07 09:47:36 [09:47:36 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 09:57:14 [09:57:14 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 10:07:01 [10:07:01 ET] 141 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-07 10:16:40 [10:16:40 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 10:26:26 [10:26:26 ET] 141 games on board | 101 pre-game lines updated | 0 newly closed
+2026-11-07 10:36:05 [10:36:05 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 10:45:47 [10:45:47 ET] 141 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-07 10:55:28 [10:55:28 ET] 141 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-07 11:05:04 [11:05:04 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 11:14:45 [11:14:45 ET] 49 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 11:24:25 [11:24:25 ET] 50 games on board | 50 pre-game lines updated | 0 newly closed
+2026-11-07 11:34:06 [11:34:06 ET] 50 games on board | 50 pre-game lines updated | 0 newly closed
+2026-11-07 11:43:44 [11:43:44 ET] 50 games on board | 50 pre-game lines updated | 0 newly closed
+2026-11-07 11:53:26 [11:53:26 ET] 50 games on board | 50 pre-game lines updated | 0 newly closed
+2026-11-07 12:03:05 [12:03:05 ET] 50 games on board | 48 pre-game lines updated | 2 newly closed
+2026-11-07 12:12:48 [12:12:48 ET] 50 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 12:22:30 [12:22:30 ET] 50 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 12:32:10 [12:32:10 ET] 50 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 12:41:54 [12:41:54 ET] 141 games on board | 99 pre-game lines updated | 1 newly closed
+2026-11-07 12:51:38 [12:51:38 ET] 141 games on board | 99 pre-game lines updated | 0 newly closed
+2026-11-07 13:01:15 [13:01:15 ET] 53 games on board | 50 pre-game lines updated | 1 newly closed
+2026-11-07 13:11:01 [13:11:01 ET] 53 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 13:20:42 [13:20:42 ET] 141 games on board | 94 pre-game lines updated | 0 newly closed
+2026-11-07 13:30:23 [13:30:23 ET] 53 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 13:40:08 [13:40:08 ET] 141 games on board | 95 pre-game lines updated | 0 newly closed
+2026-11-07 13:49:45 [13:49:45 ET] 53 games on board | 50 pre-game lines updated | 0 newly closed
+2026-11-07 13:59:28 [13:59:28 ET] 53 games on board | 50 pre-game lines updated | 0 newly closed
+2026-11-07 14:09:11 [14:09:11 ET] 53 games on board | 45 pre-game lines updated | 5 newly closed
+2026-11-07 14:18:51 [14:18:51 ET] 141 games on board | 88 pre-game lines updated | 0 newly closed | 1 added already live (missed close)
+2026-11-07 14:28:34 [14:28:34 ET] 141 games on board | 87 pre-game lines updated | 0 newly closed
+2026-11-07 14:38:16 [14:38:16 ET] 53 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-07 14:47:59 [14:47:59 ET] 141 games on board | 85 pre-game lines updated | 0 newly closed
+2026-11-07 14:57:42 [14:57:42 ET] 53 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-07 15:07:27 [15:07:27 ET] 141 games on board | 83 pre-game lines updated | 3 newly closed
+2026-11-07 15:17:06 [15:17:06 ET] 59 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 15:26:47 [15:26:47 ET] 141 games on board | 86 pre-game lines updated | 0 newly closed
+2026-11-07 15:36:28 [15:36:28 ET] 64 games on board | 51 pre-game lines updated | 2 newly closed
+2026-11-07 15:46:11 [15:46:11 ET] 141 games on board | 84 pre-game lines updated | 0 newly closed | 1 added already live (missed close)
+2026-11-07 15:55:50 [15:55:50 ET] 64 games on board | 51 pre-game lines updated | 0 newly closed
+2026-11-07 16:05:30 [16:05:30 ET] 64 games on board | 46 pre-game lines updated | 5 newly closed
+2026-11-07 16:15:15 [16:15:15 ET] 141 games on board | 79 pre-game lines updated | 0 newly closed
+2026-11-07 16:24:56 [16:24:56 ET] 64 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-07 16:34:37 [16:34:37 ET] 64 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-07 16:44:13 [16:44:13 ET] 64 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-07 16:53:56 [16:53:56 ET] 141 games on board | 78 pre-game lines updated | 1 newly closed
+2026-11-07 17:03:38 [17:03:38 ET] 64 games on board | 38 pre-game lines updated | 8 newly closed
+2026-11-07 17:13:20 [17:13:20 ET] 141 games on board | 71 pre-game lines updated | 0 newly closed
+2026-11-07 17:22:59 [17:22:59 ET] 64 games on board | 38 pre-game lines updated | 0 newly closed
+2026-11-07 17:32:39 [17:32:39 ET] 65 games on board | 37 pre-game lines updated | 2 newly closed
+2026-11-07 17:42:18 [17:42:18 ET] 65 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-07 17:52:01 [17:52:01 ET] 65 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-07 18:01:41 [18:01:41 ET] 65 games on board | 35 pre-game lines updated | 2 newly closed
+2026-11-07 18:11:20 [18:11:20 ET] 65 games on board | 35 pre-game lines updated | 0 newly closed
+2026-11-07 18:21:02 [18:21:02 ET] 65 games on board | 35 pre-game lines updated | 0 newly closed
+2026-11-07 18:30:42 [18:30:42 ET] 65 games on board | 34 pre-game lines updated | 1 newly closed
+2026-11-07 18:40:24 [18:40:24 ET] 65 games on board | 34 pre-game lines updated | 0 newly closed
+2026-11-07 18:50:06 [18:50:06 ET] 141 games on board | 67 pre-game lines updated | 0 newly closed
+2026-11-07 18:59:55 [18:59:55 ET] 141 games on board | 68 pre-game lines updated | 0 newly closed
+2026-11-07 19:09:30 [19:09:30 ET] 65 games on board | 29 pre-game lines updated | 5 newly closed
+2026-11-07 19:19:10 [19:19:10 ET] 65 games on board | 29 pre-game lines updated | 0 newly closed
+2026-11-07 19:28:55 [19:28:55 ET] 65 games on board | 29 pre-game lines updated | 0 newly closed
+2026-11-07 19:38:35 [19:38:35 ET] 65 games on board | 27 pre-game lines updated | 2 newly closed
+2026-11-07 19:48:20 [19:48:20 ET] 141 games on board | 58 pre-game lines updated | 1 newly closed | 1 added already live (missed close)
+2026-11-07 19:57:58 [19:57:58 ET] 65 games on board | 27 pre-game lines updated | 0 newly closed
+2026-11-07 20:07:41 [20:07:41 ET] 65 games on board | 22 pre-game lines updated | 5 newly closed
+2026-11-07 20:17:28 [20:17:28 ET] 65 games on board | 22 pre-game lines updated | 0 newly closed
+2026-11-07 20:27:07 [20:27:07 ET] 65 games on board | 22 pre-game lines updated | 0 newly closed
+2026-11-07 20:36:49 [20:36:49 ET] 141 games on board | 52 pre-game lines updated | 0 newly closed
+2026-11-07 20:46:34 [20:46:34 ET] 141 games on board | 53 pre-game lines updated | 0 newly closed
+2026-11-07 20:56:13 [20:56:13 ET] 65 games on board | 22 pre-game lines updated | 0 newly closed
+2026-11-07 21:06:00 [21:06:00 ET] 141 games on board | 50 pre-game lines updated | 2 newly closed
+2026-11-07 21:15:43 [21:15:43 ET] 141 games on board | 50 pre-game lines updated | 0 newly closed
+2026-11-07 21:25:21 [21:25:21 ET] 65 games on board | 21 pre-game lines updated | 0 newly closed
+2026-11-07 21:35:04 [21:35:04 ET] 141 games on board | 50 pre-game lines updated | 0 newly closed
+2026-11-07 21:44:48 [21:44:48 ET] 141 games on board | 50 pre-game lines updated | 0 newly closed
+2026-11-07 21:54:26 [21:54:26 ET] 65 games on board | 21 pre-game lines updated | 0 newly closed
+2026-11-07 22:04:06 [22:04:06 ET] 65 games on board | 17 pre-game lines updated | 4 newly closed
+2026-11-07 22:13:48 [22:13:48 ET] 141 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-07 22:23:31 [22:23:31 ET] 141 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-07 22:33:12 [22:33:12 ET] 65 games on board | 17 pre-game lines updated | 0 newly closed
+2026-11-07 22:42:53 [22:42:53 ET] 141 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-07 22:52:34 [22:52:34 ET] 65 games on board | 17 pre-game lines updated | 0 newly closed
+2026-11-07 23:02:20 [23:02:20 ET] 65 games on board | 17 pre-game lines updated | 0 newly closed
+2026-11-07 23:11:59 [23:11:59 ET] 141 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-07 23:21:40 [23:21:40 ET] 65 games on board | 17 pre-game lines updated | 0 newly closed
+2026-11-07 23:31:23 [23:31:23 ET] 141 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-07 23:41:07 [23:41:07 ET] 141 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-07 23:50:46 [23:50:46 ET] 65 games on board | 17 pre-game lines updated | 0 newly closed
+2026-11-08 00:00:28 [00:00:28 ET] 150 games on board | 95 pre-game lines updated | 0 newly closed
+2026-11-08 00:10:05 [00:10:05 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 00:19:48 [00:19:48 ET] 150 games on board | 94 pre-game lines updated | 0 newly closed
+2026-11-08 00:29:30 [00:29:30 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 00:39:11 [00:39:11 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 00:48:53 [00:48:53 ET] 150 games on board | 94 pre-game lines updated | 0 newly closed
+2026-11-08 00:58:31 [00:58:31 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 01:08:14 [01:08:14 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 01:18:00 [01:18:00 ET] 150 games on board | 104 pre-game lines updated | 0 newly closed
+2026-11-08 01:27:37 [01:27:37 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 01:37:17 [01:37:17 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 01:46:55 [01:46:55 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 01:56:36 [01:56:36 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 02:06:19 [02:06:19 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 02:15:59 [02:15:59 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 02:25:39 [02:25:39 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 02:35:31 [02:35:31 ET] 150 games on board | 104 pre-game lines updated | 0 newly closed
+2026-11-08 02:45:11 [02:45:11 ET] 150 games on board | 104 pre-game lines updated | 0 newly closed
+2026-11-08 02:54:52 [02:54:52 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 03:04:34 [03:04:34 ET] 150 games on board | 102 pre-game lines updated | 0 newly closed
+2026-11-08 03:14:14 [03:14:14 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 03:23:55 [03:23:55 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 03:33:40 [03:33:40 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 03:43:20 [03:43:20 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 03:53:00 [03:53:00 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 04:02:38 [04:02:38 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 04:12:20 [04:12:20 ET] 150 games on board | 104 pre-game lines updated | 0 newly closed
+2026-11-08 04:21:59 [04:21:59 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 04:31:44 [04:31:44 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 04:41:20 [04:41:20 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 04:51:02 [04:51:02 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 05:00:45 [05:00:45 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 05:10:28 [05:10:28 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 05:20:07 [05:20:07 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 05:29:51 [05:29:51 ET] 150 games on board | 106 pre-game lines updated | 0 newly closed
+2026-11-08 05:39:33 [05:39:33 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 05:49:23 [05:49:23 ET] 150 games on board | 106 pre-game lines updated | 0 newly closed
+2026-11-08 05:58:59 [05:58:59 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 06:08:44 [06:08:44 ET] 150 games on board | 106 pre-game lines updated | 0 newly closed
+2026-11-08 06:18:23 [06:18:23 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 06:28:08 [06:28:08 ET] 150 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-08 06:37:53 [06:37:53 ET] 150 games on board | 95 pre-game lines updated | 0 newly closed
+2026-11-08 06:47:33 [06:47:33 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 06:57:16 [06:57:16 ET] 150 games on board | 101 pre-game lines updated | 0 newly closed
+2026-11-08 07:06:56 [07:06:56 ET] 20 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 07:16:34 [07:16:34 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 07:26:14 [07:26:14 ET] 20 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 07:35:57 [07:35:57 ET] 150 games on board | 96 pre-game lines updated | 0 newly closed
+2026-11-08 07:45:37 [07:45:37 ET] 24 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-08 07:55:21 [07:55:21 ET] 150 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-08 08:04:58 [08:04:58 ET] 32 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-08 08:14:39 [08:14:39 ET] 32 games on board | 31 pre-game lines updated | 0 newly closed
+2026-11-08 08:24:18 [08:24:18 ET] 32 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-08 08:34:03 [08:34:03 ET] 150 games on board | 101 pre-game lines updated | 0 newly closed
+2026-11-08 08:43:47 [08:43:47 ET] 150 games on board | 104 pre-game lines updated | 0 newly closed
+2026-11-08 08:53:23 [08:53:23 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-08 09:03:05 [09:03:05 ET] 150 games on board | 104 pre-game lines updated | 0 newly closed
+2026-11-08 09:12:47 [09:12:47 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-08 09:22:27 [09:22:27 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-08 09:32:16 [09:32:16 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-08 09:41:52 [09:41:52 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-08 09:51:34 [09:51:34 ET] 33 games on board | 31 pre-game lines updated | 0 newly closed
+2026-11-08 10:01:12 [10:01:12 ET] 33 games on board | 31 pre-game lines updated | 0 newly closed
+2026-11-08 10:10:52 [10:10:52 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-08 10:20:36 [10:20:36 ET] 150 games on board | 87 pre-game lines updated | 0 newly closed
+2026-11-08 10:30:17 [10:30:17 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-08 10:40:02 [10:40:02 ET] 33 games on board | 33 pre-game lines updated | 0 newly closed
+2026-11-08 10:49:40 [10:49:40 ET] 150 games on board | 87 pre-game lines updated | 0 newly closed
+2026-11-08 10:59:20 [10:59:20 ET] 33 games on board | 33 pre-game lines updated | 0 newly closed
+2026-11-08 11:09:04 [11:09:04 ET] 150 games on board | 88 pre-game lines updated | 0 newly closed
+2026-11-08 11:18:47 [11:18:47 ET] 150 games on board | 87 pre-game lines updated | 0 newly closed
+2026-11-08 11:28:28 [11:28:28 ET] 32 games on board | 31 pre-game lines updated | 0 newly closed
+2026-11-08 11:38:07 [11:38:07 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-08 11:47:51 [11:47:51 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-08 11:57:31 [11:57:31 ET] 33 games on board | 33 pre-game lines updated | 0 newly closed
+2026-11-08 12:07:09 [12:07:09 ET] 33 games on board | 31 pre-game lines updated | 1 newly closed
+2026-11-08 12:27:27 [12:27:27 ET] 150 games on board | 93 pre-game lines updated | 0 newly closed
+2026-11-08 12:37:06 [12:37:06 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-08 12:46:44 [12:46:44 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-08 12:56:28 [12:56:28 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-08 13:06:10 [13:06:10 ET] 33 games on board | 25 pre-game lines updated | 7 newly closed
+2026-11-08 13:15:53 [13:15:53 ET] 33 games on board | 25 pre-game lines updated | 0 newly closed
+2026-11-08 13:25:35 [13:25:35 ET] 150 games on board | 85 pre-game lines updated | 2 newly closed
+2026-11-08 13:35:14 [13:35:14 ET] 33 games on board | 25 pre-game lines updated | 0 newly closed
+2026-11-08 13:44:53 [13:44:53 ET] 33 games on board | 25 pre-game lines updated | 0 newly closed
+2026-11-08 13:54:34 [13:54:34 ET] 33 games on board | 25 pre-game lines updated | 0 newly closed
+2026-11-08 14:04:15 [14:04:15 ET] 33 games on board | 18 pre-game lines updated | 7 newly closed
+2026-11-08 14:13:54 [14:13:54 ET] 33 games on board | 18 pre-game lines updated | 0 newly closed
+2026-11-08 14:23:39 [14:23:39 ET] 33 games on board | 18 pre-game lines updated | 0 newly closed
+2026-11-08 14:33:18 [14:33:18 ET] 33 games on board | 18 pre-game lines updated | 0 newly closed
+2026-11-08 14:42:58 [14:42:58 ET] 33 games on board | 18 pre-game lines updated | 0 newly closed
+2026-11-08 14:52:39 [14:52:39 ET] 33 games on board | 18 pre-game lines updated | 0 newly closed
+2026-11-08 15:02:23 [15:02:23 ET] 150 games on board | 87 pre-game lines updated | 3 newly closed
+2026-11-08 15:12:05 [15:12:05 ET] 34 games on board | 16 pre-game lines updated | 0 newly closed
+2026-11-08 15:21:48 [15:21:48 ET] 150 games on board | 87 pre-game lines updated | 0 newly closed
+2026-11-08 15:31:26 [15:31:26 ET] 35 games on board | 17 pre-game lines updated | 0 newly closed
+2026-11-08 15:41:10 [15:41:10 ET] 37 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 15:50:53 [15:50:53 ET] 150 games on board | 87 pre-game lines updated | 0 newly closed
+2026-11-08 16:00:32 [16:00:32 ET] 37 games on board | 17 pre-game lines updated | 2 newly closed
+2026-11-08 16:10:19 [16:10:19 ET] 150 games on board | 81 pre-game lines updated | 0 newly closed
+2026-11-08 16:19:57 [16:19:57 ET] 39 games on board | 19 pre-game lines updated | 0 newly closed
+2026-11-08 16:29:40 [16:29:40 ET] 150 games on board | 86 pre-game lines updated | 0 newly closed
+2026-11-08 16:39:23 [16:39:23 ET] 150 games on board | 81 pre-game lines updated | 1 newly closed
+2026-11-08 16:49:02 [16:49:02 ET] 41 games on board | 20 pre-game lines updated | 0 newly closed
+2026-11-08 16:58:46 [16:58:46 ET] 150 games on board | 82 pre-game lines updated | 0 newly closed
+2026-11-08 17:08:25 [17:08:25 ET] 41 games on board | 19 pre-game lines updated | 1 newly closed
+2026-11-08 17:18:04 [17:18:04 ET] 45 games on board | 23 pre-game lines updated | 0 newly closed
+2026-11-08 17:27:45 [17:27:45 ET] 48 games on board | 26 pre-game lines updated | 0 newly closed
+2026-11-08 17:37:25 [17:37:25 ET] 49 games on board | 27 pre-game lines updated | 0 newly closed
+2026-11-08 17:47:25 [17:47:25 ET] 150 games on board | 84 pre-game lines updated | 0 newly closed
+2026-11-08 17:56:50 [17:56:50 ET] 50 games on board | 28 pre-game lines updated | 0 newly closed
+2026-11-08 18:06:27 [18:06:27 ET] 50 games on board | 26 pre-game lines updated | 2 newly closed
+2026-11-08 18:16:06 [18:16:06 ET] 50 games on board | 26 pre-game lines updated | 0 newly closed
+2026-11-08 18:25:51 [18:25:51 ET] 50 games on board | 26 pre-game lines updated | 0 newly closed
+2026-11-08 18:35:34 [18:35:34 ET] 50 games on board | 26 pre-game lines updated | 0 newly closed
+2026-11-08 18:45:17 [18:45:17 ET] 150 games on board | 81 pre-game lines updated | 0 newly closed
+2026-11-08 18:54:55 [18:54:55 ET] 50 games on board | 26 pre-game lines updated | 0 newly closed
+2026-11-08 19:04:35 [19:04:35 ET] 50 games on board | 25 pre-game lines updated | 1 newly closed
+2026-11-08 19:14:15 [19:14:15 ET] 50 games on board | 25 pre-game lines updated | 0 newly closed
+2026-11-08 19:24:01 [19:24:01 ET] 51 games on board | 26 pre-game lines updated | 0 newly closed
+2026-11-08 19:33:41 [19:33:41 ET] 150 games on board | 84 pre-game lines updated | 0 newly closed | 1 added already live (missed close)
+2026-11-08 19:43:23 [19:43:23 ET] 52 games on board | 27 pre-game lines updated | 0 newly closed
+2026-11-08 19:53:08 [19:53:08 ET] 150 games on board | 82 pre-game lines updated | 0 newly closed
+2026-11-08 20:02:48 [20:02:48 ET] 150 games on board | 83 pre-game lines updated | 1 newly closed
+2026-11-08 20:12:25 [20:12:25 ET] 52 games on board | 26 pre-game lines updated | 0 newly closed
+2026-11-08 20:22:11 [20:22:11 ET] 54 games on board | 28 pre-game lines updated | 0 newly closed
+2026-11-08 20:31:54 [20:31:54 ET] 150 games on board | 82 pre-game lines updated | 1 newly closed
+2026-11-08 20:41:34 [20:41:34 ET] 57 games on board | 30 pre-game lines updated | 0 newly closed
+2026-11-08 20:51:13 [20:51:13 ET] 61 games on board | 34 pre-game lines updated | 0 newly closed
+2026-11-08 21:00:55 [21:00:55 ET] 150 games on board | 83 pre-game lines updated | 0 newly closed
+2026-11-08 21:10:37 [21:10:37 ET] 150 games on board | 85 pre-game lines updated | 0 newly closed
+2026-11-08 21:20:17 [21:20:17 ET] 65 games on board | 38 pre-game lines updated | 0 newly closed
+2026-11-08 21:29:56 [21:29:56 ET] 65 games on board | 38 pre-game lines updated | 0 newly closed
+2026-11-08 21:39:39 [21:39:39 ET] 65 games on board | 38 pre-game lines updated | 0 newly closed
+2026-11-08 21:49:24 [21:49:24 ET] 150 games on board | 88 pre-game lines updated | 0 newly closed
+2026-11-08 21:59:03 [21:59:03 ET] 150 games on board | 88 pre-game lines updated | 0 newly closed
+2026-11-08 22:08:46 [22:08:46 ET] 150 games on board | 85 pre-game lines updated | 1 newly closed
+2026-11-08 22:18:24 [22:18:24 ET] 66 games on board | 38 pre-game lines updated | 0 newly closed
+2026-11-08 22:28:08 [22:28:08 ET] 66 games on board | 38 pre-game lines updated | 0 newly closed
+2026-11-08 22:37:48 [22:37:48 ET] 150 games on board | 87 pre-game lines updated | 0 newly closed
+2026-11-08 22:47:30 [22:47:30 ET] 150 games on board | 86 pre-game lines updated | 0 newly closed
+2026-11-08 22:57:10 [22:57:10 ET] 66 games on board | 38 pre-game lines updated | 0 newly closed
+2026-11-08 23:06:54 [23:06:54 ET] 66 games on board | 37 pre-game lines updated | 1 newly closed
+2026-11-08 23:16:31 [23:16:31 ET] 150 games on board | 86 pre-game lines updated | 0 newly closed
+2026-11-08 23:26:16 [23:26:16 ET] 150 games on board | 86 pre-game lines updated | 0 newly closed
+2026-11-08 23:35:59 [23:35:59 ET] 150 games on board | 85 pre-game lines updated | 0 newly closed
+2026-11-08 23:45:41 [23:45:41 ET] 150 games on board | 85 pre-game lines updated | 0 newly closed
+2026-11-08 23:55:23 [23:55:23 ET] 66 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 00:05:07 [00:05:07 ET] 181 games on board | 120 pre-game lines updated | 0 newly closed
+2026-11-09 00:14:50 [00:14:50 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 00:24:26 [00:24:26 ET] 181 games on board | 119 pre-game lines updated | 0 newly closed
+2026-11-09 00:34:05 [00:34:05 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 00:43:50 [00:43:50 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 00:53:29 [00:53:29 ET] 181 games on board | 120 pre-game lines updated | 0 newly closed
+2026-11-09 01:03:13 [01:03:13 ET] 181 games on board | 127 pre-game lines updated | 0 newly closed
+2026-11-09 01:12:55 [01:12:55 ET] 181 games on board | 125 pre-game lines updated | 0 newly closed
+2026-11-09 01:22:37 [01:22:37 ET] 181 games on board | 125 pre-game lines updated | 0 newly closed
+2026-11-09 01:32:21 [01:32:21 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 01:42:01 [01:42:01 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 01:51:43 [01:51:43 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 02:01:26 [02:01:26 ET] 181 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-09 02:11:04 [02:11:04 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 02:20:45 [02:20:45 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 02:30:27 [02:30:27 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 02:40:12 [02:40:12 ET] 181 games on board | 125 pre-game lines updated | 0 newly closed
+2026-11-09 02:49:55 [02:49:55 ET] 181 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-09 02:59:36 [02:59:36 ET] 181 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-09 03:09:18 [03:09:18 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 03:19:01 [03:19:01 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 03:28:41 [03:28:41 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 03:38:20 [03:38:20 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 03:48:07 [03:48:07 ET] 181 games on board | 126 pre-game lines updated | 0 newly closed
+2026-11-09 03:57:47 [03:57:47 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 04:07:31 [04:07:31 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 04:17:11 [04:17:11 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 04:26:50 [04:26:50 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 04:36:36 [04:36:36 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 04:46:23 [04:46:23 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 04:55:59 [04:55:59 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 05:05:40 [05:05:40 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 05:15:22 [05:15:22 ET] 181 games on board | 126 pre-game lines updated | 0 newly closed
+2026-11-09 05:25:08 [05:25:08 ET] 181 games on board | 126 pre-game lines updated | 0 newly closed
+2026-11-09 05:34:45 [05:34:45 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 05:44:27 [05:44:27 ET] 181 games on board | 125 pre-game lines updated | 0 newly closed
+2026-11-09 05:54:09 [05:54:09 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 06:03:52 [06:03:52 ET] 181 games on board | 125 pre-game lines updated | 0 newly closed
+2026-11-09 06:13:29 [06:13:29 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 06:23:14 [06:23:14 ET] 181 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-09 06:32:58 [06:32:58 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 06:42:34 [06:42:34 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 06:52:15 [06:52:15 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 07:02:02 [07:02:02 ET] 181 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-09 07:11:41 [07:11:41 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 07:21:24 [07:21:24 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 07:31:04 [07:31:04 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 07:40:43 [07:40:43 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 07:50:27 [07:50:27 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 08:00:07 [08:00:07 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 08:09:53 [08:09:53 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 08:19:37 [08:19:37 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 08:29:18 [08:29:18 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 08:39:03 [08:39:03 ET] 181 games on board | 115 pre-game lines updated | 0 newly closed
+2026-11-09 08:48:40 [08:48:40 ET] 181 games on board | 117 pre-game lines updated | 0 newly closed
+2026-11-09 08:58:20 [08:58:20 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 09:08:03 [09:08:03 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 09:17:52 [09:17:52 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 09:27:36 [09:27:36 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 09:37:19 [09:37:19 ET] 181 games on board | 120 pre-game lines updated | 0 newly closed
+2026-11-09 09:47:04 [09:47:04 ET] 181 games on board | 122 pre-game lines updated | 0 newly closed
+2026-11-09 09:56:42 [09:56:42 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 10:06:30 [10:06:30 ET] 181 games on board | 122 pre-game lines updated | 0 newly closed
+2026-11-09 10:16:12 [10:16:12 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 10:25:51 [10:25:51 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 10:35:38 [10:35:38 ET] 181 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-09 10:45:16 [10:45:16 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 10:54:57 [10:54:57 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 11:04:43 [11:04:43 ET] 181 games on board | 119 pre-game lines updated | 1 newly closed
+2026-11-09 11:14:26 [11:14:26 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 11:24:13 [11:24:13 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 11:33:53 [11:33:53 ET] 181 games on board | 122 pre-game lines updated | 0 newly closed
+2026-11-09 11:43:43 [11:43:43 ET] 181 games on board | 122 pre-game lines updated | 0 newly closed
+2026-11-09 11:53:22 [11:53:22 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 12:03:07 [12:03:07 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 12:12:49 [12:12:49 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 12:22:39 [12:22:39 ET] 181 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-09 12:32:15 [12:32:15 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 12:42:04 [12:42:04 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 12:51:50 [12:51:50 ET] 181 games on board | 123 pre-game lines updated | 0 newly closed
+2026-11-09 13:01:34 [13:01:34 ET] 37 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-09 19:14:17 [19:14:17 ET] 74 games on board | 56 pre-game lines updated | 18 newly closed
+2026-11-09 19:24:02 [19:24:02 ET] 181 games on board | 108 pre-game lines updated | 2 newly closed
+2026-11-09 19:33:40 [19:33:40 ET] 80 games on board | 59 pre-game lines updated | 3 newly closed
+2026-11-09 19:43:25 [19:43:25 ET] 86 games on board | 64 pre-game lines updated | 0 newly closed
+2026-11-09 19:53:06 [19:53:06 ET] 90 games on board | 68 pre-game lines updated | 0 newly closed
+2026-11-09 20:02:51 [20:02:51 ET] 181 games on board | 105 pre-game lines updated | 5 newly closed
+2026-11-09 20:12:36 [20:12:36 ET] 181 games on board | 103 pre-game lines updated | 0 newly closed
+2026-11-09 20:22:17 [20:22:17 ET] 90 games on board | 63 pre-game lines updated | 0 newly closed
+2026-11-09 20:31:58 [20:31:58 ET] 90 games on board | 62 pre-game lines updated | 1 newly closed
+2026-11-09 20:41:37 [20:41:37 ET] 90 games on board | 62 pre-game lines updated | 0 newly closed
+2026-11-09 20:51:23 [20:51:23 ET] 90 games on board | 62 pre-game lines updated | 0 newly closed
+2026-11-09 21:01:00 [21:01:00 ET] 90 games on board | 60 pre-game lines updated | 3 newly closed
+2026-11-09 21:10:44 [21:10:44 ET] 90 games on board | 60 pre-game lines updated | 0 newly closed
+2026-11-09 21:20:31 [21:20:31 ET] 181 games on board | 98 pre-game lines updated | 0 newly closed
+2026-11-09 21:30:10 [21:30:10 ET] 181 games on board | 98 pre-game lines updated | 1 newly closed
+2026-11-09 21:39:53 [21:39:53 ET] 181 games on board | 98 pre-game lines updated | 0 newly closed
+2026-11-09 21:49:36 [21:49:36 ET] 90 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-09 21:59:19 [21:59:19 ET] 90 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-09 22:09:06 [22:09:06 ET] 181 games on board | 97 pre-game lines updated | 2 newly closed
+2026-11-09 22:18:46 [22:18:46 ET] 90 games on board | 57 pre-game lines updated | 0 newly closed
+2026-11-09 22:28:30 [22:28:30 ET] 90 games on board | 57 pre-game lines updated | 0 newly closed
+2026-11-09 22:38:12 [22:38:12 ET] 90 games on board | 57 pre-game lines updated | 0 newly closed
+2026-11-09 22:48:00 [22:48:00 ET] 90 games on board | 57 pre-game lines updated | 0 newly closed
+2026-11-09 22:57:39 [22:57:39 ET] 181 games on board | 96 pre-game lines updated | 0 newly closed
+2026-11-09 23:07:24 [23:07:24 ET] 181 games on board | 97 pre-game lines updated | 0 newly closed
+2026-11-09 23:17:06 [23:17:06 ET] 181 games on board | 97 pre-game lines updated | 0 newly closed
+2026-11-09 23:26:48 [23:26:48 ET] 181 games on board | 96 pre-game lines updated | 0 newly closed
+2026-11-09 23:36:28 [23:36:28 ET] 90 games on board | 57 pre-game lines updated | 0 newly closed
+2026-11-09 23:46:11 [23:46:11 ET] 90 games on board | 57 pre-game lines updated | 0 newly closed
+2026-11-09 23:55:51 [23:55:51 ET] 90 games on board | 57 pre-game lines updated | 0 newly closed
+2026-11-10 00:05:32 [00:05:32 ET] 90 games on board | 56 pre-game lines updated | 1 newly closed
+2026-11-10 00:15:18 [00:15:18 ET] 90 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 00:25:00 [00:25:00 ET] 90 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 00:34:54 [00:34:54 ET] 181 games on board | 98 pre-game lines updated | 0 newly closed
+2026-11-10 00:44:32 [00:44:32 ET] 90 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 00:54:22 [00:54:22 ET] 181 games on board | 98 pre-game lines updated | 0 newly closed
+2026-11-10 01:04:02 [01:04:02 ET] 90 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 01:13:41 [01:13:41 ET] 90 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 01:23:28 [01:23:28 ET] 90 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 01:33:11 [01:33:11 ET] 181 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-10 01:42:56 [01:42:56 ET] 181 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-10 01:52:36 [01:52:36 ET] 181 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-10 02:02:22 [02:02:22 ET] 181 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-10 02:12:02 [02:12:02 ET] 90 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 02:21:44 [02:21:44 ET] 181 games on board | 100 pre-game lines updated | 0 newly closed
+2026-11-10 02:31:22 [02:31:22 ET] 90 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 02:41:03 [02:41:03 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 02:50:43 [02:50:43 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 03:00:26 [03:00:26 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 03:10:10 [03:10:10 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 03:19:55 [03:19:55 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 03:29:34 [03:29:34 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 03:39:15 [03:39:15 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 03:49:05 [03:49:05 ET] 163 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-10 03:58:42 [03:58:42 ET] 163 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-10 04:08:37 [04:08:37 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 04:18:10 [04:18:10 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 04:27:53 [04:27:53 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 04:37:38 [04:37:38 ET] 163 games on board | 122 pre-game lines updated | 0 newly closed
+2026-11-10 04:47:20 [04:47:20 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 04:57:06 [04:57:06 ET] 163 games on board | 122 pre-game lines updated | 0 newly closed
+2026-11-10 05:06:49 [05:06:49 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 05:16:32 [05:16:32 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 05:26:20 [05:26:20 ET] 163 games on board | 122 pre-game lines updated | 0 newly closed
+2026-11-10 05:36:05 [05:36:05 ET] 163 games on board | 123 pre-game lines updated | 0 newly closed
+2026-11-10 05:45:46 [05:45:46 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 05:55:30 [05:55:30 ET] 163 games on board | 123 pre-game lines updated | 0 newly closed
+2026-11-10 06:05:15 [06:05:15 ET] 163 games on board | 123 pre-game lines updated | 0 newly closed
+2026-11-10 06:14:57 [06:14:57 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 06:24:40 [06:24:40 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 06:34:25 [06:34:25 ET] 163 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-10 06:44:07 [06:44:07 ET] 163 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-10 06:53:50 [06:53:50 ET] 163 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-10 07:03:29 [07:03:29 ET] 163 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-10 07:13:12 [07:13:12 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 07:22:58 [07:22:58 ET] 163 games on board | 123 pre-game lines updated | 0 newly closed
+2026-11-10 07:32:39 [07:32:39 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 07:42:21 [07:42:21 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 07:52:08 [07:52:08 ET] 163 games on board | 124 pre-game lines updated | 0 newly closed
+2026-11-10 08:01:54 [08:01:54 ET] 163 games on board | 123 pre-game lines updated | 0 newly closed
+2026-11-10 08:11:35 [08:11:35 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 08:21:22 [08:21:22 ET] 163 games on board | 117 pre-game lines updated | 0 newly closed
+2026-11-10 08:31:01 [08:31:01 ET] 163 games on board | 118 pre-game lines updated | 0 newly closed
+2026-11-10 08:40:45 [08:40:45 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 08:50:30 [08:50:30 ET] 163 games on board | 120 pre-game lines updated | 0 newly closed
+2026-11-10 09:00:13 [09:00:13 ET] 163 games on board | 118 pre-game lines updated | 0 newly closed
+2026-11-10 09:09:58 [09:09:58 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 09:19:39 [09:19:39 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 09:29:21 [09:29:21 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 09:39:05 [09:39:05 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 09:48:46 [09:48:46 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 09:58:28 [09:58:28 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 10:08:14 [10:08:14 ET] 163 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-10 10:17:58 [10:17:58 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 10:27:41 [10:27:41 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 10:37:24 [10:37:24 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 10:47:11 [10:47:11 ET] 163 games on board | 123 pre-game lines updated | 0 newly closed
+2026-11-10 10:56:53 [10:56:53 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 11:06:41 [11:06:41 ET] 163 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-10 11:16:22 [11:16:22 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 11:26:06 [11:26:06 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 11:35:49 [11:35:49 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 11:45:35 [11:45:35 ET] 163 games on board | 118 pre-game lines updated | 0 newly closed
+2026-11-10 11:55:17 [11:55:17 ET] 163 games on board | 119 pre-game lines updated | 0 newly closed
+2026-11-10 12:04:59 [12:04:59 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 12:14:45 [12:14:45 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 12:24:27 [12:24:27 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 12:34:08 [12:34:08 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 12:43:50 [12:43:50 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 12:53:32 [12:53:32 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 13:03:13 [13:03:13 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 13:13:01 [13:13:01 ET] 163 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-10 13:22:45 [13:22:45 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 13:32:25 [13:32:25 ET] 163 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-10 13:42:08 [13:42:08 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 13:51:54 [13:51:54 ET] 163 games on board | 119 pre-game lines updated | 0 newly closed
+2026-11-10 14:01:34 [14:01:34 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 14:11:18 [14:11:18 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 14:20:59 [14:20:59 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 14:30:44 [14:30:44 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 14:40:23 [14:40:23 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 14:50:08 [14:50:08 ET] 163 games on board | 120 pre-game lines updated | 0 newly closed
+2026-11-10 14:59:49 [14:59:49 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 15:09:33 [15:09:33 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 15:19:13 [15:19:13 ET] 57 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 15:28:59 [15:28:59 ET] 163 games on board | 121 pre-game lines updated | 0 newly closed
+2026-11-10 15:38:43 [15:38:43 ET] 58 games on board | 57 pre-game lines updated | 0 newly closed
+2026-11-10 15:48:24 [15:48:24 ET] 59 games on board | 58 pre-game lines updated | 0 newly closed
+2026-11-10 15:58:12 [15:58:12 ET] 163 games on board | 120 pre-game lines updated | 0 newly closed
+2026-11-10 16:07:57 [16:07:57 ET] 59 games on board | 58 pre-game lines updated | 0 newly closed
+2026-11-10 16:17:35 [16:17:35 ET] 163 games on board | 119 pre-game lines updated | 0 newly closed
+2026-11-10 16:27:22 [16:27:22 ET] 61 games on board | 60 pre-game lines updated | 0 newly closed
+2026-11-10 16:37:02 [16:37:02 ET] 63 games on board | 62 pre-game lines updated | 0 newly closed
+2026-11-10 16:46:51 [16:46:51 ET] 66 games on board | 65 pre-game lines updated | 0 newly closed
+2026-11-10 16:56:33 [16:56:33 ET] 67 games on board | 66 pre-game lines updated | 0 newly closed
+2026-11-10 17:06:11 [17:06:11 ET] 69 games on board | 68 pre-game lines updated | 0 newly closed
+2026-11-10 17:15:56 [17:15:56 ET] 78 games on board | 76 pre-game lines updated | 0 newly closed
+2026-11-10 17:25:37 [17:25:37 ET] 83 games on board | 81 pre-game lines updated | 0 newly closed
+2026-11-10 17:35:21 [17:35:21 ET] 163 games on board | 119 pre-game lines updated | 0 newly closed
+2026-11-10 17:45:04 [17:45:04 ET] 84 games on board | 83 pre-game lines updated | 0 newly closed
+2026-11-10 17:54:45 [17:54:45 ET] 84 games on board | 83 pre-game lines updated | 0 newly closed
+2026-11-10 18:04:29 [18:04:29 ET] 84 games on board | 82 pre-game lines updated | 1 newly closed
+2026-11-10 18:14:14 [18:14:14 ET] 84 games on board | 82 pre-game lines updated | 0 newly closed
+2026-11-10 18:23:58 [18:23:58 ET] 163 games on board | 123 pre-game lines updated | 0 newly closed
+2026-11-10 18:33:44 [18:33:44 ET] 163 games on board | 121 pre-game lines updated | 2 newly closed
+2026-11-10 18:43:27 [18:43:27 ET] 84 games on board | 80 pre-game lines updated | 0 newly closed
+2026-11-10 18:53:11 [18:53:11 ET] 84 games on board | 80 pre-game lines updated | 0 newly closed
+2026-11-10 19:02:51 [19:02:51 ET] 84 games on board | 56 pre-game lines updated | 24 newly closed
+2026-11-10 19:12:44 [19:12:44 ET] 84 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 19:22:20 [19:22:20 ET] 84 games on board | 55 pre-game lines updated | 1 newly closed
+2026-11-10 19:32:06 [19:32:06 ET] 89 games on board | 57 pre-game lines updated | 3 newly closed
+2026-11-10 19:42:10 [19:42:10 ET] 89 games on board | 57 pre-game lines updated | 0 newly closed
+2026-11-10 19:51:22 [19:51:22 ET] 163 games on board | 83 pre-game lines updated | 2 newly closed
+2026-11-10 20:01:03 [20:01:03 ET] 91 games on board | 49 pre-game lines updated | 10 newly closed
+2026-11-10 20:10:48 [20:10:48 ET] 163 games on board | 71 pre-game lines updated | 0 newly closed
+2026-11-10 20:20:30 [20:20:30 ET] 91 games on board | 49 pre-game lines updated | 0 newly closed
+2026-11-10 20:30:08 [20:30:08 ET] 91 games on board | 47 pre-game lines updated | 2 newly closed
+2026-11-10 20:39:47 [20:39:47 ET] 91 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-10 20:49:36 [20:49:36 ET] 91 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-10 20:59:17 [20:59:17 ET] 91 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-10 21:08:58 [21:08:58 ET] 163 games on board | 53 pre-game lines updated | 11 newly closed
+2026-11-10 21:18:44 [21:18:44 ET] 163 games on board | 56 pre-game lines updated | 0 newly closed
+2026-11-10 21:28:31 [21:28:31 ET] 163 games on board | 57 pre-game lines updated | 0 newly closed
+2026-11-10 21:38:11 [21:38:11 ET] 163 games on board | 54 pre-game lines updated | 1 newly closed
+2026-11-10 21:47:54 [21:47:54 ET] 95 games on board | 39 pre-game lines updated | 0 newly closed
+2026-11-10 21:57:34 [21:57:34 ET] 163 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-10 22:07:18 [22:07:18 ET] 105 games on board | 48 pre-game lines updated | 1 newly closed
+2026-11-10 22:17:02 [22:17:02 ET] 105 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-10 22:26:40 [22:26:40 ET] 105 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-10 22:36:22 [22:36:22 ET] 105 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-10 22:46:10 [22:46:10 ET] 163 games on board | 69 pre-game lines updated | 0 newly closed
+2026-11-10 22:55:46 [22:55:46 ET] 105 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-10 23:05:30 [23:05:30 ET] 105 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-10 23:15:10 [23:15:10 ET] 105 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-10 23:24:55 [23:24:55 ET] 105 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-10 23:34:36 [23:34:36 ET] 105 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-10 23:44:25 [23:44:25 ET] 105 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-10 23:54:14 [23:54:14 ET] 163 games on board | 61 pre-game lines updated | 0 newly closed
+2026-11-11 00:03:57 [00:03:57 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 00:13:40 [00:13:40 ET] 156 games on board | 97 pre-game lines updated | 0 newly closed
+2026-11-11 00:23:21 [00:23:21 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 00:33:01 [00:33:01 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 00:42:46 [00:42:46 ET] 156 games on board | 101 pre-game lines updated | 0 newly closed
+2026-11-11 00:52:26 [00:52:26 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 01:02:09 [01:02:09 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 01:11:48 [01:11:48 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 01:21:34 [01:21:34 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 01:31:17 [01:31:17 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 01:41:04 [01:41:04 ET] 156 games on board | 111 pre-game lines updated | 0 newly closed
+2026-11-11 01:50:42 [01:50:42 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 02:00:25 [02:00:25 ET] 156 games on board | 113 pre-game lines updated | 0 newly closed
+2026-11-11 02:10:05 [02:10:05 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 02:19:46 [02:19:46 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 02:29:28 [02:29:28 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 02:39:17 [02:39:17 ET] 156 games on board | 114 pre-game lines updated | 0 newly closed
+2026-11-11 02:49:01 [02:49:01 ET] 156 games on board | 115 pre-game lines updated | 0 newly closed
+2026-11-11 02:58:41 [02:58:41 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 03:08:20 [03:08:20 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 03:18:01 [03:18:01 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 03:27:42 [03:27:42 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 03:37:29 [03:37:29 ET] 156 games on board | 110 pre-game lines updated | 0 newly closed
+2026-11-11 03:47:06 [03:47:06 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 03:56:50 [03:56:50 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 04:06:32 [04:06:32 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 04:16:13 [04:16:13 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 04:25:55 [04:25:55 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 04:35:43 [04:35:43 ET] 156 games on board | 110 pre-game lines updated | 0 newly closed
+2026-11-11 04:45:23 [04:45:23 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 04:55:07 [04:55:07 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 05:05:02 [05:05:02 ET] 156 games on board | 112 pre-game lines updated | 0 newly closed
+2026-11-11 05:14:44 [05:14:44 ET] 156 games on board | 108 pre-game lines updated | 0 newly closed
+2026-11-11 05:24:26 [05:24:26 ET] 156 games on board | 110 pre-game lines updated | 0 newly closed
+2026-11-11 05:34:13 [05:34:13 ET] 156 games on board | 108 pre-game lines updated | 0 newly closed
+2026-11-11 05:43:52 [05:43:52 ET] 156 games on board | 106 pre-game lines updated | 0 newly closed
+2026-11-11 05:53:32 [05:53:32 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 06:03:15 [06:03:15 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 06:12:59 [06:12:59 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 06:22:40 [06:22:40 ET] 156 games on board | 109 pre-game lines updated | 0 newly closed
+2026-11-11 06:32:24 [06:32:24 ET] 156 games on board | 107 pre-game lines updated | 0 newly closed
+2026-11-11 06:42:03 [06:42:03 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 06:51:49 [06:51:49 ET] 156 games on board | 109 pre-game lines updated | 0 newly closed
+2026-11-11 07:01:28 [07:01:28 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 07:11:09 [07:11:09 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 07:20:54 [07:20:54 ET] 156 games on board | 108 pre-game lines updated | 0 newly closed
+2026-11-11 07:30:32 [07:30:32 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 07:40:13 [07:40:13 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 07:49:59 [07:49:59 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 07:59:38 [07:59:38 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 08:09:21 [08:09:21 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 08:19:03 [08:19:03 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 08:28:50 [08:28:50 ET] 156 games on board | 109 pre-game lines updated | 0 newly closed
+2026-11-11 08:38:30 [08:38:30 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 08:48:15 [08:48:15 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 08:57:59 [08:57:59 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 09:07:42 [09:07:42 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 09:17:27 [09:17:27 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 09:27:11 [09:27:11 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 09:36:54 [09:36:54 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 09:46:38 [09:46:38 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 09:56:21 [09:56:21 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 10:06:02 [10:06:02 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 10:15:43 [10:15:43 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 10:25:28 [10:25:28 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 10:35:08 [10:35:08 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 10:44:55 [10:44:55 ET] 156 games on board | 113 pre-game lines updated | 0 newly closed
+2026-11-11 10:54:37 [10:54:37 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 11:04:18 [11:04:18 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 11:14:03 [11:14:03 ET] 156 games on board | 106 pre-game lines updated | 0 newly closed
+2026-11-11 11:23:45 [11:23:45 ET] 48 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-11 11:33:25 [11:33:25 ET] 48 games on board | 47 pre-game lines updated | 1 newly closed
+2026-11-11 11:43:08 [11:43:08 ET] 156 games on board | 111 pre-game lines updated | 0 newly closed
+2026-11-11 11:52:49 [11:52:49 ET] 156 games on board | 111 pre-game lines updated | 0 newly closed
+2026-11-11 12:02:38 [12:02:38 ET] 156 games on board | 109 pre-game lines updated | 1 newly closed
+2026-11-11 12:12:20 [12:12:20 ET] 48 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-11 12:22:08 [12:22:08 ET] 156 games on board | 114 pre-game lines updated | 0 newly closed
+2026-11-11 12:31:49 [12:31:49 ET] 48 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-11 12:41:32 [12:41:32 ET] 48 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-11 12:51:15 [12:51:15 ET] 48 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-11 13:00:58 [13:00:58 ET] 48 games on board | 45 pre-game lines updated | 1 newly closed
+2026-11-11 13:10:48 [13:10:48 ET] 156 games on board | 114 pre-game lines updated | 0 newly closed
+2026-11-11 13:20:28 [13:20:28 ET] 48 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-11 13:30:15 [13:30:15 ET] 156 games on board | 113 pre-game lines updated | 0 newly closed
+2026-11-11 13:40:04 [13:40:04 ET] 156 games on board | 117 pre-game lines updated | 0 newly closed
+2026-11-11 13:49:47 [13:49:47 ET] 156 games on board | 119 pre-game lines updated | 0 newly closed
+2026-11-11 13:59:32 [13:59:32 ET] 156 games on board | 117 pre-game lines updated | 0 newly closed
+2026-11-11 14:09:09 [14:09:09 ET] 49 games on board | 46 pre-game lines updated | 0 newly closed
+2026-11-11 14:18:56 [14:18:56 ET] 156 games on board | 115 pre-game lines updated | 1 newly closed
+2026-11-11 14:28:35 [14:28:35 ET] 49 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-11 14:38:22 [14:38:22 ET] 156 games on board | 117 pre-game lines updated | 0 newly closed
+2026-11-11 14:48:03 [14:48:03 ET] 49 games on board | 45 pre-game lines updated | 0 newly closed
+2026-11-11 14:57:49 [14:57:49 ET] 156 games on board | 117 pre-game lines updated | 0 newly closed
+2026-11-11 15:07:32 [15:07:32 ET] 156 games on board | 115 pre-game lines updated | 2 newly closed
+2026-11-11 15:17:16 [15:17:16 ET] 49 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-11 17:55:59 [17:55:59 ET] 67 games on board | 58 pre-game lines updated | 3 newly closed
+2026-11-11 18:05:41 [18:05:41 ET] 70 games on board | 60 pre-game lines updated | 1 newly closed
+2026-11-11 18:15:31 [18:15:31 ET] 70 games on board | 60 pre-game lines updated | 0 newly closed
+2026-11-11 18:25:16 [18:25:16 ET] 72 games on board | 62 pre-game lines updated | 0 newly closed
+2026-11-11 18:34:57 [18:34:57 ET] 156 games on board | 109 pre-game lines updated | 2 newly closed | 1 added already live (missed close)
+2026-11-11 18:44:38 [18:44:38 ET] 72 games on board | 60 pre-game lines updated | 0 newly closed
+2026-11-11 18:54:22 [18:54:22 ET] 72 games on board | 60 pre-game lines updated | 0 newly closed
+2026-11-11 19:04:05 [19:04:05 ET] 156 games on board | 90 pre-game lines updated | 18 newly closed
+2026-11-11 19:13:45 [19:13:45 ET] 72 games on board | 43 pre-game lines updated | 0 newly closed
+2026-11-11 19:24:22 [19:24:22 ET] 156 games on board | 92 pre-game lines updated | 0 newly closed
+2026-11-11 19:34:06 [19:34:06 ET] 156 games on board | 91 pre-game lines updated | 1 newly closed | 2 added already live (missed close)
+2026-11-11 19:43:42 [19:43:42 ET] 72 games on board | 42 pre-game lines updated | 0 newly closed
+2026-11-11 19:53:23 [19:53:23 ET] 72 games on board | 42 pre-game lines updated | 0 newly closed
+2026-11-11 20:03:05 [20:03:05 ET] 72 games on board | 35 pre-game lines updated | 7 newly closed
+2026-11-11 20:12:52 [20:12:52 ET] 156 games on board | 83 pre-game lines updated | 0 newly closed
+2026-11-11 20:22:30 [20:22:30 ET] 72 games on board | 35 pre-game lines updated | 0 newly closed
+2026-11-11 20:32:12 [20:32:12 ET] 72 games on board | 35 pre-game lines updated | 0 newly closed
+2026-11-11 20:41:58 [20:41:58 ET] 156 games on board | 84 pre-game lines updated | 0 newly closed
+2026-11-11 20:51:38 [20:51:38 ET] 72 games on board | 35 pre-game lines updated | 0 newly closed
+2026-11-11 21:01:17 [21:01:17 ET] 72 games on board | 29 pre-game lines updated | 6 newly closed
+2026-11-11 21:11:05 [21:11:05 ET] 156 games on board | 76 pre-game lines updated | 0 newly closed
+2026-11-11 21:20:46 [21:20:46 ET] 156 games on board | 76 pre-game lines updated | 0 newly closed
+2026-11-11 21:30:30 [21:30:30 ET] 72 games on board | 29 pre-game lines updated | 0 newly closed
+2026-11-11 21:40:11 [21:40:11 ET] 72 games on board | 29 pre-game lines updated | 0 newly closed
+2026-11-11 21:49:50 [21:49:50 ET] 156 games on board | 77 pre-game lines updated | 0 newly closed
+2026-11-11 21:59:32 [21:59:32 ET] 72 games on board | 29 pre-game lines updated | 0 newly closed
+2026-11-11 22:09:13 [22:09:13 ET] 156 games on board | 74 pre-game lines updated | 4 newly closed
+2026-11-11 22:18:56 [22:18:56 ET] 72 games on board | 25 pre-game lines updated | 0 newly closed
+2026-11-11 22:28:43 [22:28:43 ET] 72 games on board | 25 pre-game lines updated | 0 newly closed
+2026-11-11 22:38:20 [22:38:20 ET] 156 games on board | 73 pre-game lines updated | 0 newly closed
+2026-11-11 22:48:05 [22:48:05 ET] 156 games on board | 74 pre-game lines updated | 0 newly closed
+2026-11-11 22:57:43 [22:57:43 ET] 156 games on board | 73 pre-game lines updated | 0 newly closed
+2026-11-11 23:07:24 [23:07:24 ET] 72 games on board | 24 pre-game lines updated | 1 newly closed
+2026-11-11 23:17:08 [23:17:08 ET] 72 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-11 23:26:50 [23:26:50 ET] 72 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-11 23:36:30 [23:36:30 ET] 72 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-11 23:46:11 [23:46:11 ET] 72 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-11 23:55:51 [23:55:51 ET] 72 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 00:05:30 [00:05:30 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 00:15:17 [00:15:17 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 00:24:55 [00:24:55 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 00:34:44 [00:34:44 ET] 160 games on board | 130 pre-game lines updated | 0 newly closed
+2026-11-12 00:44:22 [00:44:22 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 00:54:02 [00:54:02 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 01:03:42 [01:03:42 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 01:13:23 [01:13:23 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 01:23:09 [01:23:09 ET] 160 games on board | 130 pre-game lines updated | 0 newly closed
+2026-11-12 01:32:49 [01:32:49 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 01:42:31 [01:42:31 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 01:52:10 [01:52:10 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 02:02:00 [02:02:00 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 02:11:50 [02:11:50 ET] 160 games on board | 135 pre-game lines updated | 0 newly closed
+2026-11-12 02:21:18 [02:21:18 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 02:31:07 [02:31:07 ET] 160 games on board | 134 pre-game lines updated | 0 newly closed
+2026-11-12 02:40:41 [02:40:41 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 02:50:30 [02:50:30 ET] 160 games on board | 135 pre-game lines updated | 0 newly closed
+2026-11-12 03:00:06 [03:00:06 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 03:09:53 [03:09:53 ET] 160 games on board | 127 pre-game lines updated | 0 newly closed
+2026-11-12 03:19:31 [03:19:31 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 03:29:12 [03:29:12 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 03:38:57 [03:38:57 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 03:48:40 [03:48:40 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 03:58:34 [03:58:34 ET] 160 games on board | 127 pre-game lines updated | 0 newly closed
+2026-11-12 04:08:13 [04:08:13 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 04:17:53 [04:17:53 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 04:27:37 [04:27:37 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 04:37:20 [04:37:20 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 04:47:03 [04:47:03 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 04:56:46 [04:56:46 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 05:06:28 [05:06:28 ET] 160 games on board | 128 pre-game lines updated | 0 newly closed
+2026-11-12 05:16:15 [05:16:15 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 05:25:59 [05:25:59 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 05:35:43 [05:35:43 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 05:45:21 [05:45:21 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 05:55:04 [05:55:04 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 06:04:47 [06:04:47 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 06:14:28 [06:14:28 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 06:24:17 [06:24:17 ET] 160 games on board | 132 pre-game lines updated | 0 newly closed
+2026-11-12 06:33:56 [06:33:56 ET] 160 games on board | 133 pre-game lines updated | 0 newly closed
+2026-11-12 06:43:36 [06:43:36 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 06:53:19 [06:53:19 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 07:03:03 [07:03:03 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 07:12:44 [07:12:44 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 07:22:27 [07:22:27 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 07:32:09 [07:32:09 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 07:41:55 [07:41:55 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 07:51:41 [07:51:41 ET] 160 games on board | 134 pre-game lines updated | 0 newly closed
+2026-11-12 08:01:23 [08:01:23 ET] 160 games on board | 133 pre-game lines updated | 0 newly closed
+2026-11-12 08:11:01 [08:11:01 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 08:20:45 [08:20:45 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 08:30:31 [08:30:31 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 08:40:25 [08:40:25 ET] 160 games on board | 133 pre-game lines updated | 0 newly closed
+2026-11-12 08:50:04 [08:50:04 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 08:59:45 [08:59:45 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 09:09:28 [09:09:28 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 09:19:10 [09:19:10 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 09:28:58 [09:28:58 ET] 160 games on board | 130 pre-game lines updated | 0 newly closed
+2026-11-12 09:40:50 [09:40:50 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 09:51:10 [09:51:10 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 10:00:59 [10:00:59 ET] 160 games on board | 133 pre-game lines updated | 0 newly closed
+2026-11-12 10:10:39 [10:10:39 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 10:20:24 [10:20:24 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 10:30:08 [10:30:08 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 10:39:54 [10:39:54 ET] 160 games on board | 130 pre-game lines updated | 0 newly closed
+2026-11-12 10:49:36 [10:49:36 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 10:59:19 [10:59:19 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 11:09:04 [11:09:04 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 11:18:45 [11:18:45 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 11:28:28 [11:28:28 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 11:38:14 [11:38:14 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 11:47:59 [11:47:59 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 11:57:40 [11:57:40 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 12:07:25 [12:07:25 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 12:17:06 [12:17:06 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 12:26:50 [12:26:50 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 12:36:38 [12:36:38 ET] 160 games on board | 131 pre-game lines updated | 0 newly closed
+2026-11-12 12:46:21 [12:46:21 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 12:56:01 [12:56:01 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 13:05:47 [13:05:47 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 13:15:31 [13:15:31 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 13:25:13 [13:25:13 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 13:34:59 [13:34:59 ET] 160 games on board | 131 pre-game lines updated | 0 newly closed
+2026-11-12 13:44:49 [13:44:49 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 13:54:28 [13:54:28 ET] 160 games on board | 131 pre-game lines updated | 0 newly closed
+2026-11-12 14:04:06 [14:04:06 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 14:13:49 [14:13:49 ET] 24 games on board | 24 pre-game lines updated | 0 newly closed
+2026-11-12 14:23:38 [14:23:38 ET] 159 games on board | 133 pre-game lines updated | 0 newly closed
+2026-11-12 14:33:18 [14:33:18 ET] 159 games on board | 133 pre-game lines updated | 0 newly closed
+2026-11-12 14:42:57 [14:42:57 ET] 31 games on board | 31 pre-game lines updated | 0 newly closed
+2026-11-12 14:52:43 [14:52:43 ET] 32 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-12 15:02:20 [15:02:20 ET] 33 games on board | 32 pre-game lines updated | 1 newly closed
+2026-11-12 15:12:04 [15:12:04 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-12 15:21:54 [15:21:54 ET] 159 games on board | 128 pre-game lines updated | 0 newly closed
+2026-11-12 15:31:34 [15:31:34 ET] 159 games on board | 128 pre-game lines updated | 0 newly closed
+2026-11-12 15:41:15 [15:41:15 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-12 15:51:00 [15:51:00 ET] 159 games on board | 129 pre-game lines updated | 0 newly closed
+2026-11-12 16:00:44 [16:00:44 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-12 16:10:27 [16:10:27 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-12 16:20:08 [16:20:08 ET] 33 games on board | 32 pre-game lines updated | 0 newly closed
+2026-11-12 16:29:58 [16:29:58 ET] 38 games on board | 37 pre-game lines updated | 0 newly closed
+2026-11-12 16:39:44 [16:39:44 ET] 159 games on board | 129 pre-game lines updated | 0 newly closed
+2026-11-12 16:49:24 [16:49:24 ET] 53 games on board | 52 pre-game lines updated | 0 newly closed
+2026-11-12 16:59:08 [16:59:08 ET] 63 games on board | 62 pre-game lines updated | 0 newly closed
+2026-11-12 17:08:53 [17:08:53 ET] 63 games on board | 62 pre-game lines updated | 0 newly closed
+2026-11-12 17:18:34 [17:18:34 ET] 159 games on board | 76 pre-game lines updated | 0 newly closed
+2026-11-12 17:28:16 [17:28:16 ET] 159 games on board | 131 pre-game lines updated | 0 newly closed
+2026-11-12 17:38:16 [17:38:16 ET] 159 games on board | 128 pre-game lines updated | 0 newly closed
+2026-11-12 17:47:49 [17:47:49 ET] 63 games on board | 62 pre-game lines updated | 0 newly closed
+2026-11-12 17:57:32 [17:57:32 ET] 159 games on board | 131 pre-game lines updated | 0 newly closed
+2026-11-12 18:07:14 [18:07:14 ET] 63 games on board | 60 pre-game lines updated | 2 newly closed
+2026-11-12 18:16:54 [18:16:54 ET] 63 games on board | 60 pre-game lines updated | 0 newly closed
+2026-11-12 18:26:40 [18:26:40 ET] 63 games on board | 60 pre-game lines updated | 0 newly closed
+2026-11-12 18:36:19 [18:36:19 ET] 63 games on board | 58 pre-game lines updated | 2 newly closed
+2026-11-12 18:46:01 [18:46:01 ET] 63 games on board | 58 pre-game lines updated | 0 newly closed
+2026-11-12 18:55:42 [18:55:42 ET] 63 games on board | 58 pre-game lines updated | 0 newly closed
+2026-11-12 19:05:22 [19:05:22 ET] 63 games on board | 47 pre-game lines updated | 11 newly closed
+2026-11-12 19:15:08 [19:15:08 ET] 159 games on board | 118 pre-game lines updated | 3 newly closed
+2026-11-12 19:24:57 [19:24:57 ET] 159 games on board | 118 pre-game lines updated | 0 newly closed
+2026-11-12 19:34:33 [19:34:33 ET] 63 games on board | 47 pre-game lines updated | 0 newly closed
+2026-11-12 19:44:17 Removed 40976 bad snapshot rows (385 bad page loads); repaired the closing line of 175 games.
+2026-11-12 19:44:27 [warn] ignored 1263 impossible quotes (e.g. Kalshi Sports moneyline 26/75)
+2026-11-12 19:44:27 [19:44:27 ET] 159 games on board | 4 pre-game lines updated | 0 newly closed
+2026-11-12 19:54:00 [warn] ignored 1288 impossible quotes (e.g. Kalshi Sports moneyline 26/75)
+2026-11-12 19:54:01 [19:54:01 ET] 159 games on board | 4 pre-game lines updated | 0 newly closed
+2026-11-12 20:03:47 [20:03:47 ET] 63 games on board | 42 pre-game lines updated | 5 newly closed
+2026-11-12 20:13:30 [20:13:30 ET] 63 games on board | 42 pre-game lines updated | 0 newly closed
+2026-11-12 20:23:11 [20:23:11 ET] 63 games on board | 42 pre-game lines updated | 0 newly closed
+2026-11-12 20:32:56 [warn] ignored 1365 impossible quotes (e.g. Kalshi Sports moneyline 26/75)
+2026-11-12 20:32:56 [20:32:56 ET] 159 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-12 20:42:36 [20:42:36 ET] 63 games on board | 42 pre-game lines updated | 0 newly closed
+2026-11-12 20:52:18 [20:52:18 ET] 63 games on board | 42 pre-game lines updated | 0 newly closed
+2026-11-12 21:01:59 [warn] ignored 1375 impossible quotes (e.g. Kalshi Sports moneyline 26/75)
+2026-11-12 21:01:59 [21:01:59 ET] 159 games on board | 2 pre-game lines updated | 3 newly closed
+2026-11-12 21:11:42 [21:11:42 ET] 63 games on board | 40 pre-game lines updated | 0 newly closed
+2026-11-12 21:21:23 [21:21:23 ET] 63 games on board | 40 pre-game lines updated | 0 newly closed
+2026-11-12 21:31:04 [warn] ignored 1372 impossible quotes (e.g. Kalshi Sports moneyline 26/75)
+2026-11-12 21:31:04 [21:31:04 ET] 159 games on board | 6 pre-game lines updated | 0 newly closed
+2026-11-12 21:40:51 [warn] ignored 1379 impossible quotes (e.g. Kalshi Sports moneyline 26/75)
+2026-11-12 21:40:51 [21:40:51 ET] 161 games on board | 5 pre-game lines updated | 0 newly closed
+2026-11-12 21:50:32 [21:50:32 ET] 63 games on board | 40 pre-game lines updated | 0 newly closed
+2026-11-12 22:00:16 [warn] ignored 1342 impossible quotes (e.g. Kalshi Sports moneyline 26/75)
+2026-11-12 22:00:17 [22:00:17 ET] 161 games on board | 7 pre-game lines updated | 2 newly closed
+2026-11-12 22:09:57 [22:09:57 ET] 63 games on board | 39 pre-game lines updated | 0 newly closed
+2026-11-12 22:19:39 [warn] ignored 1490 impossible quotes (e.g. Kalshi Sports moneyline 80/21)
+2026-11-12 22:19:39 [22:19:39 ET] 161 games on board | 10 pre-game lines updated | 0 newly closed
+2026-11-12 22:29:20 [warn] ignored 1494 impossible quotes (e.g. Kalshi Sports moneyline 80/21)
+2026-11-12 22:29:21 [22:29:21 ET] 161 games on board | 9 pre-game lines updated | 0 newly closed
+2026-11-12 22:39:06 [warn] ignored 1496 impossible quotes (e.g. Kalshi Sports moneyline 37/64)
+2026-11-12 22:39:06 [22:39:06 ET] 161 games on board | 8 pre-game lines updated | 0 newly closed
+2026-11-12 22:48:47 [warn] ignored 1516 impossible quotes (e.g. Kalshi Sports moneyline 37/64)
+2026-11-12 22:48:47 [22:48:47 ET] 161 games on board | 3 pre-game lines updated | 0 newly closed
+2026-11-12 22:58:28 [22:58:28 ET] 76 games on board | 52 pre-game lines updated | 0 newly closed
+2026-11-12 23:08:11 [warn] ignored 1537 impossible quotes (e.g. Kalshi Sports moneyline 37/64)
+2026-11-12 23:08:11 [23:08:11 ET] 161 games on board | 5 pre-game lines updated | 0 newly closed
+2026-11-12 23:17:54 [23:17:54 ET] 79 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-12 23:27:35 [23:27:35 ET] 79 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-12 23:37:19 [warn] ignored 1582 impossible quotes (e.g. Kalshi Sports moneyline 40/62)
+2026-11-12 23:37:19 [23:37:19 ET] 161 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-12 23:46:59 [warn] ignored 1595 impossible quotes (e.g. Kalshi Sports moneyline 42/62)
+2026-11-12 23:46:59 [23:46:59 ET] 161 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-12 23:56:44 [23:56:44 ET] 79 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 00:06:27 [00:06:27 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 00:16:07 [00:16:07 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 00:25:51 [00:25:51 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 00:35:35 [00:35:35 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 00:45:19 [warn] ignored 1333 impossible quotes (e.g. Kalshi Sports moneyline 40/63)
+2026-11-13 00:45:19 [00:45:19 ET] 172 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-13 00:55:01 [00:55:01 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 01:04:41 [01:04:41 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 01:14:22 [01:14:22 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 01:24:05 [01:24:05 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 01:33:45 [01:33:45 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 01:43:29 [01:43:29 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 01:53:10 [01:53:10 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 02:02:55 [warn] ignored 1365 impossible quotes (e.g. Kalshi Sports moneyline 40/62)
+2026-11-13 02:02:55 [02:02:55 ET] 172 games on board | 4 pre-game lines updated | 0 newly closed
+2026-11-13 02:12:34 [02:12:34 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 02:22:16 [02:22:16 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 02:31:57 [02:31:57 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 02:41:37 [02:41:37 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 02:51:19 [02:51:19 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 03:01:02 [03:01:02 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 03:10:41 [03:10:41 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 03:20:23 [03:20:23 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 03:30:05 [03:30:05 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 03:39:51 [warn] ignored 1375 impossible quotes (e.g. Kalshi Sports moneyline 40/62)
+2026-11-13 03:39:51 [03:39:51 ET] 172 games on board | 5 pre-game lines updated | 0 newly closed
+2026-11-13 03:49:31 [03:49:31 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 03:59:10 [03:59:10 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 04:08:53 [04:08:53 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 04:18:33 [04:18:33 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 04:28:18 [warn] ignored 1378 impossible quotes (e.g. Kalshi Sports moneyline 41/62)
+2026-11-13 04:28:18 [04:28:18 ET] 172 games on board | 6 pre-game lines updated | 0 newly closed
+2026-11-13 04:38:00 [04:38:00 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 04:47:45 [warn] ignored 1375 impossible quotes (e.g. Kalshi Sports moneyline 41/62)
+2026-11-13 04:47:45 [04:47:45 ET] 172 games on board | 4 pre-game lines updated | 0 newly closed
+2026-11-13 04:57:25 [04:57:25 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 05:07:14 [warn] ignored 1370 impossible quotes (e.g. Kalshi Sports moneyline 41/62)
+2026-11-13 05:07:14 [05:07:14 ET] 172 games on board | 3 pre-game lines updated | 0 newly closed
+2026-11-13 05:16:54 [05:16:54 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 05:26:36 [05:26:36 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 05:36:16 [05:36:16 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 05:46:01 [05:46:01 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 05:55:45 [05:55:45 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 06:05:27 [06:05:27 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 06:15:10 [06:15:10 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 06:24:51 [06:24:51 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 06:34:32 [06:34:32 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 06:44:17 [06:44:17 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 06:53:55 [06:53:55 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 07:03:38 [07:03:38 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 07:13:22 [07:13:22 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 07:23:05 [07:23:05 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 07:32:51 [07:32:51 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 07:42:32 [07:42:32 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 07:52:14 [warn] ignored 1361 impossible quotes (e.g. Kalshi Sports moneyline 38/65)
+2026-11-13 07:52:15 [07:52:15 ET] 172 games on board | 7 pre-game lines updated | 0 newly closed
+2026-11-13 08:01:58 [08:01:58 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 08:11:40 [08:11:40 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 08:21:20 [08:21:20 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 08:31:03 [warn] ignored 1366 impossible quotes (e.g. Kalshi Sports moneyline 38/64)
+2026-11-13 08:31:03 [08:31:03 ET] 172 games on board | 4 pre-game lines updated | 0 newly closed
+2026-11-13 08:40:49 [08:40:49 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 08:50:30 [08:50:30 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 09:00:16 [09:00:16 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 09:09:54 [09:09:54 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 09:19:41 [09:19:41 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 09:29:23 [09:29:23 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 09:39:02 [09:39:02 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 09:48:46 [09:48:46 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 09:58:26 [09:58:26 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 10:08:05 [10:08:05 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 10:17:50 [10:17:50 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 10:27:35 [warn] ignored 1346 impossible quotes (e.g. Kalshi Sports moneyline 40/61)
+2026-11-13 10:27:35 [10:27:35 ET] 172 games on board | 2 pre-game lines updated | 0 newly closed
+2026-11-13 10:37:15 [warn] ignored 1364 impossible quotes (e.g. Kalshi Sports moneyline 40/61)
+2026-11-13 10:37:16 [10:37:16 ET] 172 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-13 10:47:00 [warn] ignored 1363 impossible quotes (e.g. Kalshi Sports moneyline 40/61)
+2026-11-13 10:47:00 [10:47:00 ET] 172 games on board | 2 pre-game lines updated | 0 newly closed
+2026-11-13 10:56:41 [10:56:41 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 11:06:24 [11:06:24 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 11:16:08 [11:16:08 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 11:25:51 [11:25:51 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 11:35:35 [warn] ignored 1362 impossible quotes (e.g. Kalshi Sports moneyline 43/58)
+2026-11-13 11:35:35 [11:35:35 ET] 172 games on board | 6 pre-game lines updated | 0 newly closed
+2026-11-13 11:45:17 [11:45:17 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 11:54:58 [11:54:58 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 12:04:43 [12:04:43 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 12:14:22 [12:14:22 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 12:24:19 [warn] ignored 1344 impossible quotes (e.g. Kalshi Sports moneyline 45/57)
+2026-11-13 12:24:19 [12:24:19 ET] 172 games on board | 3 pre-game lines updated | 1 newly closed
+2026-11-13 12:33:55 [12:33:55 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 12:44:06 [warn] ignored 1365 impossible quotes (e.g. Kalshi Sports moneyline 46/55)
+2026-11-13 12:44:06 [12:44:06 ET] 172 games on board | 2 pre-game lines updated | 0 newly closed
+2026-11-13 12:53:50 [12:53:50 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 13:03:35 [warn] ignored 1353 impossible quotes (e.g. Kalshi Sports moneyline 47/54)
+2026-11-13 13:03:35 [13:03:35 ET] 172 games on board | 2 pre-game lines updated | 0 newly closed
+2026-11-13 13:13:34 [warn] ignored 1357 impossible quotes (e.g. Kalshi Sports moneyline 48/54)
+2026-11-13 13:13:34 [13:13:34 ET] 172 games on board | 2 pre-game lines updated | 0 newly closed
+2026-11-13 13:23:05 [warn] ignored 1350 impossible quotes (e.g. Kalshi Sports moneyline 48/54)
+2026-11-13 13:23:05 [13:23:05 ET] 172 games on board | 2 pre-game lines updated | 0 newly closed
+2026-11-13 13:32:52 [warn] ignored 1362 impossible quotes (e.g. Kalshi Sports moneyline 48/53)
+2026-11-13 13:32:52 [13:32:52 ET] 172 games on board | 2 pre-game lines updated | 0 newly closed
+2026-11-13 13:42:42 [13:42:42 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 13:52:16 [13:52:16 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 14:02:01 [14:02:01 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 14:11:43 [14:11:43 ET] 55 games on board | 55 pre-game lines updated | 0 newly closed
+2026-11-13 14:21:30 [warn] ignored 1356 impossible quotes (e.g. Kalshi Sports moneyline 49/52)
+2026-11-13 14:21:30 [14:21:30 ET] 172 games on board | 4 pre-game lines updated | 0 newly closed
+2026-11-13 14:31:28 [warn] ignored 1375 impossible quotes (e.g. Kalshi Sports moneyline 50/52)
+2026-11-13 14:31:28 [14:31:28 ET] 172 games on board | 2 pre-game lines updated | 0 newly closed
+2026-11-13 14:41:06 [warn] ignored 1385 impossible quotes (e.g. Kalshi Sports moneyline 52/49)
+2026-11-13 14:41:06 [14:41:06 ET] 172 games on board | 3 pre-game lines updated | 0 newly closed
+2026-11-13 14:50:48 [warn] ignored 1377 impossible quotes (e.g. Kalshi Sports moneyline 54/48)
+2026-11-13 14:50:48 [14:50:48 ET] 172 games on board | 4 pre-game lines updated | 0 newly closed
+2026-11-13 15:00:33 [15:00:33 ET] 55 games on board | 54 pre-game lines updated | 1 newly closed
+2026-11-13 15:10:13 [15:10:13 ET] 55 games on board | 54 pre-game lines updated | 0 newly closed
+2026-11-13 15:19:58 [15:19:58 ET] 55 games on board | 54 pre-game lines updated | 0 newly closed
+2026-11-13 15:29:40 [15:29:40 ET] 55 games on board | 54 pre-game lines updated | 0 newly closed
+2026-11-13 15:39:24 [15:39:24 ET] 55 games on board | 54 pre-game lines updated | 0 newly closed
+2026-11-13 15:49:02 [15:49:02 ET] 55 games on board | 54 pre-game lines updated | 0 newly closed
+2026-11-13 15:58:44 [15:58:44 ET] 55 games on board | 54 pre-game lines updated | 0 newly closed
+2026-11-13 16:08:30 [warn] ignored 1378 impossible quotes (e.g. Kalshi Sports moneyline 53/48)
+2026-11-13 16:08:30 [16:08:30 ET] 172 games on board | 2 pre-game lines updated | 0 newly closed
+2026-11-13 16:18:28 [warn] ignored 1388 impossible quotes (e.g. Kalshi Sports moneyline 53/48)
+2026-11-13 16:18:28 [16:18:28 ET] 172 games on board | 5 pre-game lines updated | 0 newly closed
+2026-11-13 16:28:02 [16:28:02 ET] 62 games on board | 61 pre-game lines updated | 0 newly closed
+2026-11-13 16:37:45 [16:37:45 ET] 63 games on board | 62 pre-game lines updated | 0 newly closed
+2026-11-13 16:47:24 [16:47:24 ET] 66 games on board | 65 pre-game lines updated | 0 newly closed
+2026-11-13 16:57:10 [16:57:10 ET] 68 games on board | 67 pre-game lines updated | 0 newly closed
+2026-11-13 17:06:55 [17:06:55 ET] 72 games on board | 69 pre-game lines updated | 2 newly closed
+2026-11-13 17:16:34 [17:16:34 ET] 75 games on board | 72 pre-game lines updated | 0 newly closed
+2026-11-13 17:26:17 [warn] ignored 1501 impossible quotes (e.g. Kalshi Sports moneyline 53/48)
+2026-11-13 17:26:17 [17:26:17 ET] 172 games on board | 0 pre-game lines updated | 0 newly closed
+2026-11-13 17:36:04 [17:36:04 ET] 84 games on board | 81 pre-game lines updated | 0 newly closed
+2026-11-13 17:45:42 [warn] ignored 1530 impossible quotes (e.g. Kalshi Sports moneyline 53/48)
+2026-11-13 17:45:42 [17:45:42 ET] 172 games on board | 3 pre-game lines updated | 0 newly closed
+2026-11-13 17:55:24 [warn] ignored 1580 impossible quotes (e.g. Kalshi Sports moneyline 53/48)
+2026-11-13 17:55:24 [17:55:24 ET] 172 games on board | 4 pre-game lines updated | 0 newly closed
+2026-11-13 18:05:09 [18:05:09 ET] 89 games on board | 84 pre-game lines updated | 2 newly closed
+2026-11-13 18:14:52 [warn] ignored 1602 impossible quotes (e.g. Kalshi Sports moneyline 41/60)
+2026-11-13 18:14:52 [18:14:52 ET] 172 games on board | 5 pre-game lines updated | 0 newly closed
+2026-11-13 18:24:36 [18:24:36 ET] 89 games on board | 84 pre-game lines updated | 0 newly closed
+2026-11-13 18:34:13 [18:34:13 ET] 89 games on board | 83 pre-game lines updated | 1 newly closed
+2026-11-13 18:43:56 [18:43:56 ET] 89 games on board | 83 pre-game lines updated | 0 newly closed
+2026-11-13 18:53:37 [18:53:37 ET] 89 games on board | 83 pre-game lines updated | 0 newly closed
+2026-11-13 19:03:23 [19:03:23 ET] 89 games on board | 64 pre-game lines updated | 19 newly closed
+2026-11-13 19:13:00 [warn] ignored 1756 impossible quotes (e.g. Kalshi Sports moneyline 28/73)
+2026-11-13 19:13:00 [19:13:00 ET] 172 games on board | 5 pre-game lines updated | 0 newly closed
+2026-11-13 19:22:44 [warn] ignored 1771 impossible quotes (e.g. Kalshi Sports moneyline 7/94)
+2026-11-13 19:22:44 [19:22:44 ET] 172 games on board | 4 pre-game lines updated | 0 newly closed
+2026-11-13 19:32:23 [19:32:23 ET] 89 games on board | 60 pre-game lines updated | 4 newly closed
+2026-11-13 19:42:15 Kalshi cleanup: removed 165 snapshot rows from 44 Kalshi page loads; repaired 41 games.
+2026-11-13 19:42:19 [19:42:19 ET] 89 games on board | 60 pre-game lines updated | 0 newly closed
+2026-11-13 19:51:51 [19:51:51 ET] 89 games on board | 60 pre-game lines updated | 0 newly closed
+2026-11-13 20:01:31 [20:01:31 ET] 88 games on board | 48 pre-game lines updated | 11 newly closed
+2026-11-13 20:11:10 [20:11:10 ET] 88 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-13 20:20:55 [warn] ignored 566 impossible quotes (e.g. OG moneyline 56/50)
+2026-11-13 20:20:55 [20:20:55 ET] 171 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-13 20:30:34 [20:30:34 ET] 88 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-13 20:40:21 [20:40:21 ET] 88 games on board | 48 pre-game lines updated | 0 newly closed
+2026-11-13 20:49:59 [20:49:59 ET] 88 games on board | 47 pre-game lines updated | 1 newly closed
+2026-11-13 20:59:46 [warn] ignored 564 impossible quotes (e.g. Underdog moneyline 56/50)
+2026-11-13 20:59:46 [20:59:46 ET] 170 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-13 21:09:28 [21:09:28 ET] 87 games on board | 38 pre-game lines updated | 8 newly closed
+2026-11-13 21:19:10 [21:19:10 ET] 89 games on board | 40 pre-game lines updated | 0 newly closed
+2026-11-13 21:28:51 [warn] ignored 610 impossible quotes (e.g. Underdog moneyline 56/50)
+2026-11-13 21:28:51 [21:28:51 ET] 170 games on board | 10 pre-game lines updated | 0 newly closed
+2026-11-13 21:38:30 [21:38:30 ET] 99 games on board | 48 pre-game lines updated | 2 newly closed
+2026-11-13 21:48:15 [warn] ignored 618 impossible quotes (e.g. Underdog moneyline 56/50)
+2026-11-13 21:48:15 [21:48:15 ET] 170 games on board | 9 pre-game lines updated | 0 newly closed
+2026-11-13 21:58:01 [21:58:01 ET] 113 games on board | 62 pre-game lines updated | 0 newly closed
+2026-11-13 22:07:39 [22:07:39 ET] 114 games on board | 60 pre-game lines updated | 3 newly closed
+2026-11-13 22:17:23 [warn] ignored 628 impossible quotes (e.g. Underdog moneyline 56/50)
+2026-11-13 22:17:23 [22:17:23 ET] 170 games on board | 5 pre-game lines updated | 0 newly closed
+2026-11-13 22:27:09 [22:27:09 ET] 114 games on board | 60 pre-game lines updated | 0 newly closed
+2026-11-13 22:36:47 [22:36:47 ET] 114 games on board | 59 pre-game lines updated | 1 newly closed
+2026-11-13 22:46:31 [22:46:31 ET] 114 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-13 22:56:12 [22:56:12 ET] 114 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-13 23:05:53 [warn] ignored 648 impossible quotes (e.g. Underdog moneyline 39/66)
+2026-11-13 23:05:54 [23:05:54 ET] 170 games on board | 5 pre-game lines updated | 0 newly closed
+2026-11-13 23:15:35 [23:15:35 ET] 114 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-13 23:25:16 [23:25:16 ET] 114 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-13 23:34:59 [warn] ignored 642 impossible quotes (e.g. Underdog moneyline 39/66)
+2026-11-13 23:34:59 [23:34:59 ET] 170 games on board | 4 pre-game lines updated | 0 newly closed
+2026-11-13 23:44:44 [23:44:44 ET] 114 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-13 23:54:24 [23:54:24 ET] 114 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 00:04:04 [00:04:04 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 00:13:49 [warn] ignored 402 impossible quotes (e.g. OG moneyline 14/88)
+2026-11-14 00:13:49 [00:13:49 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 00:23:33 [00:23:33 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 00:33:27 [00:33:27 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 00:43:08 [warn] ignored 420 impossible quotes (e.g. Underdog moneyline 15/88)
+2026-11-14 00:43:08 [00:43:08 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 00:52:46 [00:52:46 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 01:02:28 [01:02:28 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 01:12:13 [01:12:13 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 01:21:56 [01:21:56 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 01:31:38 [warn] ignored 362 impossible quotes (e.g. OG moneyline 17/89)
+2026-11-14 01:31:38 [01:31:38 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 01:41:19 [01:41:19 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 01:50:58 [warn] ignored 416 impossible quotes (e.g. Underdog moneyline 16/88)
+2026-11-14 01:50:58 [01:50:58 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 02:00:38 [02:00:38 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 02:10:24 [02:10:24 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 02:20:03 [warn] ignored 420 impossible quotes (e.g. OG moneyline 16/88)
+2026-11-14 02:20:03 [02:20:03 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 02:29:46 [warn] ignored 424 impossible quotes (e.g. OG moneyline 16/88)
+2026-11-14 02:29:46 [02:29:46 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 02:39:30 [02:39:30 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 02:49:11 [02:49:11 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 02:58:52 [02:58:52 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 03:08:34 [warn] ignored 426 impossible quotes (e.g. Underdog moneyline 16/88)
+2026-11-14 03:08:34 [03:08:34 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 03:18:16 [03:18:16 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 03:28:07 [warn] ignored 432 impossible quotes (e.g. Underdog moneyline 16/88)
+2026-11-14 03:28:07 [03:28:07 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 03:37:48 [03:37:48 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 03:47:30 [03:47:30 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 03:57:09 [03:57:09 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 04:06:50 [04:06:50 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 04:16:35 [04:16:35 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 04:26:16 [04:26:16 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 04:35:59 [04:35:59 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 04:45:42 [warn] ignored 426 impossible quotes (e.g. Underdog moneyline 16/88)
+2026-11-14 04:45:42 [04:45:42 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 04:55:25 [04:55:25 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 05:05:07 [05:05:07 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 05:14:47 [05:14:47 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 05:24:30 [05:24:30 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 05:34:14 [warn] ignored 418 impossible quotes (e.g. Underdog moneyline 16/88)
+2026-11-14 05:34:14 [05:34:14 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 05:43:57 [05:43:57 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 05:53:37 [05:53:37 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 06:03:14 [06:03:14 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 06:12:55 [06:12:55 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 06:22:37 [06:22:37 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 06:32:19 [warn] ignored 424 impossible quotes (e.g. Underdog moneyline 16/88)
+2026-11-14 06:32:19 [06:32:19 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 06:42:02 [warn] ignored 420 impossible quotes (e.g. Underdog moneyline 16/87)
+2026-11-14 06:42:02 [06:42:02 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 06:51:54 [warn] ignored 428 impossible quotes (e.g. Underdog moneyline 16/87)
+2026-11-14 06:51:54 [06:51:54 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 07:01:30 [07:01:30 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 07:11:21 [07:11:21 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 07:20:59 [07:20:59 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 07:30:41 [07:30:41 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 07:40:23 [warn] ignored 428 impossible quotes (e.g. Underdog moneyline 16/88)
+2026-11-14 07:40:23 [07:40:23 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 07:50:16 [warn] ignored 420 impossible quotes (e.g. Underdog moneyline 16/87)
+2026-11-14 07:50:16 [07:50:16 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 07:59:52 [07:59:52 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 08:09:32 [08:09:32 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 08:19:16 [warn] ignored 375 impossible quotes (e.g. OG moneyline 16/88)
+2026-11-14 08:19:16 [08:19:16 ET] 141 games on board | 1 pre-game lines updated | 0 newly closed
+2026-11-14 08:29:00 [08:29:00 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 08:38:41 [08:38:41 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 08:48:27 [08:48:27 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 08:58:03 [08:58:03 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
+2026-11-14 09:07:45 [09:07:45 ET] 59 games on board | 59 pre-game lines updated | 0 newly closed
