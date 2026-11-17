@@ -655,7 +655,7 @@ def load_notes() -> dict[str, dict]:
         return {}
     index: dict[str, dict] = {}
     for row in csv.DictReader(io.StringIO(text)):
-        if not (row.get("notes") or "").strip():
+        if not ((row.get("notes") or "").strip() or (row.get("under_notes") or "").strip()):
             continue
         keys = [row.get("covers_abbr", ""), row.get("team", "")]
         keys += (row.get("aliases") or "").split(";")

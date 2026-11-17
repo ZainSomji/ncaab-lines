@@ -222,6 +222,8 @@ def build_dashboard(open_browser: bool = True) -> Path:
             r[f"{side}_name"] = full_names.get(k) or (note or {}).get("team") or abbr
             r[f"{side}_notes"] = (note or {}).get("notes", "").strip()
             r[f"{side}_tag"] = ((note or {}).get("tag") or "").strip().upper()
+            r[f"{side}_under"] = ((note or {}).get("under_notes") or "").strip()
+            r[f"{side}_utag"] = ((note or {}).get("under_tag") or "").strip().upper()
             r[f"{side}_note_team"] = (note or {}).get("team") or ""
             r[f"{side}_habit"] = habit_for(abbr, note, k)
             if "DO NOT BET" in [x.strip() for x in re.split(r"[;,]", r[f"{side}_tag"])]:
@@ -237,7 +239,9 @@ def build_dashboard(open_browser: bool = True) -> Path:
         h = None if is_conf else habit_for("", row)
         teams.append({"abbr": (row.get("covers_abbr") or "").strip().upper(), "team": row.get("team") or "",
                       "notes": (row.get("notes") or "").strip(), "habit": h,
-                      "tag": (row.get("tag") or "").strip().upper(), "conf": is_conf})
+                      "tag": (row.get("tag") or "").strip().upper(), "conf": is_conf,
+                      "under": (row.get("under_notes") or "").strip(),
+                      "utag": (row.get("under_tag") or "").strip().upper()})
 
     data = {
         "generated": datetime.now(ET).isoformat(timespec="minutes"),
@@ -307,7 +311,8 @@ tbody tr.g.open td{background:var(--bg)}
 .mv.up{color:var(--up)}.mv.down{color:var(--down)}
 .stale{color:var(--warn);font-size:11px;margin-top:4px;white-space:nowrap}
 .tg{display:inline-block;margin-left:6px;font-size:10px;padding:1px 6px;border-radius:4px;font-weight:700;letter-spacing:.3px;vertical-align:1px;border:1px solid currentColor}
-.tg-hack{color:var(--warn)}.tg-nohack{color:var(--accent)}.tg-mixed{color:var(--muted)}.tg-dnb{color:#fff;background:var(--down);border-color:var(--down)}.tg-rev{color:#a855f7}
+.tg-hack{color:var(--warn)}.tg-nohack{color:var(--accent)}.tg-mixed{color:var(--muted)}.tg-dnb{color:#fff;background:var(--down);border-color:var(--down)}.tg-rev{color:#a855f7}.tg-under{color:#0d9488;border-style:dashed}
+.under-h{font-size:12px;font-weight:700;color:#0d9488;margin:10px 0 4px;text-transform:uppercase;letter-spacing:.04em}
 tbody tr.g.dnb td:first-child{box-shadow:inset 4px 0 0 var(--down)}
 .dnbnote{color:var(--down);font-size:11px;font-weight:600;margin-top:4px;white-space:nowrap}
 .legend{color:var(--muted);font-size:12px;margin:-4px 0 12px}
@@ -368,6 +373,7 @@ button.rf{background:var(--accent);color:#fff;border:0;border-radius:8px;padding
     <button class="chip" data-x="foul">Has foul data</button>
     <button class="chip" data-x="moved">Line moved</button>
     <button class="chip" data-x="hack">Hackers playing</button>
+    <button class="chip" data-x="under">Under notes</button>
     <button class="chip" data-x="rev">Reverse hackers</button>
     <button class="chip" data-x="dnb">Do not bet</button>
     <select class="chip" id="dateSel"></select>
@@ -384,7 +390,7 @@ button.rf{background:var(--accent);color:#fff;border:0;border-radius:8px;padding
     <div class="rg" id="rg-tt"><div class="top"><span class="l">Total</span><input type="number" step="0.5" id="tt-min"> to <input type="number" step="0.5" id="tt-max"><button class="reset" id="tt-reset">Reset</button></div>
       <div class="dual"><div class="track"></div><div class="fill" id="tt-fill"></div><input type="range" step="0.5" id="tt-lo"><input type="range" step="0.5" id="tt-hi"></div></div>
   </div>
-  <p class="legend">Team badges from your notes: <span class="tg tg-hack">HACK</span> fouls when trailing late &middot; <span class="tg tg-nohack">NO HACK</span> doesn't &middot; <span class="tg tg-mixed">MIXED</span> both seen &middot; <span class="tg tg-rev">REVERSE HACK</span> fouls when leading &middot; <span class="tg tg-dnb">DO NOT BET</span></p>
+  <p class="legend">Team badges from your notes: <span class="tg tg-hack">HACK</span> fouls when trailing late &middot; <span class="tg tg-nohack">NO HACK</span> doesn't &middot; <span class="tg tg-mixed">MIXED</span> both seen &middot; <span class="tg tg-rev">REVERSE HACK</span> fouls when leading &middot; <span class="tg tg-dnb">DO NOT BET</span> &middot; <span class="tg tg-under">NO UNDERS</span> dashed = notes for betting unders</p>
   <div class="tablebox">
     <table>
       <thead id="head"></thead>
@@ -511,6 +517,7 @@ var DATA = __DATA__;
       if(ex.foul&&!hasFoul(g))return false;
       if(ex.moved&&!moved(g))return false;
       if(ex.hack&&!(isHacker(g.away_tag)||isHacker(g.home_tag)))return false;
+      if(ex.under&&!(g.away_under||g.home_under))return false;
       if(ex.dnb&&!g.dnb)return false;
       if(ex.rev&&!(isRev(g.away_tag)||isRev(g.home_tag)))return false;
       if(conf&&confs(g).indexOf(conf)<0)return false;
@@ -531,7 +538,7 @@ var DATA = __DATA__;
       "<div class='stat'><div class='l'>Do-not-bet games</div><div class='v'>"+day.filter(function(g){return g.dnb}).length+"</div></div>"+
       "<div class='stat'><div class='l'>Biggest spread move</div><div class='v sm'>"+(big&&+big.spread_move?esc((big.away_name||big.away)+" @ "+(big.home_name||big.home))+" ("+Math.abs(+big.spread_move)+" pts)":"\u2013")+"</div></div>";
 
-    var anyF=st!=="all"||ex.notes||ex.foul||ex.moved||ex.hack||ex.dnb||ex.rev||conf||q||rng.sp||rng.tt;
+    var anyF=st!=="all"||ex.notes||ex.foul||ex.moved||ex.hack||ex.dnb||ex.rev||ex.under||conf||q||rng.sp||rng.tt;
     $("clear").style.display=anyF?"":"none";
     document.querySelectorAll("[data-st]").forEach(function(c){c.classList.toggle("on",c.dataset.st===st)});
     document.querySelectorAll("[data-x]").forEach(function(c){c.classList.toggle("on",!!ex[c.dataset.x])});
@@ -545,7 +552,7 @@ var DATA = __DATA__;
       var icons=function(side){return (g[side+"_notes"]?"<span class='ico' title='Has notes'>notes</span>":"")+(g[side+"_habit"]?"<span class='ico f' title='Has fouling data'>foul</span>":"")};
       var row="<tr class='g"+(isOpen?" open":"")+(g.dnb?" dnb":"")+"' data-id='"+esc(id)+"'>"+
         "<td>"+tipLabel(g.tip_et)+"</td>"+
-        "<td class='two'><div>"+rank(g.away_rank)+teamLabel(g,"away")+tagBadge(g.away_tag)+icons("away")+"</div><div>"+rank(g.home_rank)+teamLabel(g,"home")+tagBadge(g.home_tag)+icons("home")+"</div></td>"+
+        "<td class='two'><div>"+rank(g.away_rank)+teamLabel(g,"away")+tagBadge(g.away_tag)+underBadge(g.away_utag,g.away_under)+icons("away")+"</div><div>"+rank(g.home_rank)+teamLabel(g,"home")+tagBadge(g.home_tag)+underBadge(g.home_utag,g.home_under)+icons("home")+"</div></td>"+
         "<td class='two dim'><div>"+sg(g.open_away_spread)+"</div><div>"+sg(g.open_home_spread)+"</div></td>"+
         "<td class='two'><div><strong>"+sg(g.close_away_spread)+"</strong>"+px(g.close_away_spread_price)+"</div><div><strong>"+sg(g.close_home_spread)+"</strong>"+px(g.close_home_spread_price)+"</div></td>"+
         "<td class='dim'>"+pl(g.open_total)+"</td>"+
@@ -555,7 +562,7 @@ var DATA = __DATA__;
         "<td>"+(spreadMove(g)+totalMove(g)||"<span class='dim'>\u2013</span>")+"</td>"+
         "<td>"+(g.close_source==="missed"?"<span class='tag t-missed' title='Covers added this game after tip-off, or tracking started late'>Missed close</span>":"<span class='tag t-"+status(g)+"'>"+(status(g)==="closed"?"Closed":"Upcoming")+"</span>")+(staleMin(g)?"<div class='stale' title='The tracker was not running at tip-off, so this is the last line it saw.'>Last line "+ago(staleMin(g))+" before tip</div>":"")+(g.dnb?"<div class='dnbnote'>DO NOT BET: "+esc(g.dnb)+"</div>":"")+"</td></tr>";
       if(isOpen){
-        row+="<tr class='detail'><td colspan='10'><div class='dgrid'>"+teamCard(g.away,g.away_name,g.away_rank,g.away_conf,g.away_habit,g.away_notes,g.away_tag)+teamCard(g.home,g.home_name,g.home_rank,g.home_conf,g.home_habit,g.home_notes,g.home_tag)+"</div>"+
+        row+="<tr class='detail'><td colspan='10'><div class='dgrid'>"+teamCard(g.away,g.away_name,g.away_rank,g.away_conf,g.away_habit,g.away_notes,g.away_tag,g.away_under,g.away_utag)+teamCard(g.home,g.home_name,g.home_rank,g.home_conf,g.home_habit,g.home_notes,g.home_tag,g.home_under,g.home_utag)+"</div>"+
           "<div class='small' style='margin-top:8px'>"+(g.close_source==="missed"?"No closing line: this game first showed up on Covers after tip-off (or tracking started late), so only the opening line was saved.</div></td></tr>":"Closing line from: "+esc(g.close_source||"\u2013")+" \u00b7 last pre-game line saved "+esc(String(g.last_pregame_at||"").slice(11,16))+" ET"+(staleMin(g)?" ("+ago(staleMin(g))+" before tip \u2013 the tracker wasn't running at tip-off)":"")+"</div></td></tr>");
       }
       return row;
@@ -581,7 +588,7 @@ var DATA = __DATA__;
     });
     items.sort(function(a,b){return (b.key-a.key)||(a.i-b.i)});
     return "<ul class='notes'>"+items.map(function(it){
-      var k=it.kind.toLowerCase(), kc=k==="hack"||k==="fouling"?"tg-hack":(k==="no hack"?"tg-nohack":(k==="do not bet"?"tg-dnb":(k==="reverse hack"?"tg-rev":"")));
+      var k=it.kind.toLowerCase(), kc=k==="hack"||k==="fouling"?"tg-hack":(k==="no hack"?"tg-nohack":(k==="do not bet"?"tg-dnb":(k==="reverse hack"?"tg-rev":(k.indexOf("under")>=0?"tg-under":""))));
       return "<li><span class='ndate"+(it.dated?"":" nodate")+"'>"+esc(it.label)+"</span>"+
         (it.kind?"<span class='tg "+kc+"' style='margin-right:6px'>"+esc(it.kind.toUpperCase())+"</span>":"")+esc(it.body)+"</li>";
     }).join("")+"</ul>";
@@ -601,21 +608,23 @@ var DATA = __DATA__;
     }
     return out;
   }
-  function teamCard(abbr,name,rk,cf,h,notes,tag){
+  function underBadge(utag,under){if(!utag&&!under)return "";return "<span class='tg tg-under' title='Notes for betting unders'>"+esc(utag||"UNDER NOTE")+"</span>"}
+  function teamCard(abbr,name,rk,cf,h,notes,tag,under,utag){
     var title=name&&abbr&&name!==abbr?name+" ("+abbr+")":(name||abbr);
-    return "<div class='tcard'><h3>"+rank(rk)+esc(title)+"<span class='conf'>"+esc(cf||"")+"</span>"+tagBadge(tag)+"</h3>"+
-      (h?habBlock(h):"<p class='none' style='margin:0 0 8px'>No fouling data logged.</p>")+noteList(notes)+"</div>";
+    var hackPart=(notes||h)?((h?habBlock(h):"<p class='none' style='margin:0 0 8px'>No fouling data logged.</p>")+noteList(notes)):(under?"":"<p class='none' style='margin:0 0 8px'>No fouling data logged.</p>");
+    return "<div class='tcard'><h3>"+rank(rk)+esc(title)+"<span class='conf'>"+esc(cf||"")+"</span>"+tagBadge(tag)+underBadge(utag,under)+"</h3>"+
+      hackPart+(under?"<div class='under-h'>Unders</div>"+noteList(under):"")+"</div>";
   }
 
   function renderTeams(day){
     var playing={},confs2={};day.forEach(function(g){[g.away_note_team,g.home_note_team].forEach(function(t){if(t)playing[t]=1});[g.away_conf,g.home_conf].forEach(function(c){if(c)confs2[c]=1})});
     var list=(DATA.teams||[]).filter(function(t){
       if(tn==="today"&&!(playing[t.team]||(t.conf&&confs2[t.team])))return false;
-      if(tq){var s=(t.abbr+" "+t.team+" "+(t.tag||"")+" "+(t.notes||"")).toLowerCase();if(s.indexOf(tq)<0)return false}
+      if(tq){var s=(t.abbr+" "+t.team+" "+(t.tag||"")+" "+(t.notes||"")+" "+(t.utag||"")+" "+(t.under||"")).toLowerCase();if(s.indexOf(tq)<0)return false}
       return true;
     });
     document.querySelectorAll("[data-tn]").forEach(function(c){c.classList.toggle("on",c.dataset.tn===tn)});
-    $("teams").innerHTML=list.length?list.map(function(t){return teamCard(t.abbr,t.team,null,"",t.habit,t.notes,t.tag)}).join(""):
+    $("teams").innerHTML=list.length?list.map(function(t){return teamCard(t.abbr,t.team,null,"",t.habit,t.notes,t.tag,t.under,t.utag)}).join(""):
       "<div class='tcard none'>"+((DATA.teams||[]).length?"No teams with notes match.":"No team notes yet. Send them to Claude in chat.")+"</div>";
   }
 
