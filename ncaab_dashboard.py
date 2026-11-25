@@ -16,6 +16,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import ncaab_odds  # noqa: E402
+import ncaab_espn  # noqa: E402
 from ncaab_odds import ET, HEADERS, db, load_habits, load_notes  # noqa: E402
 
 import requests  # noqa: E402
@@ -233,6 +234,25 @@ def build_dashboard(open_browser: bool = True) -> Path:
                 reasons.append(f"{conf.get('team')} game")
         r["dnb"] = ", ".join(dict.fromkeys(reasons))
 
+    # ---- final scores and ESPN BPI (a failure here never stops the page from building)
+    scores, espn_ids, bpi, bpi_at = {}, {}, [], None
+    try:
+        scores, espn_ids = ncaab_espn.update_scores(rows, full_names, schools, team_key)
+    except Exception as e:  # noqa: BLE001
+        ncaab_odds.log(f"[warn] scores skipped: {e}")
+    try:
+        bpi, bpi_at = ncaab_espn.load_bpi()
+    except Exception as e:  # noqa: BLE001
+        ncaab_odds.log(f"[warn] BPI skipped: {e}")
+    for r in rows:
+        sc = scores.get(r["game_id"]) or {}
+        r["state"] = sc.get("state") or ""
+        r["result"] = ncaab_espn.grade(r, sc)
+        for side in ("away", "home"):
+            k = team_key(r[side], r.get(f"{side}_conf"))
+            b = ncaab_espn.bpi_for(bpi, espn_ids.get(k), full_names.get(k) or r[f"{side}_name"], schools.get(k)) if bpi else None
+            r[f"{side}_bpi"] = {x: b[x] for x in ("id", "rank", "bpi", "off", "def", "w", "l")} if b else None
+
     teams = []
     for row in note_rows:
         is_conf = "conference" in (row.get("aliases") or "").lower()
@@ -248,6 +268,8 @@ def build_dashboard(open_browser: bool = True) -> Path:
         "today": ncaab_odds.slate_date(datetime.now(ET).isoformat()),
         "games": rows,
         "teams": sorted(teams, key=lambda t: t["team"].lower()),
+        "bpi": bpi,
+        "bpi_updated": bpi_at,
     }
     payload = json.dumps(data).replace("</", "<\\/")
     DASHBOARD_PATH.write_text(DASHBOARD_HTML.replace("__DATA__", payload), encoding="utf-8")
@@ -355,6 +377,39 @@ tbody tr.g.dnb td:first-child{box-shadow:inset 4px 0 0 var(--down)}
 .foot{color:var(--muted);font-size:12px;margin-top:18px}
 button.rf{background:var(--accent);color:#fff;border:0;border-radius:8px;padding:7px 14px;font-size:13px;cursor:pointer}
 @media (max-width:600px){.hab{grid-template-columns:repeat(2,1fr)}}
+.ptabs{display:flex;gap:6px;margin:0 0 14px;border-bottom:1px solid var(--line)}
+.ptab{border:0;background:none;color:var(--muted);font-size:14px;font-weight:600;padding:8px 4px;margin-right:12px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px}
+.ptab.on{color:var(--text);border-bottom-color:var(--accent)}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:99px;overflow:hidden;background:var(--card)}
+.seg button{border:0;background:none;color:var(--text);padding:5px 12px;font-size:13px;cursor:pointer}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button.on{background:var(--accent);color:#fff}
+.morebtn .nf{display:none;margin-left:6px;background:var(--accent);color:#fff;border-radius:99px;padding:0 7px;font-size:12px;font-weight:700}
+.morebtn .nf.show{display:inline-block}
+.morebtn[aria-expanded="true"] .caret{display:inline-block;transform:rotate(180deg)}
+.more{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin:-4px 0 12px}
+.more .mrow{display:flex;gap:10px;align-items:flex-start;margin-bottom:10px;flex-wrap:wrap}
+.more .ml{font-size:12px;font-weight:600;color:var(--muted);min-width:84px;padding-top:6px}
+.more .mchips{display:flex;gap:6px;flex-wrap:wrap;flex:1}
+.more .ranges{margin-bottom:6px}
+.more .rg{background:var(--bg)}
+.more .mfoot{display:flex;justify-content:flex-end}
+.bpi{display:inline-block;margin-right:5px;font-size:11px;font-weight:600;color:var(--muted);border:1px solid var(--line);border-radius:4px;padding:0 4px;vertical-align:1px;white-space:nowrap}
+.res{white-space:nowrap}
+.res .sc{font-weight:700;font-size:14px}
+.res .ln{font-size:12px;margin-top:3px}
+.res .w{color:var(--up)}.res .l{color:var(--down)}.res .p{color:var(--muted)}
+.t-final{color:var(--text)}
+.bpiline{font-size:12px;color:var(--muted);margin:-4px 0 8px}
+.rkbox{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:12px}
+.rktable{min-width:0}
+.rktable td,.rktable th{padding:8px 10px}
+.rktable td.n{font-variant-numeric:tabular-nums;white-space:nowrap}
+.rktable tr.play td{background:var(--soft)}
+.rktable .chg{font-size:11px;margin-left:4px}
+.rktable .chg.up{color:var(--up)}.rktable .chg.down{color:var(--down)}
+@media (max-width:600px){.rktable .hide-sm{display:none}}
+@media (max-width:600px){.stats{grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}.stat{padding:8px 10px}.stat .l{font-size:11px}.stat .v{font-size:18px}.stat .v.sm{font-size:12px}}
 </style>
 </head>
 <body>
@@ -363,32 +418,41 @@ button.rf{background:var(--accent);color:#fff;border:0;border-radius:8px;padding
   <p class="sub" id="sub"></p>
 
   <div class="stalebar" id="stalebar" style="display:none"></div>
-  <div class="stats" id="stats"></div>
 
-  <div class="bar">
-    <button class="chip on" data-st="all">All games</button>
-    <button class="chip" data-st="upcoming">Upcoming</button>
-    <button class="chip" data-st="closed">Closed</button>
-    <button class="chip" data-x="notes">Has notes</button>
-    <button class="chip" data-x="foul">Has foul data</button>
-    <button class="chip" data-x="moved">Line moved</button>
-    <button class="chip" data-x="hack">Hackers playing</button>
-    <button class="chip" data-x="under">Under notes</button>
-    <button class="chip" data-x="rev">Reverse hackers</button>
-    <button class="chip" data-x="dnb">Do not bet</button>
-    <select class="chip" id="dateSel"></select>
-    <select class="chip" id="confSel"><option value="">All conferences</option></select>
-    <input class="search" id="q" placeholder="Search team">
-    <button class="chip" id="clear" style="display:none">Clear filters</button>
-    <span class="spacer"></span>
-    
+  <div class="ptabs" role="tablist">
+    <button class="ptab on" data-page="games">Games</button>
+    <button class="ptab" data-page="rank">Power rankings</button>
   </div>
 
-  <div class="ranges">
-    <div class="rg" id="rg-sp"><div class="top"><span class="l">Spread<span class="h">favorite's number, e.g. -7.5 = 7.5</span></span><input type="number" step="0.5" id="sp-min"> to <input type="number" step="0.5" id="sp-max"><button class="reset" id="sp-reset">Reset</button></div>
-      <div class="dual"><div class="track"></div><div class="fill" id="sp-fill"></div><input type="range" step="0.5" id="sp-lo"><input type="range" step="0.5" id="sp-hi"></div></div>
-    <div class="rg" id="rg-tt"><div class="top"><span class="l">Total</span><input type="number" step="0.5" id="tt-min"> to <input type="number" step="0.5" id="tt-max"><button class="reset" id="tt-reset">Reset</button></div>
-      <div class="dual"><div class="track"></div><div class="fill" id="tt-fill"></div><input type="range" step="0.5" id="tt-lo"><input type="range" step="0.5" id="tt-hi"></div></div>
+  <div id="page-games">
+  <div class="stats" id="stats"></div>
+  <div class="bar">
+    <select class="chip" id="dateSel" aria-label="Date"></select>
+    <div class="seg" role="group" aria-label="Game status">
+      <button data-st="all">All</button><button data-st="upcoming">Upcoming</button><button data-st="closed">Started</button><button data-st="final">Final</button>
+    </div>
+    <input class="search" id="q" placeholder="Search team">
+    <button class="chip morebtn" id="moreBtn" aria-expanded="false">More filters<span class="nf" id="nf"></span> <span class="caret">&#9662;</span></button>
+  </div>
+
+  <div class="more" id="more" hidden>
+    <div class="mrow"><span class="ml">Conference</span><select class="chip" id="confSel"><option value="">All conferences</option></select></div>
+    <div class="mrow"><span class="ml">Show only</span><div class="mchips">
+      <button class="chip" data-x="notes">Has notes</button>
+      <button class="chip" data-x="foul">Foul data</button>
+      <button class="chip" data-x="moved">Line moved</button>
+      <button class="chip" data-x="hack">Hackers</button>
+      <button class="chip" data-x="rev">Reverse hackers</button>
+      <button class="chip" data-x="under">Unders notes</button>
+      <button class="chip" data-x="dnb">Do not bet</button>
+    </div></div>
+    <div class="ranges">
+      <div class="rg" id="rg-sp"><div class="top"><span class="l">Spread<span class="h">favorite's number, e.g. -7.5 = 7.5</span></span><input type="number" step="0.5" id="sp-min"> to <input type="number" step="0.5" id="sp-max"><button class="reset" id="sp-reset">Reset</button></div>
+        <div class="dual"><div class="track"></div><div class="fill" id="sp-fill"></div><input type="range" step="0.5" id="sp-lo"><input type="range" step="0.5" id="sp-hi"></div></div>
+      <div class="rg" id="rg-tt"><div class="top"><span class="l">Total</span><input type="number" step="0.5" id="tt-min"> to <input type="number" step="0.5" id="tt-max"><button class="reset" id="tt-reset">Reset</button></div>
+        <div class="dual"><div class="track"></div><div class="fill" id="tt-fill"></div><input type="range" step="0.5" id="tt-lo"><input type="range" step="0.5" id="tt-hi"></div></div>
+    </div>
+    <div class="mfoot"><button class="chip" id="clear">Clear all filters</button></div>
   </div>
   <p class="legend">Team badges from your notes: <span class="tg tg-hack">HACK</span> fouls when trailing late &middot; <span class="tg tg-nohack">NO HACK</span> doesn't &middot; <span class="tg tg-mixed">MIXED</span> both seen &middot; <span class="tg tg-rev">REVERSE HACK</span> fouls when leading &middot; <span class="tg tg-dnb">DO NOT BET</span> &middot; <span class="tg tg-under">NO UNDERS</span> dashed = notes for betting unders</p>
   <div class="tablebox">
@@ -407,6 +471,19 @@ button.rf{background:var(--accent);color:#fff;border:0;border-radius:8px;padding
     <input class="search" id="tq" placeholder="Search notes">
   </div>
   <div class="tgrid" id="teams"></div>
+  </div>
+
+  <div id="page-rank" hidden>
+    <div class="bar">
+      <input class="search" id="rq" placeholder="Search team">
+      <select class="chip" id="rconf" aria-label="Conference"><option value="">All conferences</option></select>
+      <button class="chip" id="rtoday">Playing on <span id="rdate"></span></button>
+    </div>
+    <div class="rkbox"><table class="rktable">
+      <thead id="rhead"></thead><tbody id="rrows"></tbody>
+    </table><div class="empty" id="rempty" style="display:none"></div></div>
+    <p class="small" style="margin-top:8px" id="rnote"></p>
+  </div>
 
   <p class="foot" id="foot"></p>
 </div>
@@ -427,20 +504,38 @@ var DATA = __DATA__;
   function tags(t){return String(t||"").split(/\s*[;,]\s*/).filter(Boolean)}
   function tagBadge(t){return tags(t).map(function(x){var c={"HACK":"tg-hack","NO HACK":"tg-nohack","MIXED":"tg-mixed","DO NOT BET":"tg-dnb","REVERSE HACK":"tg-rev"}[x]||"tg-mixed";return "<span class='tg "+c+"'>"+esc(x)+"</span>"}).join("")}
   function rank(r){return r&&+r>0&&+r<=25?"<span class='rk'>#"+(+r)+"</span>":""}
+  function bpiBadge(b){return b&&b.rank?"<span class='bpi' title='ESPN BPI rank'>BPI "+(+b.rank)+"</span>":""}
+  function d1(v){if(v==null||v==="")return "–";var n=Math.round(+v*10)/10;return (n>0?"+":"")+n.toFixed(1)}
+  function resCell(g){
+    var r=g.result;if(!r)return "<span class='dim'>–</span>";
+    var ot=r.detail&&/OT/.test(r.detail)?" <span class='dim'>"+esc(r.detail.replace(/^Final\/?/,""))+"</span>":"";
+    var out="<div class='sc'>"+r.away+"–"+r.home+ot+"</div>";
+    var s=r.spread;
+    if(s){
+      var src=s.src==="open"?" <span class='dim'>(open)</span>":"";
+      if(s.result==="push")out+="<div class='ln p'>Spread push "+(s.fav?esc(g[s.fav])+" −"+s.line:"PK")+src+"</div>";
+      else if(!s.fav)out+="<div class='ln w'>PK: "+esc(g[s.result])+" covered"+src+"</div>";
+      else out+="<div class='ln "+(s.result===s.fav?"w":"l")+"'>"+esc(g[s.fav])+" −"+s.line+(s.result===s.fav?" covered":" didn't cover")+src+"</div>";
+    }
+    var t=g.result.total;
+    if(t)out+="<div class='ln'>"+(t.result==="push"?"Push":(t.result==="over"?"Over":"Under"))+" "+pl(t.line)+(t.src==="open"?" <span class='dim'>(open)</span>":"")+"</div>";
+    return "<div class='res'>"+out+"</div>";
+  }
 
   var games=DATA.games||[];
   var store={};try{store=JSON.parse(localStorage.getItem("ncaab_dash")||"{}")||{}}catch(e){}
   var st=store.st||"all", ex=store.ex||{}, conf=store.conf||"", q="", tn="today", tq="";
+  var moreOpen=!!store.more, page=store.page==="rank"?"rank":"games", rq="", rconf="", rtoday=false;
   var dates=Object.keys(games.reduce(function(a,g){a[g.game_date]=1;return a},{})).sort().reverse();
   var date=dates.indexOf(DATA.today)>=0?DATA.today:(dates[0]||DATA.today);
   var sort={k:"tip",d:1}, open={};
-  function save(){try{localStorage.setItem("ncaab_dash",JSON.stringify({st:st,ex:ex,conf:conf}))}catch(e){}}
+  function save(){try{localStorage.setItem("ncaab_dash",JSON.stringify({st:st,ex:ex,conf:conf,more:moreOpen,page:page}))}catch(e){}}
 
   function tipMs(g){var t=Date.parse(g.tip_et||"");return isNaN(t)?null:t}
-  function status(g){if(g.closed_at)return "closed";var t=tipMs(g);return t!==null&&t<=Date.now()?"closed":"upcoming"}
+  function status(g){if(g.result||g.state==="post")return "final";if(g.closed_at)return "closed";var t=tipMs(g);return t!==null&&t<=Date.now()?"closed":"upcoming"}
   function staleMin(g){
     var t=tipMs(g),l=Date.parse(g.last_pregame_at||"");
-    if(t===null||isNaN(l)||status(g)!=="closed")return 0;
+    if(t===null||isNaN(l)||status(g)==="upcoming")return 0;
     var m=Math.round((t-l)/60000);return m>20?m:0;
   }
   function ago(m){return m>=60?Math.floor(m/60)+"h "+(m%60)+"m":m+" min"}
@@ -484,7 +579,7 @@ var DATA = __DATA__;
     if(lo>hi){var t=lo;lo=hi;hi=t}
     rng[k]=(lo<=b.min&&hi>=b.max)?null:{lo:lo,hi:hi};render();
   }
-  var cols=[["tip","Tip (ET)"],[null,"Matchup"],["spo","Spread open"],["spc","Spread close"],["tto","Total open"],["ttc","Total close"],[null,"ML open"],[null,"ML close"],["move","Line move"],["status","Status"]];
+  var cols=[["tip","Tip (ET)"],[null,"Matchup"],["spo","Spread open"],["spc","Spread close"],["tto","Total open"],["ttc","Total close"],[null,"ML open"],[null,"ML close"],["move","Line move"],[null,"Result"],["status","Status"]];
   function arrow(k){return sort.k===k?(sort.d>0?" \u25b2":" \u25bc"):""}
   function val(g,k){
     if(k==="tip")return g.tip_et||"";
@@ -527,19 +622,26 @@ var DATA = __DATA__;
     syncRange("sp");syncRange("tt");
     list.sort(function(a,b){var x=val(a,sort.k),y=val(b,sort.k);if(x==null||y==null)return (x==null)-(y==null)||a.away.localeCompare(b.away);if(typeof x==="string")return sort.d*x.localeCompare(y)||a.away.localeCompare(b.away);return sort.d*(x-y)});
 
-    var closed=day.filter(function(g){return status(g)==="closed"}).length;
+    var closed=day.filter(function(g){return status(g)!=="upcoming"}).length;
+    var fin=day.filter(function(g){return g.result}), fw=0, fl=0, ov=0, un=0;
+    fin.forEach(function(g){var s=g.result.spread,t=g.result.total;
+      if(s&&s.fav&&s.result!=="push"){if(s.result===s.fav)fw++;else fl++}
+      if(t&&t.result==="over")ov++;if(t&&t.result==="under")un++});
     var noted=day.filter(hasNotes).length;
     var big=day.slice().sort(function(a,b){return Math.abs(+b.spread_move||0)-Math.abs(+a.spread_move||0)})[0];
     $("stats").innerHTML=
       "<div class='stat'><div class='l'>Games</div><div class='v'>"+day.length+"</div></div>"+
       "<div class='stat'><div class='l'>Closing lines locked</div><div class='v'>"+closed+"</div></div>"+
       "<div class='stat'><div class='l'>Upcoming</div><div class='v'>"+(day.length-closed)+"</div></div>"+
+      "<div class='stat'><div class='l'>Results"+(fin.length?" ("+fin.length+" final)":"")+"</div><div class='v sm'>"+(fin.length?"Favorites "+fw+"–"+fl+" ATS<br>Overs "+ov+"–"+un:"–")+"</div></div>"+
       "<div class='stat'><div class='l'>Games with a hacker</div><div class='v'>"+day.filter(function(g){return isHacker(g.away_tag)||isHacker(g.home_tag)}).length+"</div></div>"+
       "<div class='stat'><div class='l'>Do-not-bet games</div><div class='v'>"+day.filter(function(g){return g.dnb}).length+"</div></div>"+
       "<div class='stat'><div class='l'>Biggest spread move</div><div class='v sm'>"+(big&&+big.spread_move?esc((big.away_name||big.away)+" @ "+(big.home_name||big.home))+" ("+Math.abs(+big.spread_move)+" pts)":"\u2013")+"</div></div>";
 
-    var anyF=st!=="all"||ex.notes||ex.foul||ex.moved||ex.hack||ex.dnb||ex.rev||ex.under||conf||q||rng.sp||rng.tt;
-    $("clear").style.display=anyF?"":"none";
+    var nf=(conf?1:0)+(rng.sp?1:0)+(rng.tt?1:0)+["notes","foul","moved","hack","rev","under","dnb"].filter(function(x){return ex[x]}).length;
+    $("nf").textContent=nf;$("nf").classList.toggle("show",nf>0);
+    $("clear").disabled=!(nf||st!=="all"||q);
+    $("more").hidden=!moreOpen;$("moreBtn").setAttribute("aria-expanded",moreOpen?"true":"false");
     document.querySelectorAll("[data-st]").forEach(function(c){c.classList.toggle("on",c.dataset.st===st)});
     document.querySelectorAll("[data-x]").forEach(function(c){c.classList.toggle("on",!!ex[c.dataset.x])});
 
@@ -552,7 +654,7 @@ var DATA = __DATA__;
       var icons=function(side){return (g[side+"_notes"]?"<span class='ico' title='Has notes'>notes</span>":"")+(g[side+"_habit"]?"<span class='ico f' title='Has fouling data'>foul</span>":"")};
       var row="<tr class='g"+(isOpen?" open":"")+(g.dnb?" dnb":"")+"' data-id='"+esc(id)+"'>"+
         "<td>"+tipLabel(g.tip_et)+"</td>"+
-        "<td class='two'><div>"+rank(g.away_rank)+teamLabel(g,"away")+tagBadge(g.away_tag)+underBadge(g.away_utag,g.away_under)+icons("away")+"</div><div>"+rank(g.home_rank)+teamLabel(g,"home")+tagBadge(g.home_tag)+underBadge(g.home_utag,g.home_under)+icons("home")+"</div></td>"+
+        "<td class='two'><div>"+rank(g.away_rank)+bpiBadge(g.away_bpi)+teamLabel(g,"away")+tagBadge(g.away_tag)+underBadge(g.away_utag,g.away_under)+icons("away")+"</div><div>"+rank(g.home_rank)+bpiBadge(g.home_bpi)+teamLabel(g,"home")+tagBadge(g.home_tag)+underBadge(g.home_utag,g.home_under)+icons("home")+"</div></td>"+
         "<td class='two dim'><div>"+sg(g.open_away_spread)+"</div><div>"+sg(g.open_home_spread)+"</div></td>"+
         "<td class='two'><div><strong>"+sg(g.close_away_spread)+"</strong>"+px(g.close_away_spread_price)+"</div><div><strong>"+sg(g.close_home_spread)+"</strong>"+px(g.close_home_spread_price)+"</div></td>"+
         "<td class='dim'>"+pl(g.open_total)+"</td>"+
@@ -560,15 +662,49 @@ var DATA = __DATA__;
         "<td class='two dim'><div>"+sg(g.open_away_ml)+"</div><div>"+sg(g.open_home_ml)+"</div></td>"+
         "<td class='two'><div><strong>"+sg(g.close_away_ml)+"</strong></div><div><strong>"+sg(g.close_home_ml)+"</strong></div></td>"+
         "<td>"+(spreadMove(g)+totalMove(g)||"<span class='dim'>\u2013</span>")+"</td>"+
-        "<td>"+(g.close_source==="missed"?"<span class='tag t-missed' title='Covers added this game after tip-off, or tracking started late'>Missed close</span>":"<span class='tag t-"+status(g)+"'>"+(status(g)==="closed"?"Closed":"Upcoming")+"</span>")+(staleMin(g)?"<div class='stale' title='The tracker was not running at tip-off, so this is the last line it saw.'>Last line "+ago(staleMin(g))+" before tip</div>":"")+(g.dnb?"<div class='dnbnote'>DO NOT BET: "+esc(g.dnb)+"</div>":"")+"</td></tr>";
+        "<td>"+resCell(g)+"</td>"+
+        "<td>"+(g.close_source==="missed"?"<span class='tag t-missed' title='Covers added this game after tip-off, or tracking started late'>Missed close</span>":"<span class='tag t-"+status(g)+"'>"+({closed:"Closed",final:"Final",upcoming:"Upcoming"})[status(g)]+"</span>")+(staleMin(g)?"<div class='stale' title='The tracker was not running at tip-off, so this is the last line it saw.'>Last line "+ago(staleMin(g))+" before tip</div>":"")+(g.dnb?"<div class='dnbnote'>DO NOT BET: "+esc(g.dnb)+"</div>":"")+"</td></tr>";
       if(isOpen){
-        row+="<tr class='detail'><td colspan='10'><div class='dgrid'>"+teamCard(g.away,g.away_name,g.away_rank,g.away_conf,g.away_habit,g.away_notes,g.away_tag,g.away_under,g.away_utag)+teamCard(g.home,g.home_name,g.home_rank,g.home_conf,g.home_habit,g.home_notes,g.home_tag,g.home_under,g.home_utag)+"</div>"+
+        row+="<tr class='detail'><td colspan='11'><div class='dgrid'>"+teamCard(g.away,g.away_name,g.away_rank,g.away_conf,g.away_habit,g.away_notes,g.away_tag,g.away_under,g.away_utag,g.away_bpi)+teamCard(g.home,g.home_name,g.home_rank,g.home_conf,g.home_habit,g.home_notes,g.home_tag,g.home_under,g.home_utag,g.home_bpi)+"</div>"+
           "<div class='small' style='margin-top:8px'>"+(g.close_source==="missed"?"No closing line: this game first showed up on Covers after tip-off (or tracking started late), so only the opening line was saved.</div></td></tr>":"Closing line from: "+esc(g.close_source||"\u2013")+" \u00b7 last pre-game line saved "+esc(String(g.last_pregame_at||"").slice(11,16))+" ET"+(staleMin(g)?" ("+ago(staleMin(g))+" before tip \u2013 the tracker wasn't running at tip-off)":"")+"</div></td></tr>");
       }
       return row;
     }).join("");
     renderTeams(day);
+    renderRank(day);
+    document.querySelectorAll("[data-page]").forEach(function(b){b.classList.toggle("on",b.dataset.page===page)});
+    $("page-games").hidden=page!=="games";$("page-rank").hidden=page!=="rank";
     save();
+  }
+
+  function renderRank(day){
+    var list=DATA.bpi||[];
+    var plays={};
+    day.forEach(function(g){
+      if(g.away_bpi)plays[g.away_bpi.id]="@ "+(g.home_name||g.home)+" · "+tipLabel(g.tip_et);
+      if(g.home_bpi)plays[g.home_bpi.id]="vs "+(g.away_name||g.away)+" · "+tipLabel(g.tip_et);
+    });
+    var cs={};list.forEach(function(t){if(t.conf)cs[t.conf]=1});
+    $("rconf").innerHTML="<option value=''>All conferences</option>"+Object.keys(cs).sort().map(function(c){return "<option>"+esc(c)+"</option>"}).join("");
+    $("rconf").value=rconf;
+    $("rdate").textContent=dayLabel(date);
+    $("rtoday").classList.toggle("on",rtoday);
+    var rows=list.filter(function(t){
+      if(rconf&&t.conf!==rconf)return false;
+      if(rtoday&&!plays[t.id])return false;
+      if(rq&&(t.name+" "+t.short+" "+t.abbr).toLowerCase().indexOf(rq)<0)return false;
+      return true;
+    });
+    $("rhead").innerHTML="<tr><th>Rank</th><th>Team</th><th class='hide-sm'>Conf</th><th>W–L</th><th>BPI</th><th class='hide-sm'>Off</th><th class='hide-sm'>Def</th><th>On "+esc(dayLabel(date).replace(/,.*$/,"").replace(" (today)",""))+"</th></tr>";
+    $("rrows").innerHTML=rows.map(function(t){
+      return "<tr"+(plays[t.id]?" class='play'":"")+"><td class='n'><strong>"+t.rank+"</strong></td><td>"+esc(t.name)+"</td><td class='hide-sm dim'>"+esc(t.conf)+"</td>"+
+        "<td class='n'>"+(t.w!=null?t.w+"–"+t.l:"–")+"</td><td class='n'><strong>"+d1(t.bpi)+"</strong></td><td class='n hide-sm'>"+d1(t.off)+"</td><td class='n hide-sm'>"+d1(t.def)+"</td>"+
+        "<td class='small'>"+esc(plays[t.id]||"")+"</td></tr>";
+    }).join("");
+    $("rempty").style.display=rows.length?"none":"block";
+    $("rempty").textContent=list.length?"No teams match.":"Rankings aren't loaded yet. They'll appear after the next update.";
+    var up=DATA.bpi_updated?String(DATA.bpi_updated).replace("T"," ").slice(0,16)+" ET":"–";
+    $("rnote").textContent="ESPN Basketball Power Index (BPI). BPI = points better than an average team on a neutral court; Off and Def are each side's share. Highlighted teams play on the date picked under Games. Fetched "+up+".";
   }
 
   function noteList(text){
@@ -609,10 +745,11 @@ var DATA = __DATA__;
     return out;
   }
   function underBadge(utag,under){if(!utag&&!under)return "";return "<span class='tg tg-under' title='Notes for betting unders'>"+esc(utag||"UNDER NOTE")+"</span>"}
-  function teamCard(abbr,name,rk,cf,h,notes,tag,under,utag){
+  function teamCard(abbr,name,rk,cf,h,notes,tag,under,utag,b){
     var title=name&&abbr&&name!==abbr?name+" ("+abbr+")":(name||abbr);
     var hackPart=(notes||h)?((h?habBlock(h):"<p class='none' style='margin:0 0 8px'>No fouling data logged.</p>")+noteList(notes)):(under?"":"<p class='none' style='margin:0 0 8px'>No fouling data logged.</p>");
-    return "<div class='tcard'><h3>"+rank(rk)+esc(title)+"<span class='conf'>"+esc(cf||"")+"</span>"+tagBadge(tag)+underBadge(utag,under)+"</h3>"+
+    var bl=b&&b.rank?"<div class='bpiline'>ESPN BPI #"+(+b.rank)+" · "+d1(b.bpi)+" (off "+d1(b.off)+", def "+d1(b.def)+")"+(b.w!=null?" · "+b.w+"–"+b.l:"")+"</div>":"";
+    return "<div class='tcard'><h3>"+rank(rk)+esc(title)+"<span class='conf'>"+esc(cf||"")+"</span>"+tagBadge(tag)+underBadge(utag,under)+"</h3>"+bl+
       hackPart+(under?"<div class='under-h'>Unders</div>"+noteList(under):"")+"</div>";
   }
 
@@ -637,8 +774,13 @@ var DATA = __DATA__;
     if(t.dataset&&t.dataset.st){st=t.dataset.st;render();return}
     if(t.dataset&&t.dataset.x){ex[t.dataset.x]=!ex[t.dataset.x];render();return}
     if(t.dataset&&t.dataset.tn){tn=t.dataset.tn;render();return}
+    if(t.dataset&&t.dataset.page){page=t.dataset.page;render();return}
   });
   $("clear").onclick=function(){st="all";ex={};conf="";q="";rng={sp:null,tt:null};$("q").value="";render()};
+  $("moreBtn").onclick=function(){moreOpen=!moreOpen;render()};
+  $("rq").oninput=function(){rq=this.value.trim().toLowerCase();render()};
+  $("rconf").onchange=function(){rconf=this.value;render()};
+  $("rtoday").onclick=function(){rtoday=!rtoday;render()};
   ["sp","tt"].forEach(function(k){
     $(k+"-lo").oninput=function(){var hi=+$(k+"-hi").value;setRange(k,Math.min(+this.value,hi),hi)};
     $(k+"-hi").oninput=function(){var lo=+$(k+"-lo").value;setRange(k,lo,Math.max(+this.value,lo))};
