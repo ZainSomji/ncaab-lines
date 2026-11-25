@@ -245,7 +245,7 @@ def build_dashboard(open_browser: bool = True) -> Path:
 
     data = {
         "generated": datetime.now(ET).isoformat(timespec="minutes"),
-        "today": datetime.now(ET).date().isoformat(),
+        "today": ncaab_odds.slate_date(datetime.now(ET).isoformat()),
         "games": rows,
         "teams": sorted(teams, key=lambda t: t["team"].lower()),
     }

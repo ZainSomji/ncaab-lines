@@ -466,6 +466,38 @@ def clean_bad_history() -> str | None:
             f"repaired the closing line of {fixed} games.")
 
 
+SLATE_CUTOFF_HOUR = 6  # games tipping before 6 AM ET belong to the previous night's slate
+
+
+def slate_date(tip_iso: str) -> str:
+    """The betting day a game belongs to: a 12:30 AM ET tip (West Coast / Hawaii late games)
+    is part of the previous night's card, not the next day's."""
+    try:
+        t = datetime.fromisoformat(tip_iso)
+    except (TypeError, ValueError):
+        return (tip_iso or "")[:10]
+    if t.tzinfo is not None:
+        t = t.astimezone(ET)
+    if t.hour < SLATE_CUTOFF_HOUR:
+        t -= timedelta(days=1)
+    return t.date().isoformat()
+
+
+def fix_slate_dates() -> str | None:
+    """Re-date saved games so after-midnight tips sit with the previous night's games.
+    Safe to run every time; only changes rows whose date is wrong."""
+    con = db()
+    changed = 0
+    for gid, gd, tip in con.execute("SELECT game_id, game_date, tip_et FROM games WHERE tip_et IS NOT NULL").fetchall():
+        want = slate_date(tip)
+        if want and want != gd:
+            con.execute("UPDATE games SET game_date=? WHERE game_id=?", (want, gid))
+            changed += 1
+    con.commit()
+    con.close()
+    return f"Moved {changed} after-midnight games to the previous night's slate." if changed else None
+
+
 def clean_kalshi_history() -> str | None:
     """One-time repair: remove snapshots saved from page loads that carried Kalshi quotes
     (the log marks those runs with "ignored N impossible quotes") and re-derive affected
@@ -600,7 +632,7 @@ def record(games: dict[str, dict], sharp: list[str]) -> tuple[int, int]:
                      c.get("close_away_ml"), c.get("close_home_ml")))
         o = first_line(con, g["game_id"]) or {f"open_{k}": v for k, v in g["open"].items()}
         row = {
-            "game_id": g["game_id"], "game_date": (prev[2] if prev else (g["tip_et"] or now)[:10]),
+            "game_id": g["game_id"], "game_date": (prev[2] if prev else slate_date(g["tip_et"] or now)),
             "tip_et": g["tip_et"],
             "away": g["away"], "home": g["home"],
             "away_rank": g["away_rank"], "home_rank": g["home_rank"],

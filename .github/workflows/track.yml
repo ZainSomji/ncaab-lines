@@ -21,7 +21,7 @@ jobs:
     timeout-minutes: 15
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deploy.outputs.page_url || steps.deploy_retry.outputs.page_url }}
     steps:
       - name: Note start time
         run: echo "START=$(date +%s)" >> "$GITHUB_ENV"
@@ -87,6 +87,17 @@ jobs:
           path: site
 
       - id: deploy
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      # GitHub sometimes can't find the just-uploaded page for a moment; wait and try once more
+      - name: Wait before retrying the page deploy
+        if: steps.deploy.outcome == 'failure'
+        run: sleep 25
+
+      - id: deploy_retry
+        if: steps.deploy.outcome == 'failure'
+        continue-on-error: true
         uses: actions/deploy-pages@v4
 
       # GitHub's own schedule is unreliable, so each run queues the next one ~10 min

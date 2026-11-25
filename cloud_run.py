@@ -9,7 +9,7 @@ import ncaab_odds as n
 HERE = Path(__file__).parent
 ok = True
 try:
-    for fix in (n.clean_bad_history, n.clean_kalshi_history):
+    for fix in (n.clean_bad_history, n.clean_kalshi_history, n.fix_slate_dates):
         msg = fix()
         if msg:
             n.log(msg)
