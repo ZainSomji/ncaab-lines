@@ -268,8 +268,6 @@ def build_dashboard(open_browser: bool = True) -> Path:
         "today": ncaab_odds.slate_date(datetime.now(ET).isoformat()),
         "games": rows,
         "teams": sorted(teams, key=lambda t: t["team"].lower()),
-        "bpi": bpi,
-        "bpi_updated": bpi_at,
     }
     payload = json.dumps(data).replace("</", "<\\/")
     DASHBOARD_PATH.write_text(DASHBOARD_HTML.replace("__DATA__", payload), encoding="utf-8")
@@ -377,9 +375,6 @@ tbody tr.g.dnb td:first-child{box-shadow:inset 4px 0 0 var(--down)}
 .foot{color:var(--muted);font-size:12px;margin-top:18px}
 button.rf{background:var(--accent);color:#fff;border:0;border-radius:8px;padding:7px 14px;font-size:13px;cursor:pointer}
 @media (max-width:600px){.hab{grid-template-columns:repeat(2,1fr)}}
-.ptabs{display:flex;gap:6px;margin:0 0 14px;border-bottom:1px solid var(--line)}
-.ptab{border:0;background:none;color:var(--muted);font-size:14px;font-weight:600;padding:8px 4px;margin-right:12px;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px}
-.ptab.on{color:var(--text);border-bottom-color:var(--accent)}
 .seg{display:inline-flex;border:1px solid var(--line);border-radius:99px;overflow:hidden;background:var(--card)}
 .seg button{border:0;background:none;color:var(--text);padding:5px 12px;font-size:13px;cursor:pointer}
 .seg button+button{border-left:1px solid var(--line)}
@@ -401,14 +396,6 @@ button.rf{background:var(--accent);color:#fff;border:0;border-radius:8px;padding
 .res .w{color:var(--up)}.res .l{color:var(--down)}.res .p{color:var(--muted)}
 .t-final{color:var(--text)}
 .bpiline{font-size:12px;color:var(--muted);margin:-4px 0 8px}
-.rkbox{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:12px}
-.rktable{min-width:0}
-.rktable td,.rktable th{padding:8px 10px}
-.rktable td.n{font-variant-numeric:tabular-nums;white-space:nowrap}
-.rktable tr.play td{background:var(--soft)}
-.rktable .chg{font-size:11px;margin-left:4px}
-.rktable .chg.up{color:var(--up)}.rktable .chg.down{color:var(--down)}
-@media (max-width:600px){.rktable .hide-sm{display:none}}
 @media (max-width:600px){.stats{grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}.stat{padding:8px 10px}.stat .l{font-size:11px}.stat .v{font-size:18px}.stat .v.sm{font-size:12px}}
 </style>
 </head>
@@ -419,12 +406,6 @@ button.rf{background:var(--accent);color:#fff;border:0;border-radius:8px;padding
 
   <div class="stalebar" id="stalebar" style="display:none"></div>
 
-  <div class="ptabs" role="tablist">
-    <button class="ptab on" data-page="games">Games</button>
-    <button class="ptab" data-page="rank">Power rankings</button>
-  </div>
-
-  <div id="page-games">
   <div class="stats" id="stats"></div>
   <div class="bar">
     <select class="chip" id="dateSel" aria-label="Date"></select>
@@ -471,19 +452,6 @@ button.rf{background:var(--accent);color:#fff;border:0;border-radius:8px;padding
     <input class="search" id="tq" placeholder="Search notes">
   </div>
   <div class="tgrid" id="teams"></div>
-  </div>
-
-  <div id="page-rank" hidden>
-    <div class="bar">
-      <input class="search" id="rq" placeholder="Search team">
-      <select class="chip" id="rconf" aria-label="Conference"><option value="">All conferences</option></select>
-      <button class="chip" id="rtoday">Playing on <span id="rdate"></span></button>
-    </div>
-    <div class="rkbox"><table class="rktable">
-      <thead id="rhead"></thead><tbody id="rrows"></tbody>
-    </table><div class="empty" id="rempty" style="display:none"></div></div>
-    <p class="small" style="margin-top:8px" id="rnote"></p>
-  </div>
 
   <p class="foot" id="foot"></p>
 </div>
@@ -525,11 +493,11 @@ var DATA = __DATA__;
   var games=DATA.games||[];
   var store={};try{store=JSON.parse(localStorage.getItem("ncaab_dash")||"{}")||{}}catch(e){}
   var st=store.st||"all", ex=store.ex||{}, conf=store.conf||"", q="", tn="today", tq="";
-  var moreOpen=!!store.more, page=store.page==="rank"?"rank":"games", rq="", rconf="", rtoday=false;
+  var moreOpen=!!store.more;
   var dates=Object.keys(games.reduce(function(a,g){a[g.game_date]=1;return a},{})).sort().reverse();
   var date=dates.indexOf(DATA.today)>=0?DATA.today:(dates[0]||DATA.today);
   var sort={k:"tip",d:1}, open={};
-  function save(){try{localStorage.setItem("ncaab_dash",JSON.stringify({st:st,ex:ex,conf:conf,more:moreOpen,page:page}))}catch(e){}}
+  function save(){try{localStorage.setItem("ncaab_dash",JSON.stringify({st:st,ex:ex,conf:conf,more:moreOpen}))}catch(e){}}
 
   function tipMs(g){var t=Date.parse(g.tip_et||"");return isNaN(t)?null:t}
   function status(g){if(g.result||g.state==="post")return "final";if(g.closed_at)return "closed";var t=tipMs(g);return t!==null&&t<=Date.now()?"closed":"upcoming"}
@@ -671,41 +639,9 @@ var DATA = __DATA__;
       return row;
     }).join("");
     renderTeams(day);
-    renderRank(day);
-    document.querySelectorAll("[data-page]").forEach(function(b){b.classList.toggle("on",b.dataset.page===page)});
-    $("page-games").hidden=page!=="games";$("page-rank").hidden=page!=="rank";
     save();
   }
 
-  function renderRank(day){
-    var list=DATA.bpi||[];
-    var plays={};
-    day.forEach(function(g){
-      if(g.away_bpi)plays[g.away_bpi.id]="@ "+(g.home_name||g.home)+" · "+tipLabel(g.tip_et);
-      if(g.home_bpi)plays[g.home_bpi.id]="vs "+(g.away_name||g.away)+" · "+tipLabel(g.tip_et);
-    });
-    var cs={};list.forEach(function(t){if(t.conf)cs[t.conf]=1});
-    $("rconf").innerHTML="<option value=''>All conferences</option>"+Object.keys(cs).sort().map(function(c){return "<option>"+esc(c)+"</option>"}).join("");
-    $("rconf").value=rconf;
-    $("rdate").textContent=dayLabel(date);
-    $("rtoday").classList.toggle("on",rtoday);
-    var rows=list.filter(function(t){
-      if(rconf&&t.conf!==rconf)return false;
-      if(rtoday&&!plays[t.id])return false;
-      if(rq&&(t.name+" "+t.short+" "+t.abbr).toLowerCase().indexOf(rq)<0)return false;
-      return true;
-    });
-    $("rhead").innerHTML="<tr><th>Rank</th><th>Team</th><th class='hide-sm'>Conf</th><th>W–L</th><th>BPI</th><th class='hide-sm'>Off</th><th class='hide-sm'>Def</th><th>On "+esc(dayLabel(date).replace(/,.*$/,"").replace(" (today)",""))+"</th></tr>";
-    $("rrows").innerHTML=rows.map(function(t){
-      return "<tr"+(plays[t.id]?" class='play'":"")+"><td class='n'><strong>"+t.rank+"</strong></td><td>"+esc(t.name)+"</td><td class='hide-sm dim'>"+esc(t.conf)+"</td>"+
-        "<td class='n'>"+(t.w!=null?t.w+"–"+t.l:"–")+"</td><td class='n'><strong>"+d1(t.bpi)+"</strong></td><td class='n hide-sm'>"+d1(t.off)+"</td><td class='n hide-sm'>"+d1(t.def)+"</td>"+
-        "<td class='small'>"+esc(plays[t.id]||"")+"</td></tr>";
-    }).join("");
-    $("rempty").style.display=rows.length?"none":"block";
-    $("rempty").textContent=list.length?"No teams match.":"Rankings aren't loaded yet. They'll appear after the next update.";
-    var up=DATA.bpi_updated?String(DATA.bpi_updated).replace("T"," ").slice(0,16)+" ET":"–";
-    $("rnote").textContent="ESPN Basketball Power Index (BPI). BPI = points better than an average team on a neutral court; Off and Def are each side's share. Highlighted teams play on the date picked under Games. Fetched "+up+".";
-  }
 
   function noteList(text){
     if(!text)return "<p class='none'>No notes yet.</p>";
@@ -774,13 +710,10 @@ var DATA = __DATA__;
     if(t.dataset&&t.dataset.st){st=t.dataset.st;render();return}
     if(t.dataset&&t.dataset.x){ex[t.dataset.x]=!ex[t.dataset.x];render();return}
     if(t.dataset&&t.dataset.tn){tn=t.dataset.tn;render();return}
-    if(t.dataset&&t.dataset.page){page=t.dataset.page;render();return}
   });
   $("clear").onclick=function(){st="all";ex={};conf="";q="";rng={sp:null,tt:null};$("q").value="";render()};
   $("moreBtn").onclick=function(){moreOpen=!moreOpen;render()};
-  $("rq").oninput=function(){rq=this.value.trim().toLowerCase();render()};
-  $("rconf").onchange=function(){rconf=this.value;render()};
-  $("rtoday").onclick=function(){rtoday=!rtoday;render()};
+
   ["sp","tt"].forEach(function(k){
     $(k+"-lo").oninput=function(){var hi=+$(k+"-hi").value;setRange(k,Math.min(+this.value,hi),hi)};
     $(k+"-hi").oninput=function(){var lo=+$(k+"-lo").value;setRange(k,lo,Math.max(+this.value,lo))};
